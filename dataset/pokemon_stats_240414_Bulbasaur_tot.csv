@@ -1,0 +1,1026 @@
+NumNacional,Nombre,NombreJapo,Evoluciona,Generación,Categoría,Tipos,Habilidad,Hab.Oculta,Peso,Altura,GrupoHuevo,Sexo,Color,PS_Max,At_Max,Def_Max,AtEsp_Max,DefEsp_Max,Vel_Max,PE_PS,PE_At,PE_Def,PE_AtEsp,PE_DefEsp,PE_Vel
+1,Bulbasaur,フシギダネ (Fushigidane),1,Primera,Semilla,planta|veneno,Espesura,Clorofila,"6,9","0,7",Monstruo|Planta,"87,5%|12,5%",Verde,294,216,216,251,251,207,0,0,0,1,0,0
+2,Ivysaur,フシギソウ (Fushigisou),1,Primera,Semilla,planta|veneno,Espesura,Clorofila,13,1,Monstruo|Planta,"87,5%|12,5%",Verde,324,245,247,284,284,240,0,0,0,1,1,0
+3,Venusaur,フシギバナ (Fushigibana),0,Primera,Semilla,planta|veneno,Espesura,Clorofila,100,2,Monstruo|Planta,"87,5%|12,5%",Verde,364,289,291,328,328,284,0,0,0,2,1,0
+4,Charmander,ヒトカゲ (Hitokage),1,Primera,Lagartija,fuego,Mar llamas,Poder solar,"8,5","0,6",Monstruo|Dragón,"87,5%|12,5%",Rojo,282,223,203,240,218,251,0,0,0,0,0,1
+5,Charmeleon,リザード (Lizardo),1,Primera,Llama,fuego,Mar llamas,Poder solar,19,"1,1",Monstruo|Dragón,"87,5%|12,5%",Rojo,320,249,236,284,251,284,0,0,0,1,0,1
+6,Charizard,リザードン (Lizardon),0,Primera,Llama,fuego|volador,Mar llamas,Poder solar,"90,5","1,7",Monstruo|Dragón,"87,5%|12,5%",Rojo|Negro,360,293,280,348,295,328,0,0,0,3,0,0
+7,Squirtle,ゼニガメ (Zenigame),1,Primera,Tortuguita,agua,Torrente,Cura lluvia,9,"0,5",Monstruo|Agua 1,"87,5%|12,5%",Azul,292,214,251,218,249,203,0,0,1,0,0,0
+8,Wartortle,カメール (Kameil),1,Primera,Tortuga,agua,Torrente,Cura lluvia,"22,5",1,Monstruo|Agua 1,"87,5%|12,5%",Azul,322,247,284,251,284,236,0,0,1,0,1,0
+9,Blastoise,カメックス (Kamex),0,Primera,Armazón2,agua,Torrente,Cura lluvia,"85,5","1,6",Monstruo|Agua 1,"87,5%|12,5%",Azul,362,291,328,295,339,280,0,0,0,0,3,0
+10,Caterpie,キャタピー (Caterpie),1,Primera,Gusano,bicho,Polvo escudo,Fuga,"2,9","0,3",Bicho,50%|50%,Verde,294,174,185,152,152,207,1,0,0,0,0,0
+11,Metapod,トランセル (Transel),1,Primera,Capullo,bicho,Mudar,,"9,9","0,7",Bicho,50%|50%,Verde,304,152,229,163,163,174,0,0,2,0,0,0
+12,Butterfree,バタフリー (Butterfree),0,Primera,Mariposa,bicho|volador,Ojo compuesto,Cromolente,32,"1,1",Bicho,50%|50%,Blanco,324,207,218,306,284,262,0,0,0,2,1,0
+13,Weedle,ビードル (Beedle),1,Primera,Oruga,bicho|veneno,Polvo escudo,Fuga,"3,2","0,3",Bicho,50%|50%,Marrón,284,185,174,152,152,218,0,0,0,0,0,1
+14,Kakuna,コクーン (Cocoon),1,Primera,Capullo,bicho|veneno,Mudar,,10,"0,6",Bicho,50%|50%,Amarillo,294,163,218,163,163,185,0,0,2,0,0,0
+15,Beedrill,スピアー (Spear),0,Primera,Abeja Veneno2,bicho|veneno,Enjambre,Francotirador,"29,5",1,Bicho,50%|50%,Amarillo,334,284,196,207,284,273,0,2,0,0,1,0
+16,Pidgey,ポッポ (Poppo),1,Primera,Pajarito,normal|volador,Vista lince|Tumbos2,Sacapecho,"1,8","0,3",Volador,50%|50%,Marrón,284,207,196,185,185,232,0,0,0,0,0,1
+17,Pidgeotto,ピジョン (Pigeon),1,Primera,Pájaro,normal|volador,Vista lince|Tumbos2,Sacapecho,30,"1,1",Volador,50%|50%,Marrón,330,240,229,218,218,265,0,0,0,0,0,2
+18,Pidgeot,ピジョット (Pigeot),0,Primera,Pájaro,normal|volador,Vista lince|Tumbos2,Sacapecho,"39,5","1,5",Volador,50%|50%,Marrón,370,284,273,262,262,309,0,0,0,0,0,3
+19,Rattata,コラッタ (Koratta),1,Primera,Ratón2,normal,Fuga|Agallas,Entusiasmo,"3,5","0,3",Campo,50%|50%,Morado,264,232,185,163,185,267,0,0,0,0,0,1
+20,Raticate,ラッタ (Ratta),0,Primera,Ratón2,normal,Fuga|Agallas,Entusiasmo,"18,5","0,7",Campo,50%|50%,Marrón,314,287,240,218,262,322,0,0,0,0,0,2
+21,Spearow,オニスズメ (Onisuzume),1,Primera,Pajarito,normal|volador,Vista lince,Francotirador,2,"0,3",Volador,50%|50%,Marrón,284,240,174,177,177,262,0,0,0,0,0,1
+22,Fearow,オニドリル (Onidrill),0,Primera,Pico,normal|volador,Vista lince,Francotirador,38,"1,2",Volador,50%|50%,Marrón,334,306,251,243,243,328,0,0,0,0,0,2
+23,Ekans,アーボ (Arbo),1,Primera,Serpiente,veneno,Intimidación|Mudar,Nerviosismo,"6,9",2,Campo|Dragón,50%|50%,Morado,274,240,205,196,227,229,0,1,0,0,0,0
+24,Arbok,アーボック (Arbok),0,Primera,Cobra,veneno,Intimidación|Mudar,Nerviosismo,65,"3,5",Campo|Dragón,50%|50%,Morado,324,295,260,251,282,284,0,2,0,0,0,0
+25,Pikachu,ピカチュウ (Pikachu),1,Primera,Ratón,eléctrico,Electricidad estática,Pararrayos,6,"0,4",Campo|Hada,50%|50%,Amarillo,274,229,196,218,218,306,0,0,0,0,0,2
+26,Raichu,ライチュウ (Raichu),1,Primera,Ratón,eléctrico,Electricidad estática,Pararrayos,30,"0,8",Campo|Hada,50%|50%,Amarillo,324,306,229,306,284,350,0,0,0,0,0,3
+27,Sandshrew,サンド (Sand),1,Primera,Ratón,tierra,Velo arena,Ímpetu arena,12,"0,6",Campo,50%|50%,Amarillo,304,273,295,152,174,196,0,0,1,0,0,0
+28,Sandslash,サンドパン (Sandpan),0,Primera,Ratón,tierra,Velo arena,Ímpetu arena,"29,5",1,Campo,50%|50%,Amarillo,354,328,350,207,229,251,0,0,2,0,0,0
+29,Nidoran♀,ニドラン♀ (Nidoran♀),1,Primera,Pin veneno,veneno,Punto tóxico|Rivalidad2,Entusiasmo,7,"0,4",Monstruo|Campo,0%|100%,Azul,314,212,223,196,196,199,1,0,0,0,0,0
+30,Nidorina,ニドリーナ (Nidorina),1,Primera,Pin veneno,veneno,Punto tóxico|Rivalidad2,Entusiasmo,20,"0,8",Desconocido,0%|100%,Azul,344,245,256,229,229,232,2,0,0,0,0,0
+31,Nidoqueen,ニドクイン (Nidoqueen),0,Primera,Taladro,veneno|tierra,Punto tóxico|Rivalidad2,Potencia bruta,60,"1,3",Desconocido,0%|100%,Azul,384,311,300,273,295,276,3,0,0,0,0,0
+32,Nidoran♂,ニドラン♂ (Nidoran♂),1,Primera,Pin veneno,veneno,Punto tóxico|Rivalidad2,Entusiasmo,9,"0,5",Monstruo|Campo,100%|0%,Morado,296,234,196,196,196,218,0,1,0,0,0,0
+33,Nidorino,ニドリーノ (Nidorino),1,Primera,Pin veneno,veneno,Punto tóxico|Rivalidad2,Entusiasmo,"19,5","0,9",Monstruo|Campo,100%|0%,Morado,326,267,234,229,229,251,0,2,0,0,0,0
+34,Nidoking,ニドキング (Nidoking),0,Primera,Taladro,veneno|tierra,Punto tóxico|Rivalidad2,Potencia bruta,62,"1,4",Monstruo|Campo,100%|0%,Morado,366,333,278,295,273,295,0,3,0,0,0,0
+35,Clefairy,ピッピ (Pippi),1,Primera,Hada,hada,Gran encanto|Muro mágico2,Compiescolta,"7,5","0,6",Hada,25%|75%,Rosa,344,207,214,240,251,185,2,0,0,0,0,0
+36,Clefable,ピクシー (Pixy),0,Primera,Hada,hada,Gran encanto|Muro mágico3,Ignorante,40,"1,3",Hada,25%|75%,Rosa,394,262,269,317,306,240,3,0,0,0,0,0
+37,Vulpix,ロコン (Rokon),1,Primera,Zorro,fuego,Absorbe fuego,Sequía,"9,9","0,6",Campo,25%|75%,Marrón,280,199,196,218,251,251,0,0,0,0,0,1
+38,Ninetales,キュウコン (Kyukon),0,Primera,Zorro,fuego,Absorbe fuego,Sequía,"19,9","1,1",Campo,25%|75%,Amarillo,350,276,273,287,328,328,0,0,0,0,1,1
+39,Jigglypuff,プリン (Purin),1,Primera,Globo,normal|hada,Gran encanto|Tenacidad3,Compiescolta,"5,5","0,5",Hada,25%|75%,Rosa,434,207,152,207,163,152,2,0,0,0,0,0
+40,Wigglytuff,プクリン (Pukurin),0,Primera,Globo,normal|hada,Gran encanto|Tenacidad2,Cacheo,12,1,Hada,25%|75%,Rosa,484,262,207,295,218,207,3,0,0,0,0,0
+41,Zubat,ズバット (Zubat),1,Primera,Murciélago,veneno|volador,Fuerza mental,Allanamiento,"7,5","0,8",Volador,50%|50%,Morado,284,207,185,174,196,229,0,0,0,0,0,1
+42,Golbat,ゴルバット (Golbat),1,Primera,Murciélago,veneno|volador,Fuerza mental,Allanamiento,55,"1,6",Volador,50%|50%,Morado,354,284,262,251,273,306,0,0,0,0,0,2
+43,Oddish,ナゾノクサ (Nazonokusa),1,Primera,Hierbajo2,planta|veneno,Clorofila,Fuga,"5,4","0,5",Planta,50%|50%,Azul,294,218,229,273,251,174,0,0,0,1,0,0
+44,Gloom,クサイハナ (Kusaihana),1,Primera,Hierbajo2,planta|veneno,Clorofila,Hedor,"8,6","0,8",Planta,50%|50%,Azul,324,251,262,295,273,196,0,0,0,2,0,0
+45,Vileplume,ラフレシア (Ruffresia),0,Primera,Flor,planta|veneno,Clorofila,Efecto espora,"18,6","1,2",Planta,50%|50%,Rojo,354,284,295,350,306,218,0,0,0,3,0,0
+46,Paras,パラス (Paras),1,Primera,Hongo,bicho|planta,Efecto espora|Piel seca2,Humedad,"5,4","0,3",Bicho|Planta,50%|50%,Rojo,274,262,229,207,229,163,0,1,0,0,0,0
+47,Parasect,パラセクト (Parasect),0,Primera,Hongo,bicho|planta,Efecto espora|Piel seca2,Humedad,"29,5",1,Bicho|Planta,50%|50%,Rojo,324,317,284,240,284,174,0,2,1,0,0,0
+48,Venonat,コンパン (Kongpang),1,Primera,Insecto,bicho|veneno,Ojo compuesto|Cromolente2,Fuga,30,1,Bicho,50%|50%,Morado,324,229,218,196,229,207,0,0,0,0,1,0
+49,Venomoth,モルフォン (Morphon),0,Primera,Polilla Venenosa2,bicho|veneno,Polvo escudo|Cromolente3,Piel milagro,"12,5","1,5",Bicho,50%|50%,Morado,344,251,240,306,273,306,0,0,0,1,0,1
+50,Diglett,ディグダ (Digda),1,Primera,Topo,tierra,Velo arena|Trampa arena,Poder arena,"0,8","0,2",Campo,50%|50%,Marrón,224,229,163,185,207,317,0,0,0,0,0,1
+51,Dugtrio,ダグトリオ (Dugtrio),0,Primera,Topo,tierra,Velo arena|Trampa arena,Poder arena,"33,3","0,7",Campo,50%|50%,Marrón,274,328,218,218,262,372,0,0,0,0,0,2
+52,Meowth,ニャース (Nyarth),1,Primera,Gato araña,normal,Recogida|Experto2,Nerviosismo,"4,2","0,4",Campo,50%|50%,Amarillo,284,207,185,196,196,306,0,0,0,0,0,1
+53,Persian,ペルシアン (Persian),0,Primera,Gato fino,normal,Flexibilidad|Experto2,Nerviosismo,32,1,Campo,50%|50%,Amarillo,334,262,240,251,251,361,0,0,0,0,0,2
+54,Psyduck,コダック (Koduck),1,Primera,Pato,agua,Humedad|Aclimatación,Nado rápido,"19,6","0,8",Campo|Agua 1,50%|50%,Amarillo,304,223,214,251,218,229,0,0,0,1,0,0
+55,Golduck,ゴルダック (Golduck),0,Primera,Pato,agua,Humedad|Aclimatación,Nado rápido,"76,6","1,7",Agua 1|Campo,50%|50%,Azul,364,289,280,317,284,295,0,0,0,2,0,0
+56,Mankey,マンキー (Mankey),1,Primera,Mono cerdo,lucha,Espíritu vital|Irascible2,Competitivo,28,"0,5",Campo,50%|50%,Marrón,284,284,185,185,207,262,0,1,0,0,0,0
+57,Primeape,オコリザル (Okorizaru),1,Primera,Mono cerdo,lucha,Espíritu vital|Irascible2,Competitivo,32,1,Campo,50%|50%,Marrón,334,339,240,240,262,317,0,2,0,0,0,0
+58,Growlithe,ガーディ (Gardie),1,Primera,Perrito,fuego,Intimidación|Absorbe fuego,Justiciero,19,"0,7",Campo,75%|25%,Marrón,314,262,207,262,218,240,0,1,0,0,0,0
+59,Arcanine,ウインディ (Windie),0,Primera,Leyenda1,fuego,Intimidación|Absorbe fuego,Justiciero,155,"1,9",Campo,75%|25%,Marrón,384,350,284,328,284,317,0,2,0,0,0,0
+60,Poliwag,ニョロモ (Nyoromo),1,Primera,Renacuajo,agua,Absorbe agua|Humedad,Nado rápido,"12,4","0,6",Agua 1,50%|50%,Azul,284,218,196,196,196,306,0,0,0,0,0,1
+61,Poliwhirl,ニョロゾ (Nyorozo),1,Primera,Renacuajo,agua,Absorbe agua|Humedad,Nado rápido,20,1,Agua 1,50%|50%,Azul,334,251,251,218,218,306,0,0,0,0,0,2
+62,Poliwrath,ニョロボン (Nyorobon),0,Primera,Renacuajo,agua|lucha,Absorbe agua|Humedad,Nado rápido,54,"1,3",Agua 1,50%|50%,Azul,384,317,317,262,306,262,0,0,3,0,0,0
+63,Abra,ケーシィ (Casey),1,Primera,Psi,psíquico,Sincronía|Fuerza mental,Muro mágico,"19,5","0,9",Humanoide,75%|25%,Marrón,254,152,141,339,229,306,0,0,0,1,0,0
+64,Kadabra,ユンゲラー (Yungerer),1,Primera,Psi,psíquico,Fuerza mental|Sincronía,Muro mágico,"56,5","1,3",Humanoide,75%|25%,Marrón,284,185,174,372,262,339,0,0,0,2,0,0
+65,Alakazam,フーディン (Foodin),0,Primera,Psi,psíquico,Fuerza mental|Sincronía,Muro mágico,48,"1,5",Humanoide,75%|25%,Marrón,314,218,207,405,317,372,0,0,0,3,0,0
+66,Machop,ワンリキー (Wanriky),1,Primera,Superpoder,lucha,Agallas|Indefenso1,Impasible,"19,5","0,8",Humanoide,75%|25%,Gris,344,284,218,185,185,185,0,1,0,0,0,0
+67,Machoke,ゴーリキー (Goriky),1,Primera,Superpoder,lucha,Agallas|Indefenso1,Impasible,"70,5","1,5",Humanoide,75%|25%,Gris,364,328,262,218,240,207,0,2,0,0,0,0
+68,Machamp,カイリキー (Kairiky),0,Primera,Superpoder,lucha,Agallas|Indefenso1,Impasible,130,"1,6",Humanoide,75%|25%,Gris,384,394,284,251,295,229,0,3,0,0,0,0
+69,Bellsprout,マダツボミ (Madatsubomi),1,Primera,Flor,planta|veneno,Clorofila,Gula,4,"0,7",Planta,50%|50%,Verde,304,273,185,262,174,196,0,1,0,0,0,0
+70,Weepinbell,ウツドン (Utsudon),1,Primera,Atrapamoscas1,planta|veneno,Clorofila,Gula,"6,4",1,Planta,50%|50%,Verde,334,306,218,295,207,229,0,2,0,0,0,0
+71,Victreebel,ウツボット (Utsubot),0,Primera,Atrapamoscas1,planta|veneno,Clorofila,Gula,"15,5","1,7",Planta,50%|50%,Verde,364,339,251,328,262,262,0,3,0,0,0,0
+72,Tentacool,メノクラゲ (Menokurage),1,Primera,Medusa,agua|veneno,Cuerpo puro|Viscosecreción,Cura lluvia,"45,5","0,9",Agua 3,50%|50%,Azul,284,196,185,218,328,262,0,0,0,0,1,0
+73,Tentacruel,ドククラゲ (Dokukurage),0,Primera,Medusa,agua|veneno,Cuerpo puro|Viscosecreción,Cura lluvia,55,"1,6",Agua 3,50%|50%,Azul,364,262,251,284,372,328,0,0,0,0,2,0
+74,Geodude,イシツブテ (Ishitsubute),1,Primera,Roca,roca|tierra,Cabeza roca|Robustez,Velo arena,20,"0,4",Mineral,50%|50%,Marrón,284,284,328,174,174,152,0,0,1,0,0,0
+75,Graveler,ゴローン (Golone),1,Primera,Roca,roca|tierra,Cabeza roca|Robustez,Velo arena,105,1,Mineral,50%|50%,Marrón,314,317,361,207,207,185,0,0,2,0,0,0
+76,Golem,ゴローニャ (Golonya),0,Primera,Megatón,roca|tierra,Cabeza roca|Robustez,Velo arena,300,"1,4",Mineral,50%|50%,Marrón,364,350,394,229,251,207,0,0,3,0,0,0
+77,Ponyta,ポニータ (Ponyta),1,Primera,Caballo Fuego1,fuego,Fuga|Absorbe fuego,Cuerpo llama,30,1,Campo,50%|50%,Amarillo,304,295,229,251,251,306,0,0,0,0,0,1
+78,Rapidash,ギャロップ (Gallop),0,Primera,Caballo Fuego1,fuego,Fuga|Absorbe fuego,Cuerpo llama,95,"1,7",Campo,50%|50%,Amarillo,334,328,262,284,284,339,0,0,0,0,0,2
+79,Slowpoke,ヤドン (Yadon),1,Primera,Atontado,agua|psíquico,Despiste|Ritmo propio,Regeneración,36,"1,2",Monstruo|Agua 1,50%|50%,Rosa,384,251,251,196,196,141,1,0,0,0,0,0
+80,Slowbro,ヤドラン (Yadoran),0,Primera,Ermitaño,agua|psíquico,Despiste|Ritmo propio,Regeneración,"78,5","1,6",Monstruo|Agua 1,50%|50%,Rosa,394,273,350,328,284,174,0,0,2,0,0,0
+81,Magnemite,コイル (Coil),1,Primera,Imán,eléctrico|acero,Imán|Robustez,Cálculo final,6,"0,3",Mineral,Sin sexo,Gris,254,185,262,317,229,207,0,0,0,1,0,0
+82,Magneton,レアコイル (Rarecoil),1,Primera,Imán,eléctrico|acero,Imán|Robustez,Cálculo final,60,1,Mineral,Sin sexo,Gris,304,240,317,372,262,262,0,0,0,2,0,0
+83,Farfetch'd,カモネギ (Kamonegi),1,Primera,Pato Salvaje1,normal|volador,Vista lince|Fuerza mental,Competitivo,15,"0,8",Volador|Campo,50%|50%,Marrón,308,306,229,236,245,240,0,1,0,0,0,0
+84,Doduo,ドードー (Dodo),1,Primera,Ave gemela,normal|volador,Fuga|Madrugar,Tumbos,"39,2","1,4",Volador,50%|50%,Marrón,274,295,207,185,185,273,0,1,0,0,0,0
+85,Dodrio,ドードリオ (Dodorio),0,Primera,Ave triple,normal|volador,Fuga|Madrugar,Tumbos,"85,2","1,8",Volador,50%|50%,Marrón,324,350,262,240,240,328,0,2,0,0,0,0
+86,Seel,パウワウ (Pawou),1,Primera,León Marino1,agua,Sebo|Hidratación2,Gélido,90,"1,1",Agua 1|Campo,50%|50%,Blanco,334,207,229,207,262,207,0,0,0,0,1,0
+87,Dewgong,ジュゴン (Jugon),0,Primera,León Marino1,agua|hielo,Sebo|Hidratación2,Gélido,120,"1,7",Agua 1|Campo,50%|50%,Blanco,384,262,284,262,317,262,0,0,0,0,2,0
+88,Grimer,ベトベター (Betbeter),1,Primera,Lodo,veneno,Hedor|Viscosidad,Toque tóxico,30,"0,9",Amorfo,50%|50%,Morado,364,284,218,196,218,163,1,0,0,0,0,0
+89,Muk,ベトベトン (Betbeton),0,Primera,Lodo,veneno,Hedor|Viscosidad,Toque tóxico,30,"1,2",Amorfo,50%|50%,Morado,414,339,273,251,328,218,1,1,0,0,0,0
+90,Shellder,シェルダー (Shellder),1,Primera,Bivalvo,agua,Caparazón|Encadenado1,Funda,4,"0,3",Agua 3,50%|50%,Morado,264,251,328,207,163,196,0,0,1,0,0,0
+91,Cloyster,パルシェン (Parshen),0,Primera,Bivalvo,agua|hielo,Caparazón|Encadenado1,Funda,"132,5","1,5",Agua 3,50%|50%,Morado,304,317,504,295,207,262,0,0,2,0,0,0
+92,Gastly,ゴース (Ghos),1,Primera,Gas,fantasma|veneno,Levitación,,"0,1","1,3",Amorfo,50%|50%,Morado,264,185,174,328,185,284,0,0,0,1,0,0
+93,Haunter,ゴースト (Ghost),0,Primera,Gas,fantasma|veneno,Levitación,,"0,1","1,6",Amorfo,50%|50%,Morado,294,218,207,361,229,317,0,0,0,2,0,0
+94,Gengar,ゲンガー (Gangar),0,Primera,Sombra,fantasma|veneno,Levitación2|Cuerpo maldito1,,"40,5","1,5",Amorfo,50%|50%,Morado,324,251,240,394,273,350,0,0,0,3,0,0
+95,Onix,イワーク (Iwark),1,Primera,Serpiente Roca1,roca|tierra,Cabeza roca|Robustez,Armadura frágil,210,"8,8",Mineral,50%|50%,Gris,274,207,460,174,207,262,0,0,1,0,0,0
+96,Drowzee,スリープ (Sleepe),1,Primera,Hipnosis,psíquico,Insomnio|Alerta1,Fuerza mental,"32,4",1,Humanoide,50%|50%,Amarillo,324,214,207,203,306,201,0,0,0,0,1,0
+97,Hypno,スリーパー (Sleeper),1,Primera,Hipnosis,psíquico,Insomnio|Alerta1,Fuerza mental,"75,6","1,6",Humanoide,50%|50%,Amarillo,374,269,262,269,361,256,0,0,0,0,2,0
+98,Krabby,クラブ (Crab),1,Primera,Cangrejo,agua,Corte fuerte|Caparazón,Potencia bruta,"6,5","0,4",Agua 3,50%|50%,Rojo,264,339,306,163,163,218,0,1,0,0,0,0
+99,Kingler,キングラー (Kingler),0,Primera,Tenaza,agua,Corte fuerte|Caparazón,Potencia bruta,60,"1,3",Agua 3,50%|50%,Rojo,314,394,361,218,218,273,0,2,0,0,0,0
+100,Voltorb,ビリリダマ (Biriridama),1,Primera,Bola,eléctrico,Insonorizar|Electricidad estática,Detonación,"10,4","0,5",Mineral,Sin sexo,Rojo,284,174,218,229,229,328,0,0,0,0,0,1
+101,Electrode,マルマイン (Marumine),0,Primera,Bola,eléctrico,Insonorizar|Electricidad estática,Detonación,"66,6","1,2",Mineral,Sin sexo,Rojo,324,218,262,284,284,438,0,0,0,0,0,2
+102,Exeggcute,タマタマ (Tamatama),1,Primera,Huevo,planta|psíquico,Clorofila,Cosecha,"2,5","0,4",Planta,50%|50%,Rosa,324,196,284,240,207,196,0,0,1,0,0,0
+103,Exeggutor,ナッシー (Nassy),0,Primera,Coco,planta|psíquico,Clorofila,Cosecha,120,2,Planta,50%|50%,Amarillo,394,317,295,383,273,229,0,0,0,2,0,0
+104,Cubone,カラカラ (Karakara),1,Primera,Solitario,tierra,Cabeza roca|Pararrayos,Armadura batalla,"6,5","0,4",Monstruo,50%|50%,Marrón,304,218,317,196,218,185,0,0,1,0,0,0
+105,Marowak,ガラガラ (Garagara),1,Primera,Apilahueso,tierra,Cabeza roca|Pararrayos,Armadura batalla,45,1,Monstruo,50%|50%,Marrón,324,284,350,218,284,207,0,0,2,0,0,0
+106,Hitmonlee,サワムラー (Sawamular),0,Primera,Patada1,lucha,Flexibilidad|Audaz2,Liviano,"49,8","1,5",Humanoide,100%|0%,Marrón,304,372,225,185,350,300,0,2,0,0,0,0
+107,Hitmonchan,エビワラー (Ebiwalar),0,Primera,Puñetazo1,lucha,Vista lince|Puño férreo2,Fuerza mental,"50,2","1,4",Humanoide,100%|0%,Marrón,304,339,282,185,350,276,0,0,0,0,2,0
+108,Lickitung,ベロリンガ (Beroringa),1,Primera,Lametazo2,normal,Despiste|Ritmo propio,Aclimatación,"65,5","1,2",Monstruo,50%|50%,Rosa,384,229,273,240,273,174,2,0,0,0,0,0
+109,Koffing,ドガース (Dogars),1,Primera,Gas Venenoso1,veneno,Levitación|Gas reactivo2,Hedor3,1,"0,6",Amorfo,50%|50%,Morado,284,251,317,240,207,185,0,0,1,0,0,0
+110,Weezing,マタドガス (Matadogas),0,Primera,Gas Venenoso1,veneno,Levitación|Gas reactivo2,Hedor3,"9,5","1,2",Amorfo,50%|50%,Morado,334,306,372,295,262,240,0,0,2,0,0,0
+111,Rhyhorn,サイホーン (Sihorn),1,Primera,Punzante3,tierra|roca,Pararrayos|Cabeza roca,Audaz,115,1,Monstruo|Campo,50%|50%,Gris,364,295,317,174,174,163,0,0,1,0,0,0
+112,Rhydon,サイドン (Saidon),1,Primera,Taladro,tierra|roca,Pararrayos|Cabeza roca,Audaz,120,"1,9",Monstruo|Campo,50%|50%,Gris,414,394,372,207,207,196,0,2,0,0,0,0
+113,Chansey,ラッキー (Lucky),1,Primera,Huevo,normal,Cura natural|Dicha,Alma cura,"34,6","1,1",Hada,0%|100%,Rosa,704,119,119,185,339,218,2,0,0,0,0,0
+114,Tangela,モンジャラ (Monjara),1,Primera,Enredadera,planta,Clorofila|Defensa hoja2,Regeneración,35,1,Planta,50%|50%,Azul,334,229,361,328,196,240,0,0,1,0,0,0
+115,Kangaskhan,ガルーラ (Garura),1,Primera,Maternal1,normal,Madrugar|Intrépido2,Fuerza mental,80,"2,2",Monstruo,0%|100%,Marrón,414,317,284,196,284,306,2,0,0,0,0,0
+116,Horsea,タッツー (Tattu),1,Primera,Dragón,agua,Nado rápido|Francotirador1,Humedad,8,"0,4",Agua 1|Dragón,50%|50%,Azul,264,196,262,262,163,240,0,0,0,1,0,0
+117,Seadra,シードラ (Seadra),1,Primera,Dragón,agua,Punto tóxico|Francotirador1,Humedad,25,"1,2",Agua 1|Dragón,50%|50%,Azul,314,251,317,317,207,295,0,0,1,1,0,0
+118,Goldeen,トサキント (Tosakinto),1,Primera,Pez color,agua,Nado rápido|Velo agua,Pararrayos,15,"0,6",Agua 2,50%|50%,Rojo,294,256,240,185,218,247,0,1,0,0,0,0
+119,Seaking,アズマオウ (Azumao),0,Primera,Pez color,agua,Nado rápido|Velo agua,Pararrayos,39,"1,3",Agua 2,50%|50%,Rojo,364,311,251,251,284,258,0,2,0,0,0,0
+120,Staryu,ヒトデマン (Hitodeman),1,Primera,Estrella1,agua,Iluminación|Cura natural,Cálculo final,"34,5","0,8",Agua 3,Sin sexo,Marrón,264,207,229,262,229,295,0,0,0,0,0,1
+121,Starmie,スターミー (Starmie),0,Primera,Misterioso,agua|psíquico,Iluminación|Cura natural,Cálculo final,80,"1,1",Agua 3,Sin sexo,Morado,324,273,295,328,295,361,0,0,0,0,0,2
+122,Mr. Mime,バリヤード (Barrierd),0,Primera,Barrera,psíquico|hada,Insonorizar|Filtro2,Experto,"54,5","1,3",Humanoide,50%|50%,Rosa,284,207,251,328,372,306,0,0,0,0,2,0
+123,Scyther,ストライク (Strike),1,Primera,Mantis,bicho|volador,Enjambre|Experto2,Impasible,56,"1,5",Bicho,50%|50%,Verde,344,350,284,229,284,339,0,1,0,0,0,0
+124,Jynx,ルージュラ (Rougela),0,Primera,Forma Humana1,hielo|psíquico,Despiste|Alerta2,Piel seca,"40,6","1,4",Humanoide,0%|100%,Rojo,334,218,185,361,317,317,0,0,0,2,0,0
+125,Electabuzz,エレブー (Eleboo),1,Primera,Eléctrico,eléctrico,Electricidad estática,Espíritu vital,30,"1,1",Humanoide,75%|25%,Amarillo,334,291,234,317,295,339,0,0,0,0,0,2
+126,Magmar,ブーバー (Boober),1,Primera,Escupefuego2,fuego,Cuerpo llama,Espíritu vital,"44,5","1,3",Humanoide,75%|25%,Rojo,334,317,234,328,295,313,0,0,0,2,0,0
+127,Pinsir,カイロス (Kailios),1,Primera,Escarabajo,bicho,Corte fuerte|Rompemoldes1,Autoestima,55,"1,5",Bicho,50%|50%,Marrón,334,383,328,229,262,295,0,2,0,0,0,0
+128,Tauros,ケンタロス (Kentauros),1,Primera,Toro Bravo,normal,Intimidación|Irascible1,Potencia bruta,"88,4","1,4",Campo,100%|0%,Marrón,354,328,317,196,262,350,0,1,0,0,0,1
+129,Magikarp,コイキング (Koiking),1,Primera,Pez,agua,Nado rápido,Cobardía,10,"0,9",Agua 2|Dragón,50%|50%,Rojo,244,130,229,141,152,284,0,0,0,0,0,1
+130,Gyarados,ギャラドス (Gyarados),0,Primera,Atrocidad,agua|volador,Intimidación,Autoestima,235,"6,5",Agua 2|Dragón,50%|50%,Azul,394,383,282,240,328,287,0,2,0,0,0,0
+131,Lapras,ラプラス (Laplace),1,Primera,Transporte,agua|hielo,Absorbe agua|Caparazón,Hidratación,220,"2,5",Monstruo|Agua 1,50%|50%,Azul,464,295,284,295,317,240,2,0,0,0,0,0
+132,Ditto,メタモン (Metamon),1,Primera,Transformación1,normal,Flexibilidad,Impostor,4,"0,3",Ditto,Sin sexo,Morado,300,214,214,214,214,214,1,0,0,0,0,0
+133,Eevee,イーブイ (Eievui),1,Primera,Evolución,normal,Fuga|Adaptable2,Anticipación,"6,5","0,3",Campo,"87,5%|12,5%",Marrón,314,229,218,207,251,229,0,0,0,0,1,0
+134,Vaporeon,シャワーズ (Showers),0,Primera,Burbuja,agua,Absorbe agua,Hidratación,29,1,Campo,"87,5%|12,5%",Azul,464,251,240,350,317,251,2,0,0,0,0,0
+135,Jolteon,サンダース (Thunders),0,Primera,Relámpago,eléctrico,Absorbe electricidad,Pies rápidos,"24,5","0,8",Campo,"87,5%|12,5%",Amarillo,334,251,240,350,317,394,0,0,0,0,0,2
+136,Flareon,ブースター (Booster),0,Primera,Llama,fuego,Absorbe fuego,Agallas,25,"0,9",Campo,"87,5%|12,5%",Rojo,334,394,240,317,350,251,0,2,0,0,0,0
+137,Porygon,ポリゴン (Porygon),1,Primera,Virtual,normal,Calco|Descarga2,Cálculo final,"36,5","0,8",Mineral,Sin sexo,Rosa,334,240,262,295,273,196,0,0,0,1,0,0
+138,Omanyte,オムナイト (Omnite),1,Primera,Espiral,roca|agua,Nado rápido|Caparazón,Armadura frágil,"7,5","0,4",Agua 1|Agua 3,"87,5%|12,5%",Azul,274,196,328,306,229,185,0,0,1,0,0,0
+139,Omastar,オムスター (Omstar),0,Primera,Espiral,roca|agua,Nado rápido|Caparazón,Armadura frágil,35,1,Agua 1|Agua 3,"87,5%|12,5%",Azul,344,240,383,361,262,229,0,0,2,0,0,0
+140,Kabuto,カブト (Kabuto),1,Primera,Armazón1,roca|agua,Armadura batalla|Nado rápido,Armadura frágil,"11,5","0,5",Agua 1|Agua 3,"87,5%|12,5%",Marrón,264,284,306,229,207,229,0,0,1,0,0,0
+141,Kabutops,カブトプス (Kabutops),0,Primera,Armazón1,roca|agua,Armadura batalla|Nado rápido,Armadura frágil,"40,5","1,3",Agua 1|Agua 3,"87,5%|12,5%",Marrón,324,361,339,251,262,284,0,2,0,0,0,0
+142,Aerodactyl,プテラ (Ptera),1,Primera,Fósil,roca|volador,Cabeza roca|Presión,Nerviosismo,59,"1,8",Volador,"87,5%|12,5%",Morado,364,339,251,240,273,394,0,0,0,0,0,2
+143,Snorlax,カビゴン (Kabigon),0,Primera,Dormir,normal,Sebo|Inmunidad,Gula,460,"2,1",Monstruo,"87,5%|12,5%",Negro,524,350,251,251,350,174,2,0,0,0,0,0
+144,Articuno,フリーザー (Freezer),1,Primera,Congelar,hielo|volador,Presión,Manto níveo,"55,4","1,7",Desconocido,Sin sexo,Azul,384,295,328,317,383,295,0,0,0,0,3,0
+145,Zapdos,サンダー (Thunder),1,Primera,Eléctrico,eléctrico|volador,Presión,Pararrayos2|Electricidad estática3,"52,6","1,6",Desconocido,Sin sexo,Amarillo,384,306,295,383,306,328,0,0,0,3,0,0
+146,Moltres,ファイヤー (Fire),1,Primera,Llama,fuego|volador,Presión,Cuerpo llama,60,2,Desconocido,Sin sexo,Amarillo,384,328,306,383,295,306,0,0,0,3,0,0
+147,Dratini,ミニリュウ (Miniryu),1,Primera,Dragón,dragón,Mudar,Escama especial,"3,3","1,8",Agua 1|Dragón,50%|50%,Azul,286,249,207,218,218,218,0,1,0,0,0,0
+148,Dragonair,ハクリュー (Hakuryu),1,Primera,Dragón,dragón,Mudar,Escama especial,"16,5",4,Agua 1|Dragón,50%|50%,Azul,326,293,251,262,262,262,0,2,0,0,0,0
+149,Dragonite,カイリュー (Kairyu),0,Primera,Dragón,dragón|volador,Fuerza mental,Multiescamas,210,"2,2",Agua 1|Dragón,50%|50%,Marrón,386,403,317,328,328,284,0,3,0,0,0,0
+150,Mewtwo,ミュウツー (Mewtwo),1,Primera,Genético,psíquico,Presión,Nerviosismo,122,2,Desconocido,Sin sexo,Morado,416,350,306,447,306,394,0,0,0,3,0,0
+151,Mew,ミュウ (Mew),1,Primera,Nueva Especie2,psíquico,Sincronía,,4,"0,4",Desconocido,Sin sexo,Rosa,404,328,328,328,328,328,3,0,0,0,0,0
+152,Chikorita,チコリータ (Chicorita),1,Segunda,Hoja,planta,Espesura,Defensa hoja,"6,4","0,9",Monstruo|Planta,"87,5%|12,5%",Verde,294,216,251,216,251,207,0,0,0,0,1,0
+153,Bayleef,ベイリーフ (Bayleaf),1,Segunda,Hoja,planta,Espesura,Defensa hoja,"15,8","1,2",Monstruo|Planta,"87,5%|12,5%",Verde,324,245,284,247,284,240,0,0,1,0,1,0
+154,Meganium,メガニウム (Meganium),0,Segunda,Hierba,planta,Espesura,Defensa hoja,"100,5","1,8",Monstruo|Planta,"87,5%|12,5%",Verde,364,289,328,291,328,284,0,0,1,0,2,0
+155,Cyndaquil,ヒノアラシ (Hinoarashi),1,Segunda,Ratón Fuego2,fuego,Mar llamas,Absorbe fuego,"7,9","0,5",Campo,"87,5%|12,5%",Amarillo,282,223,203,240,218,251,0,0,0,0,0,1
+156,Quilava,マグマラシ (Magmarashi),1,Segunda,Volcán,fuego,Mar llamas,Absorbe fuego,19,"0,9",Campo,"87,5%|12,5%",Amarillo,320,249,236,284,251,284,0,0,0,1,0,1
+157,Typhlosion,バクフーン (Bakphoon),0,Segunda,Volcán,fuego,Mar llamas,Absorbe fuego,"79,5","1,7",Campo,"87,5%|12,5%",Amarillo,360,293,280,348,295,328,0,0,0,3,0,0
+158,Totodile,ワニノコ (Waninoko),1,Segunda,Fauces1,agua,Torrente,Potencia bruta,"9,5","0,6",Monstruo|Agua 1,"87,5%|12,5%",Azul,304,251,249,205,214,203,0,1,0,0,0,0
+159,Croconaw,アリゲイツ (Alligates),1,Segunda,Fauces1,agua,Torrente,Potencia bruta,25,"1,1",Monstruo|Agua 1,"87,5%|12,5%",Azul,334,284,284,238,247,236,0,1,1,0,0,0
+160,Feraligatr,オーダイル (Ordile),0,Segunda,Fauces1,agua,Torrente,Potencia bruta,"88,8","2,3",Monstruo|Agua 1,"87,5%|12,5%",Azul,374,339,328,282,291,280,0,2,1,0,0,0
+161,Sentret,オタチ (Otachi),1,Segunda,Explorador,normal,Fuga|Vista lince,Cacheo,6,"0,8",Campo,50%|50%,Marrón,274,210,183,185,207,152,0,1,0,0,0,0
+162,Furret,オオタチ (Ootachi),0,Segunda,Alargado,normal,Fuga|Vista lince,Cacheo,"32,5","1,8",Campo,50%|50%,Marrón,374,276,249,207,229,306,0,0,0,0,0,2
+163,Hoothoot,ホーホー (Hoho),1,Segunda,Búho,normal|volador,Insomnio|Vista lince,Cromolente,"21,2","0,7",Volador,50%|50%,Marrón,324,174,174,188,232,218,1,0,0,0,0,0
+164,Noctowl,ヨルノズク (Yorunozuku),0,Segunda,Búho,normal|volador,Insomnio|Vista lince,Cromolente,"40,8","1,6",Volador,50%|50%,Marrón,404,218,218,276,320,262,2,0,0,0,0,0
+165,Ledyba,レディバ (Rediba),1,Segunda,5 Estrellas1,bicho|volador,Enjambre|Madrugar,Cobardía,"10,8",1,Bicho,50%|50%,Rojo,284,152,174,196,284,229,0,0,0,0,1,0
+166,Ledian,レディアン (Redian),0,Segunda,5 Estrellas1,bicho|volador,Enjambre|Madrugar,Puño férreo,"35,6","1,4",Bicho,50%|50%,Rojo,314,185,218,229,350,295,0,0,0,0,2,0
+167,Spinarak,イトマル (Itomaru),1,Segunda,Escupehilo1,bicho|veneno,Enjambre|Insomnio,Francotirador,"8,5","0,5",Bicho,50%|50%,Verde,284,240,196,196,196,174,0,1,0,0,0,0
+168,Ariados,アリアドス (Ariados),0,Segunda,Pata larga,bicho|veneno,Enjambre|Insomnio,Francotirador,"33,5","1,1",Bicho,50%|50%,Rojo,344,306,262,240,240,196,0,2,0,0,0,0
+169,Crobat,クロバット (Crobat),0,Segunda,Murciélago,veneno|volador,Fuerza mental,Allanamiento,75,"1,8",Volador,50%|50%,Morado,374,306,284,262,284,394,0,0,0,0,0,3
+170,Chinchou,チョンチー (Chonchie),1,Segunda,Rape,agua|eléctrico,Absorbe electricidad|Iluminación,Absorbe agua,12,"0,5",Agua 2,50%|50%,Azul,354,192,192,232,232,256,1,0,0,0,0,0
+171,Lanturn,ランターン (Lantern),0,Segunda,Luz,agua|eléctrico,Absorbe electricidad|Iluminación,Absorbe agua,"22,5","1,2",Agua 2,50%|50%,Azul,454,236,236,276,276,256,2,0,0,0,0,0
+172,Pichu,ピチュー (Pichu),1,Segunda,Ratoncito,eléctrico,Electricidad estática,Pararrayos,2,"0,3",Desconocido,50%|50%,Amarillo,244,196,141,185,185,240,0,0,0,0,0,1
+173,Cleffa,ピィ (Py),1,Segunda,Estrella1,hada,Gran encanto|Muro mágico3,Compiescolta,3,"0,3",Desconocido,25%|75%,Rosa,304,163,170,207,229,141,0,0,0,0,1,0
+174,Igglybuff,ププリン (Pupurin),1,Segunda,Globo,normal|hada,Gran encanto|Tenacidad2,Compiescolta,1,"0,3",Desconocido,25%|75%,Rosa,384,174,141,196,152,141,1,0,0,0,0,0
+175,Togepi,トゲピー (Togepi),1,Segunda,Bolapicuda2,hada,Entusiasmo|Dicha,Afortunado,"1,5","0,3",Desconocido,"87,5%|12,5%",Blanco,274,152,251,196,251,152,0,0,0,0,1,0
+176,Togetic,トゲチック (Togechick),1,Segunda,Felicidad,hada|volador,Entusiasmo|Dicha,Afortunado,"3,2","0,6",Volador|Hada,"87,5%|12,5%",Blanco,314,196,295,284,339,196,0,0,0,0,2,0
+177,Natu,ネイティ (Naty),1,Segunda,Pajarito,psíquico|volador,Madrugar|Sincronía,Espejo mágico,2,"0,2",Volador,50%|50%,Verde,284,218,207,262,207,262,0,0,0,1,0,0
+178,Xatu,ネイティオ (Natio),0,Segunda,Místico,psíquico|volador,Madrugar|Sincronía,Espejo mágico,15,"1,5",Volador,50%|50%,Verde,334,273,262,317,262,317,0,0,0,1,0,1
+179,Mareep,メリープ (Merriep),1,Segunda,Lana,eléctrico,Electricidad estática,Más,"7,8","0,6",Monstruo|Campo,50%|50%,Blanco,314,196,196,251,207,185,0,0,0,1,0,0
+180,Flaaffy,モココ (Mokoko),1,Segunda,Lana,eléctrico,Electricidad estática,Más,"13,3","0,8",Monstruo|Campo,50%|50%,Rosa,344,229,229,284,240,207,0,0,0,2,0,0
+181,Ampharos,デンリュウ (Denryu),0,Segunda,Luz,eléctrico,Electricidad estática,Más,"61,5","1,4",Monstruo|Campo,50%|50%,Amarillo,384,273,273,361,306,229,0,0,0,3,0,0
+182,Bellossom,キレイハナ (Kireihana),0,Segunda,Flor,planta,Clorofila,Alma cura,"5,8","0,4",Planta,50%|50%,Verde,354,284,317,306,328,218,0,0,0,0,3,0
+183,Marill,マリル (Maril),1,Segunda,Ratón Agua1,agua|hada,Sebo|Potencia,Herbívoro,"8,5","0,4",Agua 1|Hada,50%|50%,Azul,344,152,218,152,218,196,2,0,0,0,0,0
+184,Azumarill,マリルリ (Marilli),0,Segunda,Conejo Agua2,agua|hada,Sebo|Potencia,Herbívoro,"28,5","0,8",Agua 1|Hada,50%|50%,Azul,404,218,284,218,284,218,3,0,0,0,0,0
+185,Sudowoodo,ウソッキー (Usokkie),0,Segunda,Imitación,roca,Robustez|Cabeza roca,Cobardía,38,"1,2",Mineral,50%|50%,Marrón,344,328,361,174,251,174,0,0,2,0,0,0
+186,Politoed,ニョロトノ (Nyorotono),0,Segunda,Rana,agua,Absorbe agua|Humedad,Llovizna,"33,9","1,1",Agua 1,50%|50%,Verde,384,273,273,306,328,262,0,0,0,0,3,0
+187,Hoppip,ハネッコ (Hanecco),1,Segunda,Diente León1,planta|volador,Clorofila|Defensa hoja2,Allanamiento,"0,5","0,4",Hada|Planta,50%|50%,Rosa,274,185,196,185,229,218,0,0,0,0,1,0
+188,Skiploom,ポポッコ (Popocco),1,Segunda,Diente León1,planta|volador,Clorofila|Defensa hoja2,Allanamiento,1,"0,6",Hada|Planta,50%|50%,Verde,314,207,218,207,251,284,0,0,0,0,0,2
+189,Jumpluff,ワタッコ (Watacco),0,Segunda,Diente León1,planta|volador,Clorofila|Defensa hoja2,Allanamiento,3,"0,8",Hada|Planta,50%|50%,Azul,354,229,262,229,295,350,0,0,0,0,0,3
+190,Aipom,エイパム (Eipam),1,Segunda,Cola larga,normal,Fuga|Recogida,Encadenado,"11,5","0,8",Campo,50%|50%,Morado,314,262,229,196,229,295,0,0,0,0,0,1
+191,Sunkern,ヒマナッツ (Himanuts),1,Segunda,Semilla,planta,Clorofila|Poder solar1,Madrugar,"1,8","0,3",Planta,50%|50%,Amarillo,264,174,174,174,174,174,0,0,0,1,0,0
+192,Sunflora,キマワリ (Kimawari),0,Segunda,Sol,planta,Clorofila|Poder solar1,Madrugar,"8,5","0,8",Planta,50%|50%,Amarillo,354,273,229,339,295,174,0,0,0,2,0,0
+193,Yanma,ヤンヤンマ (Yanyanma),1,Segunda,Ala clara,bicho|volador,Impulso|Ojo compuesto,Cacheo,38,"1,2",Bicho,50%|50%,Rojo,334,251,207,273,207,317,0,0,0,0,0,12
+194,Wooper,ウパー (Upah),1,Segunda,Pez agua,agua|tierra,Humedad|Absorbe agua,Ignorante,"8,5","0,4",Agua 1|Campo,50%|50%,Azul,314,207,207,163,163,141,1,0,0,0,0,0
+195,Quagsire,ヌオー (Nuoh),0,Segunda,Pez agua,agua|tierra,Absorbe agua|Humedad,Ignorante,75,"1,4",Agua 1|Campo,50%|50%,Azul,394,295,295,251,251,185,2,0,0,0,0,0
+196,Espeon,エーフィ (Eifie),1,Segunda,Sol,psíquico,Sincronía,Espejo mágico,"26,5","0,9",Campo,"87,5%|12,5%",Morado,334,251,240,394,317,350,0,0,0,2,0,0
+197,Umbreon,ブラッキー (Bracky),1,Segunda,Luz lunar,siniestro,Sincronía,Fuerza mental,27,1,Campo,"87,5%|12,5%",Negro,394,251,350,240,394,251,0,0,0,0,2,0
+198,Murkrow,ヤミカラス (Yamikarasu),1,Segunda,Oscuridad,siniestro|volador,Insomnio|Afortunado1,Bromista,"2,1","0,5",Volador,50%|50%,Negro,324,295,201,295,201,309,0,0,0,0,0,1
+199,Slowking,ヤドキング (Yadoking),0,Segunda,Regio,agua|psíquico,Despiste|Ritmo propio,Regeneración,"79,5",2,Monstruo|Agua 1,50%|50%,Rosa,394,273,284,328,350,174,0,0,0,0,3,0
+200,Misdreavus,ムウマ (Muma),1,Segunda,Chirrido,fantasma,Levitación,,1,"0,7",Amorfo,50%|50%,Gris,324,240,240,295,295,295,0,0,0,1,1,0
+201,Unown,アンノーン (Unknown),1,Segunda,Símbolo,psíquico,Levitación,,5,"0,5",Desconocido,Sin sexo,Negro,300,267,214,267,214,214,0,1,0,1,0,0
+202,Wobbuffet,ソーナンス (Sonans),1,Segunda,Paciente,psíquico,Sombra trampa,Telepatía,"28,5","1,3",Amorfo,50%|50%,Azul,584,181,236,181,236,181,2,0,0,0,0,0
+203,Girafarig,キリンリキ (Kirinriki),1,Segunda,Gran Cuello1,normal|psíquico,Fuerza mental|Madrugar,Herbívoro,"41,5","1,5",Campo,50%|50%,Amarillo,344,284,251,306,251,295,0,0,0,2,0,0
+204,Pineco,クヌギダマ (Kunugidama),1,Segunda,Larva,bicho,Robustez,Funda,"7,2","0,6",Bicho,50%|50%,Gris,304,251,306,185,185,141,0,0,1,0,0,0
+205,Forretress,フォレトス (Foretos),0,Segunda,Larva,bicho|acero,Robustez,Funda,"125,8","1,2",Bicho,50%|50%,Morado,354,306,416,240,240,196,0,0,2,0,0,0
+206,Dunsparce,ノコッチ (Nokocchi),1,Segunda,Serpiente Tierra1,normal,Dicha|Fuga,Cobardía,14,"1,5",Campo,50%|50%,Amarillo,404,262,262,251,251,207,1,0,0,0,0,0
+207,Gligar,グライガー (Gliger),1,Segunda,Escorpiala,tierra|volador,Corte fuerte|Velo arena,Inmunidad,"64,8","1,1",Bicho,50%|50%,Morado,334,273,339,185,251,295,0,0,1,0,0,0
+208,Steelix,ハガネール (Haganeil),0,Segunda,Serpiente Férrea1,acero|tierra,Cabeza roca|Robustez,Potencia bruta,400,"9,2",Mineral,50%|50%,Gris,354,295,548,229,251,174,0,0,2,0,0,0
+209,Snubbull,ブルー (Bulu),1,Segunda,Hada,hada,Intimidación|Fuga,Cobardía,"7,8","0,6",Campo|Hada,25%|75%,Rosa,324,284,218,196,196,174,0,1,0,0,0,0
+210,Granbull,グランブル (Granbulu),0,Segunda,Hada,hada,Intimidación|Pies rápidos2,Cobardía,"48,7","1,4",Campo|Hada,25%|75%,Morado,384,372,273,240,240,207,0,2,0,0,0,0
+211,Qwilfish,ハリーセン (Harysen),1,Segunda,Pez Globo,agua|veneno,Nado rápido|Punto tóxico,Intimidación,"3,9","0,5",Agua 2,50%|50%,Gris,334,317,295,229,229,295,0,1,0,0,0,0
+212,Scizor,ハッサム (Hassam),0,Segunda,Tenaza2,bicho|acero,Enjambre|Experto3,Metal liviano,118,"1,8",Bicho,50%|50%,Rojo,344,394,328,229,284,251,0,2,0,0,0,0
+213,Shuckle,ツボツボ (Tsubotsubo),1,Segunda,Moho,bicho|roca,Robustez|Gula1,Respondón,"20,5","0,6",Bicho,50%|50%,Amarillo,244,130,614,130,614,119,0,0,1,0,1,0
+214,Heracross,ヘラクロス (Heracros),1,Segunda,Cuerno1,bicho|lucha,Enjambre|Agallas,Autoestima,54,"1,5",Bicho,50%|50%,Azul,364,383,273,196,317,295,0,2,0,0,0,0
+215,Sneasel,ニューラ (Nyula),1,Segunda,Garra Filo1,siniestro|hielo,Fuerza mental|Vista lince,Hurto,28,"0,9",Campo,50%|50%,Negro,314,317,229,185,273,361,0,0,0,0,0,1
+216,Teddiursa,ヒメグマ (Himeguma),1,Segunda,Osito,normal,Recogida|Pies rápidos1,Recogemiel,"8,8","0,6",Campo,50%|50%,Marrón,324,284,218,218,218,196,0,1,0,0,0,0
+217,Ursaring,リングマ (Ringuma),1,Segunda,Hibernante,normal,Agallas|Pies rápidos1,Nerviosismo,"125,8","1,8",Campo,50%|50%,Marrón,384,394,273,273,273,229,0,2,0,0,0,0
+218,Slugma,マグマッグ (Magmag),1,Segunda,Lava,fuego,Cuerpo llama|Escudo magma,Armadura frágil,35,"0,7",Amorfo,50%|50%,Rojo,284,196,196,262,196,152,0,0,0,1,0,0
+219,Magcargo,マグカルゴ (Magcargot),0,Segunda,Lava,fuego|roca,Cuerpo llama|Escudo magma,Armadura frágil,55,"0,8",Amorfo,50%|50%,Rojo,304,218,372,284,284,174,0,0,2,0,0,0
+220,Swinub,ウリムー (Urimoo),1,Segunda,Cerdo,hielo|tierra,Despiste|Manto níveo2,Sebo,"6,5","0,4",Campo,50%|50%,Marrón,304,218,196,174,174,218,0,1,0,0,0,0
+221,Piloswine,イノムー (Inomoo),1,Segunda,Puerco,hielo|tierra,Despiste|Manto níveo2,Sebo,"55,8","1,1",Campo,50%|50%,Marrón,404,328,284,240,240,218,1,1,0,0,0,0
+222,Corsola,サニーゴ (Sunnygo),1,Segunda,Coral,agua|roca,Cura natural|Entusiasmo,Regeneración,5,"0,6",Agua 1|Agua 3,25%|75%,Rosa,334,229,317,251,317,185,0,0,1,0,1,0
+223,Remoraid,テッポウオ (Teppouo),1,Segunda,Reactor,agua,Entusiasmo|Francotirador1,Veleta,12,"0,6",Agua 1|Agua 2,50%|50%,Gris,274,251,185,251,185,251,0,0,0,1,0,0
+224,Octillery,オクタン (Okutank),0,Segunda,Reactor,agua,Ventosas|Francotirador1,Veleta,"28,5","0,9",Agua 1|Agua 2,50%|50%,Rojo,354,339,273,339,273,207,0,1,0,1,0,0
+225,Delibird,デリバード (Delibird),1,Segunda,Reparto,hielo|volador,Espíritu vital|Entusiasmo,Insomnio,16,"0,9",Agua 1|Campo,50%|50%,Rojo,294,229,207,251,207,273,0,0,0,0,0,1
+226,Mantine,マンタイン (Mantain),0,Segunda,Milano,agua|volador,Nado rápido|Absorbe agua,Velo agua,220,"2,1",Agua 1,50%|50%,Morado,374,196,262,284,416,262,0,0,0,0,2,0
+227,Skarmory,エアームド (Airmd),1,Segunda,Coraza Ave1,acero|volador,Vista lince|Robustez,Armadura frágil,"50,5","1,7",Volador,50%|50%,Gris,334,284,416,196,262,262,0,0,2,0,0,0
+228,Houndour,デルビル (Delvil),1,Segunda,Siniestro,siniestro|fuego,Absorbe fuego|Madrugar,Nerviosismo,"10,8","0,6",Campo,50%|50%,Negro,294,240,174,284,218,251,0,0,0,1,0,0
+229,Houndoom,ヘルガー (Hellgar),0,Segunda,Siniestro,siniestro|fuego,Madrugar|Absorbe fuego,Nerviosismo,35,"1,4",Campo,50%|50%,Negro,354,306,218,350,284,317,0,0,0,2,0,0
+230,Kingdra,キングドラ (Kingdra),0,Segunda,Dragón,agua|dragón,Nado rápido|Francotirador1,Humedad,152,"1,8",Agua 1|Dragón,50%|50%,Azul,354,317,317,317,317,295,0,1,0,1,1,0
+231,Phanpy,ゴマゾウ (Gomazou),1,Segunda,Narizotas,tierra,Recogida,Velo arena,"33,5","0,5",Campo,50%|50%,Azul,384,240,240,196,196,196,1,0,0,0,0,0
+232,Donphan,ドンファン (Donfan),0,Segunda,Coraza,tierra,Robustez,Velo arena,120,"1,1",Campo,50%|50%,Gris,384,372,372,240,240,218,0,1,1,0,0,0
+233,Porygon2,ポリゴン２ (Porygon2),1,Segunda,Virtual,normal,Calco|Descarga2,Cálculo final,"32,5","0,6",Mineral,Sin sexo,Rojo,374,284,306,339,317,240,0,0,0,1,0,0
+234,Stantler,オドシシ (Odoshishi),1,Segunda,Gran Cuerno1,normal,Intimidación|Cacheo2,Herbívoro,"71,2","1,4",Campo,50%|50%,Marrón,350,317,245,295,251,295,0,1,0,0,0,0
+235,Smeargle,ドーブル (Doble),1,Segunda,Pintor,normal,Ritmo propio|Experto1,Veleta,58,"1,2",Campo,50%|50%,Blanco,314,152,185,152,207,273,0,0,0,0,0,1
+236,Tyrogue,バルキー (Balkie),1,Segunda,Peleón,lucha,Agallas|Impasible1,Espíritu vital,21,"0,7",Desconocido,100%|0%,Morado,274,185,185,185,185,185,0,1,0,0,0,0
+237,Hitmontop,カポエラー (Kapoerer),0,Segunda,Boca abajo,lucha,Intimidación|Experto1,Impasible,48,"1,4",Humanoide,100%|0%,Marrón,304,317,317,185,350,262,0,0,0,0,2,0
+238,Smoochum,ムチュール (Muchul),1,Segunda,Beso,hielo|psíquico,Despiste|Alerta1,Hidratación,6,"0,4",Desconocido,0%|100%,Rosa,294,174,141,295,251,251,0,0,0,1,0,0
+239,Elekid,エレキッド (Elekid),1,Segunda,Eléctrico,eléctrico,Electricidad estática,Espíritu vital,"23,5","0,6",Desconocido,75%|25%,Amarillo,294,247,190,251,229,317,0,0,0,0,0,1
+240,Magby,ブビィ (Buby),1,Segunda,Ascuas,fuego,Cuerpo llama,Espíritu vital,"21,4","0,7",Desconocido,75%|25%,Rojo,294,273,190,262,229,291,0,0,0,0,0,1
+241,Miltank,ミルタンク (Miltank),1,Segunda,Lechera,normal,Sebo|Intrépido1,Herbívoro,"75,5","1,2",Campo,0%|100%,Rosa,394,284,339,196,262,328,0,0,2,0,0,0
+242,Blissey,ハピナス (Happinas),0,Segunda,Felicidad,normal,Cura natural|Dicha,Alma cura,"46,8","1,5",Hada,0%|100%,Rosa,714,130,130,273,405,229,3,0,0,0,0,0
+243,Raikou,ライコウ (Raikou),1,Segunda,Trueno,eléctrico,Presión,Fuerza mental2,178,"1,9",Desconocido,Sin sexo,Amarillo,384,295,273,361,328,361,0,0,0,1,0,2
+244,Entei,エンテイ (Entei),1,Segunda,Volcán,fuego,Presión,Fuerza mental3,198,"2,1",Desconocido,Sin sexo,Marrón,434,361,295,306,273,328,1,2,0,0,0,0
+245,Suicune,スイクン (Suicune),1,Segunda,Aurora,agua,Presión,Fuerza mental2,187,2,Desconocido,Sin sexo,Azul,404,273,361,306,361,295,0,0,1,0,2,0
+246,Larvitar,ヨーギラス (Yogiras),1,Segunda,Piel roca,roca|tierra,Agallas,Velo arena,72,"0,6",Monstruo,50%|50%,Verde,304,249,218,207,218,199,0,1,0,0,0,0
+247,Pupitar,サナギラス (Sanagiras),1,Segunda,Caparazón,roca|tierra,Mudar,,152,"1,2",Monstruo,50%|50%,Gris,344,293,262,251,262,221,0,2,0,0,0,0
+248,Tyranitar,バンギラス (Bangiras),0,Segunda,Coraza,roca|siniestro,Chorro arena,Nerviosismo,202,2,Monstruo,50%|50%,Verde,404,403,350,317,328,243,0,3,0,0,0,0
+249,Lugia,ルギア (Lugia),1,Segunda,Buceo,psíquico|volador,Presión,Multiescamas,216,"5,2",Desconocido,Sin sexo,Blanco,416,306,394,306,447,350,0,0,0,0,3,0
+250,Ho-Oh,ホウオウ (Houou),1,Segunda,Arcoíris2,fuego|volador,Presión,Regeneración,199,"3,8",Desconocido,Sin sexo,Rojo,416,394,306,350,447,306,0,0,0,0,3,0
+251,Celebi,セレビィ (Celebi),1,Segunda,Viajetiempo2,psíquico|planta,Cura natural,,5,"0,6",Desconocido,Sin sexo,Verde,404,328,328,328,328,328,3,0,0,0,0,0
+252,Treecko,キモリ (Kimori),1,Tercera,Geco Bosque,planta,Espesura,Liviano,5,"0,5",Monstruo|Dragón,"87,5%|12,5%",Verde,284,207,185,251,229,262,0,0,0,0,0,1
+253,Grovyle,ジュプトル (Juptile),1,Tercera,Geco bosque,planta,Espesura,Liviano,"21,6","0,9",Monstruo|Dragón,"87,5%|12,5%",Verde,304,251,207,295,251,317,0,0,0,0,0,2
+254,Sceptile,ジュカイン (Jukain),0,Tercera,Bosque1,planta,Espesura,Liviano,"52,2","1,7",Monstruo|Dragón,"87,5%|12,5%",Verde,344,295,251,339,295,372,0,0,0,0,0,3
+255,Torchic,アチャモ (Achamo),1,Tercera,Polluelo,fuego,Mar llamas,Impulso,"2,5","0,4",Campo,"87,5%|12,5%",Rojo,294,240,196,262,218,207,0,0,0,1,0,0
+256,Combusken,ワカシャモ (Wakasyamo),1,Tercera,Ave corral,fuego|lucha,Mar llamas,Impulso,"19,5","0,9",Campo,"87,5%|12,5%",Rojo,324,295,240,295,240,229,0,1,0,1,0,0
+257,Blaziken,バシャーモ (Bursyamo),0,Tercera,Llameante,fuego|lucha,Mar llamas,Impulso,52,"1,9",Campo,"87,5%|12,5%",Rojo,364,372,262,350,262,284,0,3,0,0,0,0
+258,Mudkip,ミズゴロウ (Mizugorou),1,Tercera,Pez lodo,agua,Torrente,Humedad,"7,6","0,4",Monstruo|Agua 1,"87,5%|12,5%",Azul,304,262,218,218,218,196,0,1,0,0,0,0
+259,Marshtomp,ヌマクロー (Numacraw),1,Tercera,Pez lodo,agua|tierra,Torrente,Humedad,28,"0,7",Monstruo|Agua 1,"87,5%|12,5%",Azul,344,295,262,240,262,218,0,2,0,0,0,0
+260,Swampert,ラグラージ (Laglarge),0,Tercera,Pez lodo,agua|tierra,Torrente,Humedad,"81,9","1,5",Monstruo|Agua 1,"87,5%|12,5%",Azul,404,350,306,295,306,240,0,3,0,0,0,0
+261,Poochyena,ポチエナ (Pochiena),1,Tercera,Mordisco,siniestro,Fuga|Pies rápidos1,Cobardía,"13,6","0,5",Campo,50%|50%,Gris,274,229,185,174,174,185,0,1,0,0,0,0
+262,Mightyena,グラエナ (Graena),0,Tercera,Mordisco,siniestro,Intimidación|Pies rápidos1,Autoestima,37,1,Campo,50%|50%,Gris,344,306,262,240,240,262,0,2,0,0,0,0
+263,Zigzagoon,ジグザグマ (Zigzaguma),1,Tercera,Mapachito,normal,Recogida|Gula1,Pies rápidos,"17,5","0,4",Campo,50%|50%,Marrón,280,174,199,174,199,240,0,0,0,0,0,1
+264,Linoone,マッスグマ (Massuguma),0,Tercera,Lanzado,normal,Recogida|Gula1,Pies rápidos,"32,5","0,5",Campo,50%|50%,Blanco,360,262,243,218,243,328,0,0,0,0,0,2
+265,Wurmple,ケムッソ (Kemusso),1,Tercera,Gusano,bicho,Polvo escudo,Fuga,"3,6","0,3",Bicho,50%|50%,Rojo,294,207,185,152,174,152,1,0,0,0,0,0
+266,Silcoon,カラサリス (Karasalis),1,Tercera,Capullo,bicho,Mudar,,10,"0,6",Bicho,50%|50%,Blanco,304,185,229,163,163,141,0,0,2,0,0,0
+267,Beautifly,アゲハント (Agehunt),0,Tercera,Mariposa,bicho|volador,Enjambre,Rivalidad,"28,4",1,Bicho,50%|50%,Amarillo,324,262,218,306,218,251,0,0,0,3,0,0
+268,Cascoon,マユルド (Mayuld),1,Tercera,Capullo,bicho,Mudar,,"11,5","0,7",Bicho,50%|50%,Morado,304,185,229,163,163,141,0,0,2,0,0,0
+269,Dustox,ドクケイル (Dokucale),0,Tercera,Polilla Venenosa1,bicho|veneno,Polvo escudo,Ojo compuesto,"31,6","1,2",Bicho,50%|50%,Verde,324,218,262,218,306,251,0,0,0,0,3,0
+270,Lotad,ハスボー (Hassboh),1,Tercera,Lenteja Agua1,agua|planta,Nado rápido|Cura lluvia,Ritmo propio,"2,6","0,5",Agua 1|Planta,50%|50%,Verde,284,174,174,196,218,174,0,0,0,0,1,0
+271,Lombre,ハスブレロ (Hasubrero),1,Tercera,Alegre,agua|planta,Nado rápido|Cura lluvia,Ritmo propio,"32,5","1,2",Agua 1|Planta,50%|50%,Verde,324,218,218,240,262,218,0,0,0,0,2,0
+272,Ludicolo,ルンパッパ (Runpappa),0,Tercera,Optimista,agua|planta,Nado rápido|Cura lluvia,Ritmo propio,55,"1,5",Agua 1|Planta,50%|50%,Verde,364,262,262,306,328,262,0,0,0,0,3,0
+273,Seedot,タネボー (Taneboh),1,Tercera,Bellota,planta,Clorofila|Madrugar,Hurto,4,"0,5",Campo|Planta,50%|50%,Marrón,284,196,218,174,174,174,0,0,1,0,0,0
+274,Nuzleaf,コノハナ (Konohana),1,Tercera,Astuto,planta|siniestro,Clorofila|Madrugar,Hurto,28,1,Campo|Planta,50%|50%,Marrón,344,262,196,240,196,240,0,2,0,0,0,0
+275,Shiftry,ダーテング (Dirteng),0,Tercera,Malvado,planta|siniestro,Clorofila|Surcavientos1,Hurto,"59,6","1,3",Campo|Planta,50%|50%,Marrón,384,328,240,306,240,284,0,3,0,0,0,0
+276,Taillow,スバメ (Subame),1,Tercera,Pequebuche,normal|volador,Agallas,Intrépido,"2,3","0,3",Volador,50%|50%,Azul,284,229,174,174,174,295,0,0,0,0,0,1
+277,Swellow,オオスバメ (Ohsubame),0,Tercera,Buche,normal|volador,Agallas,Intrépido,"19,8","0,7",Volador,50%|50%,Azul,324,295,240,218,218,383,0,0,0,0,0,2
+278,Wingull,キャモメ (Camome),1,Tercera,Gaviota,agua|volador,Vista lince|Hidratación1,Cura lluvia,"9,5","0,6",Agua 1|Volador,50%|50%,Blanco,284,174,174,229,174,295,0,0,0,0,0,1
+279,Pelipper,ペリッパー (Pelipper),0,Tercera,Ave agua,agua|volador,Vista lince|Llovizna1,Cura lluvia,28,"1,2",Agua 1|Volador,50%|50%,Amarillo,324,218,328,317,262,251,0,0,2,0,0,0
+280,Ralts,ラルトス (Ralts),1,Tercera,Sensible,psíquico|hada,Sincronía|Calco,Telepatía,"6,6","0,4",Amorfo|Humanoide3,50%|50%,Blanco,260,163,163,207,185,196,0,0,0,1,0,0
+281,Kirlia,キルリア (Kirlia),1,Tercera,Sensorio,psíquico|hada,Sincronía|Calco,Telepatía,"20,2","0,8",Amorfo|Humanoide3,50%|50%,Blanco,280,185,185,251,229,218,0,0,0,2,0,0
+282,Gardevoir,サーナイト (Sirnight),1,Tercera,Envolvente,psíquico|hada,Sincronía|Calco,Telepatía,"48,4","1,6",Amorfo|Humanoide3,50%|50%,Blanco,340,251,251,383,361,284,0,0,0,3,0,0
+283,Surskit,アメタマ (Ametama),1,Tercera,Zapatero,bicho|agua,Nado rápido,Cura lluvia,"1,7","0,5",Agua 1|Bicho,50%|50%,Azul,284,174,179,218,223,251,0,0,0,0,0,1
+284,Masquerain,アメモース (Amemoth),0,Tercera,Globocular,bicho|volador,Intimidación,Nerviosismo,"3,6","0,8",Agua 1|Bicho,50%|50%,Azul,344,240,245,284,289,240,0,0,0,1,1,0
+285,Shroomish,キノココ (Kinococo),1,Tercera,Hongo,planta,Efecto espora|Antídoto1,Pies rápidos,"4,5","0,4",Hada|Planta,50%|50%,Marrón,324,196,240,196,240,185,1,0,0,0,0,0
+286,Breloom,キノガッサ (Kinogassa),0,Tercera,Hongo,planta|lucha,Efecto espora|Antídoto1,Experto,"39,2","1,2",Hada|Planta,50%|50%,Verde,324,394,284,240,240,262,0,2,0,0,0,0
+287,Slakoth,ナマケロ (Namakero),1,Tercera,Gandul,normal,Pereza,,24,"0,8",Campo,50%|50%,Marrón,324,240,240,185,185,174,1,0,0,0,0,0
+288,Vigoroth,ヤルキモノ (Yarukimono),1,Tercera,Mono feroz,normal,Espíritu vital,,"46,5","1,4",Campo,50%|50%,Blanco,364,284,284,229,229,306,0,0,0,0,0,1
+289,Slaking,ケッキング (Kekking),0,Tercera,Holgazán,normal,Pereza,,"130,5",2,Campo,50%|50%,Marrón,504,460,328,317,251,328,3,0,0,0,0,0
+290,Nincada,ツチニン (Tutinin),1,Tercera,Aprendiz,bicho|tierra,Ojo compuesto,Fuga,"5,5","0,5",Bicho,50%|50%,Gris,266,207,306,174,174,196,0,0,1,0,0,0
+291,Ninjask,テッカニン (Tekkanin),1,Tercera,Ninja,bicho|volador,Impulso,Allanamiento,12,"0,8",Bicho,50%|50%,Amarillo,326,306,207,218,218,460,0,0,0,0,0,2
+292,Shedinja,ヌケニン (Nukenin),0,Tercera,Muda,bicho|fantasma,Superguarda,,"1,2","0,8",Mineral,Sin sexo,Marrón,1,306,207,174,174,196,2,0,0,0,0,0
+293,Whismur,ゴニョニョ (Gonyonyo),1,Tercera,Susurro,normal,Insonorizar,Cobardía,"16,3","0,6",Monstruo|Campo,50%|50%,Rosa,332,221,159,221,159,170,1,0,0,0,0,0
+294,Loudred,ドゴーム (Dogohmb),1,Tercera,Chillón,normal,Insonorizar,Intrépido,"40,5",1,Monstruo|Campo,50%|50%,Azul,372,265,203,265,203,214,2,0,0,0,0,0
+295,Exploud,バクオング (Bakuong),0,Tercera,Escandaloso,normal,Insonorizar,Intrépido,84,"1,5",Monstruo|Campo,50%|50%,Azul,412,309,247,309,269,258,3,0,0,0,0,0
+296,Makuhita,マクノシタ (Makunoshita),1,Tercera,Valiente,lucha,Sebo|Agallas,Potencia bruta,"86,4",1,Humanoide,75%|25%,Amarillo,348,240,174,152,174,163,1,0,0,0,0,0
+297,Hariyama,ハリテヤマ (Hariteyama),0,Tercera,Empuje,lucha,Sebo|Agallas,Potencia bruta,"253,8","2,3",Humanoide,75%|25%,Marrón,492,372,240,196,240,218,2,0,0,0,0,0
+298,Azurill,ルリリ (Ruriri),1,Tercera,A topos,normal|hada,Sebo|Potencia,Herbívoro,2,"0,2",Desconocido,25%|75%,Azul,304,152,196,152,196,152,1,0,0,0,0,0
+299,Nosepass,ノズパス (Nosepass),1,Tercera,Brújula,roca,Imán|Robustez,Poder arena,97,1,Mineral,50%|50%,Gris,264,207,405,207,306,174,0,0,1,0,0,0
+300,Skitty,エネコ (Eneco),1,Tercera,Gatito,normal,Gran encanto|Normalidad1,Piel milagro,11,"0,6",Campo|Hada,25%|75%,Rosa,304,207,207,185,185,218,0,0,0,0,0,1
+301,Delcatty,エネコロロ (Enekororo),0,Tercera,Cursi,normal,Gran encanto|Normalidad1,Piel milagro,"32,6","1,1",Campo|Hada,25%|75%,Morado,344,251,251,229,229,262,1,0,0,0,0,1
+302,Sableye,ヤミラミ (Yamirami),1,Tercera,Oscuridad,siniestro|fantasma,Vista lince|Rezagado1,Bromista,11,"0,5",Humanoide,50%|50%,Morado,304,273,273,251,251,218,0,1,1,0,0,0
+303,Mawile,クチート (Kucheat),1,Tercera,Tramposo,acero|hada,Intimidación|Corte fuerte,Potencia bruta,"11,5","0,6",Campo|Hada,50%|50%,Negro,304,295,295,229,229,218,0,1,1,0,0,0
+304,Aron,ココドラ (Cokodora),1,Tercera,Coraza Férrea1,acero|roca,Robustez|Cabeza roca,Metal pesado,60,"0,4",Monstruo,50%|50%,Gris,304,262,328,196,196,174,0,0,1,0,0,0
+305,Lairon,コドラ (Kodora),1,Tercera,Coraza Férrea1,acero|roca,Robustez|Cabeza roca,Metal pesado,120,"0,9",Monstruo,50%|50%,Gris,324,306,416,218,218,196,0,0,2,0,0,0
+306,Aggron,ボスゴドラ (Bossgodora),0,Tercera,Coraza Férrea1,acero|roca,Robustez|Cabeza roca,Metal pesado,360,"2,1",Monstruo,50%|50%,Gris,344,350,504,240,240,218,0,0,3,0,0,0
+307,Meditite,アサナン (Asanan),1,Tercera,Meditador,lucha|psíquico,Energía pura,Telepatía,"11,2","0,6",Humanoide,50%|50%,Azul,264,196,229,196,229,240,0,0,0,0,0,1
+308,Medicham,チャーレム (Charem),1,Tercera,Meditador,lucha|psíquico,Energía pura,Telepatía,"31,5","1,3",Humanoide,50%|50%,Rojo,324,240,273,240,273,284,0,0,0,0,0,2
+309,Electrike,ラクライ (Rakurai),1,Tercera,Calambre,eléctrico,Electricidad estática|Pararrayos,Menos,"15,2","0,6",Campo,50%|50%,Verde,284,207,196,251,196,251,0,0,0,0,0,1
+310,Manectric,ライボルト (Livolt),1,Tercera,Descarga,eléctrico,Electricidad estática|Pararrayos,Menos,"40,2","1,5",Campo,50%|50%,Amarillo,344,273,240,339,240,339,0,0,0,0,0,2
+311,Plusle,プラスル (Prasle),1,Tercera,Ánimo,eléctrico,Más,Pararrayos2,"4,2","0,4",Hada,50%|50%,Amarillo,324,218,196,295,273,317,0,0,0,0,0,1
+312,Minun,マイナン (Minun),1,Tercera,Ánimo,eléctrico,Menos,Absorbe electricidad1,"4,2","0,4",Hada,50%|50%,Amarillo,324,196,218,273,295,317,0,0,0,0,0,1
+313,Volbeat,バルビート (Barubeat),1,Tercera,Luciérnaga,bicho,Enjambre|Iluminación,Bromista,"17,7","0,7",Bicho|Humanoide,100%|0%,Gris,334,269,273,212,295,295,0,0,0,0,0,1
+314,Illumise,イルミーゼ (Illumise),1,Tercera,Luciérnaga,bicho,Despiste|Cromolente1,Bromista,"17,7","0,6",Bicho|Humanoide,0%|100%,Morado,334,212,273,269,295,295,0,0,0,0,0,1
+315,Roselia,ロゼリア (Roselia),1,Tercera,Espina,planta|veneno,Cura natural|Punto tóxico,Defensa hoja,2,"0,3",Planta|Hada,50%|50%,Verde,304,240,207,328,284,251,0,0,0,21,0,0
+316,Gulpin,ゴクリン (Gokulin),1,Tercera,Estómago,veneno,Viscosecreción|Viscosidad,Gula,"10,3","0,4",Amorfo,50%|50%,Verde,344,203,225,203,225,196,1,0,0,0,0,0
+317,Swalot,マルノーム (Marunoom),0,Tercera,Bolsa Veneno1,veneno,Viscosecreción|Viscosidad,Gula,80,"1,7",Amorfo,50%|50%,Morado,404,269,291,269,291,229,2,0,0,0,0,0
+318,Carvanha,キバニア (Kibanha),1,Tercera,Feroz,agua|siniestro,Piel tosca,Impulso,"20,8","0,8",Agua 2,50%|50%,Rojo,294,306,152,251,152,251,0,1,0,0,0,0
+319,Sharpedo,サメハダー (Samehader),0,Tercera,Voraz,agua|siniestro,Piel tosca,Impulso,"88,8","1,8",Agua 2,50%|50%,Azul,344,372,196,317,196,317,0,2,0,0,0,0
+320,Wailmer,ホエルコ (Hoeruko),1,Tercera,Ballena bola,agua,Velo agua|Despiste,Presión,130,2,Campo|Agua 2,50%|50%,Azul,464,262,185,262,185,240,1,0,0,0,0,0
+321,Wailord,ホエルオー (Whaloh),0,Tercera,Ballenaflot,agua,Velo agua|Despiste,Presión,398,"14,5",Campo|Agua 2,50%|50%,Azul,544,306,207,306,207,240,2,0,0,0,0,0
+322,Numel,ドンメル (Donmel),1,Tercera,Torpe,fuego|tierra,Despiste|Simple1,Ritmo propio,24,"0,7",Campo,50%|50%,Amarillo,324,240,196,251,207,185,0,0,0,1,0,0
+323,Camerupt,バクーダ (Bakuuda),0,Tercera,Erupción,fuego|tierra,Escudo magma|Roca sólida1,Irascible,220,"1,9",Campo,50%|50%,Rojo,344,328,262,339,273,196,0,1,0,1,0,0
+324,Torkoal,コータス (Cotoise),1,Tercera,Carbón,fuego,Humo blanco|Sequía1,Caparazón,"80,4","0,5",Campo,50%|50%,Marrón,344,295,416,295,262,152,0,0,2,0,0,0
+325,Spoink,バネブー (Baneboo),1,Tercera,Saltarín,psíquico,Ritmo propio|Sebo,Gula,"30,6","0,7",Campo,50%|50%,Negro,324,163,185,262,284,240,0,0,0,0,1,0
+326,Grumpig,ブーピッグ (Boopig),0,Tercera,Manipulador,psíquico,Sebo|Ritmo propio,Gula,"71,5","0,9",Campo,50%|50%,Morado,364,207,251,306,350,284,0,0,0,0,2,0
+327,Spinda,パッチール (Patcheel),1,Tercera,Panda topos,normal,Ritmo propio|Tumbos1,Respondón,5,"1,1",Campo|Humanoide,50%|50%,Marrón,324,240,240,240,240,240,0,0,0,1,0,0
+328,Trapinch,ナックラー (Nuckrar),1,Tercera,Hormiga León1,tierra,Corte fuerte|Trampa arena,Potencia bruta,15,"0,7",Bicho|Dragón2,50%|50%,Marrón,294,328,207,207,207,130,0,1,0,0,0,0
+329,Vibrava,ビブラーバ (Vibrava),1,Tercera,Vibrante,tierra|dragón,Levitación,,"15,3","1,1",Bicho|Dragón2,50%|50%,Verde,304,262,218,218,218,262,0,1,0,0,0,1
+330,Flygon,フライゴン (Flygon),0,Tercera,Místico,tierra|dragón,Levitación,,82,2,Bicho|Dragón1,50%|50%,Verde,364,328,284,284,284,328,0,1,0,0,0,2
+331,Cacnea,サボネア (Sabonea),1,Tercera,Cactus,planta,Velo arena,Absorbe agua,"51,3","0,4",Planta|Humanoide,50%|50%,Verde,304,295,196,295,196,185,0,0,0,1,0,0
+332,Cacturne,ノクタス (Noctus),0,Tercera,Espantajo,planta|siniestro,Velo arena,Absorbe agua,"77,4","1,3",Planta|Humanoide,50%|50%,Verde,344,361,240,361,240,229,0,1,0,1,0,0
+333,Swablu,チルット (Tyltto),1,Tercera,Ave algodón,normal|volador,Cura natural,Aclimatación,"1,2","0,4",Volador|Dragón,50%|50%,Azul,294,196,240,196,273,218,0,0,0,0,1,0
+334,Altaria,チルタリス (Tyltalis),0,Tercera,Cantor,dragón|volador,Cura natural,Aclimatación,"20,6","1,1",Volador|Dragón,50%|50%,Azul,354,262,306,262,339,284,0,0,0,0,2,0
+335,Zangoose,ザングース (Zangoose),1,Tercera,Gato hurón,normal,Inmunidad,Ímpetu tóxico,"40,3","1,3",Campo,50%|50%,Blanco,350,361,240,240,240,306,0,2,0,0,0,0
+336,Seviper,ハブネーク (Habunake),1,Tercera,Colmillos,veneno,Mudar,Allanamiento,"52,5","2,7",Campo|Dragón,50%|50%,Negro,350,328,240,328,240,251,0,1,0,1,0,0
+337,Lunatone,ルナトーン (Lunatone),1,Tercera,Meteorito,roca|psíquico,Levitación,,168,1,Mineral,Sin sexo,Amarillo,384,229,251,317,295,262,0,0,0,2,0,0
+338,Solrock,ソルロック (Solrock),1,Tercera,Meteorito,roca|psíquico,Levitación,,154,"1,2",Mineral,Sin sexo,Rojo,384,317,295,229,251,262,0,2,0,0,0,0
+339,Barboach,ドジョッチ (Dojoach),1,Tercera,Bigotudo,agua|tierra,Despiste|Anticipación1,Hidratación,"1,9","0,4",Agua 2,50%|50%,Gris,304,214,203,210,199,240,1,0,0,0,0,0
+340,Whiscash,ナマズン (Namazun),0,Tercera,Bigotudo,agua|tierra,Despiste|Anticipación1,Hidratación,"23,6","0,9",Agua 2,50%|50%,Azul,424,280,269,276,265,240,2,0,0,0,0,0
+341,Corphish,ヘイガニ (Heigani),1,Tercera,Rufián,agua,Corte fuerte|Caparazón,Adaptable,"11,5","0,6",Agua 1|Agua 3,50%|50%,Rojo,290,284,251,218,185,185,0,1,0,0,0,0
+342,Crawdaunt,シザリガー (Shizariger),0,Tercera,Granuja,agua|siniestro,Caparazón|Corte fuerte,Adaptable,"32,8","1,1",Agua 1|Agua 3,50%|50%,Rojo,330,372,295,306,229,229,0,2,0,0,0,0
+343,Baltoy,ヤジロン (Yajilon),1,Tercera,Muñeca Barro1,tierra|psíquico,Levitación,,"21,5","0,5",Mineral,Sin sexo,Marrón,284,196,229,196,262,229,0,0,0,0,1,0
+344,Claydol,ネンドール (Nendoll),0,Tercera,Muñeca Barro1,tierra|psíquico,Levitación,,108,"1,5",Mineral,Sin sexo,Negro,324,262,339,262,372,273,0,0,0,0,2,0
+345,Lileep,リリーラ (Lilyla),1,Tercera,Lirio de Mar1,roca|planta,Ventosas,Colector,"23,8",1,Agua 3,"87,5%|12,5%",Morado,336,199,278,243,300,159,0,0,0,0,1,0
+346,Cradily,ユレイドル (Yuradle),0,Tercera,Percebe,roca|planta,Ventosas,Colector,"60,4","1,5",Agua 3,"87,5%|12,5%",Verde,376,287,322,287,344,203,0,0,0,0,2,0
+347,Anorith,アノプス (Anopth),1,Tercera,Camarón,roca|bicho,Armadura batalla,Nado rápido,"12,5","0,7",Agua 3,"87,5%|12,5%",Gris,294,317,218,196,218,273,0,1,0,0,0,0
+348,Armaldo,アーマルド (Armaldo),0,Tercera,Armadura,roca|bicho,Armadura batalla,Nado rápido,"68,2","1,5",Agua 3,"87,5%|12,5%",Gris,354,383,328,262,284,207,0,2,0,0,0,0
+349,Feebas,ヒンバス (Hinbass),1,Tercera,Pez,agua,Nado rápido|Despiste1,Adaptable,"7,4","0,6",Agua 1|Dragón,50%|50%,Marrón,244,141,152,130,229,284,0,0,0,0,0,1
+350,Milotic,ミロカロス (Milokaross),1,Tercera,Tierno,agua,Escama especial|Tenacidad1,Gran encanto,162,"6,2",Dragón|Agua 1,50%|50%,Rosa,394,240,282,328,383,287,0,0,0,0,2,0
+351,Castform,ポワルン (Powalen),1,Tercera,Clima,normal,Predicción,,"0,8","0,3",Hada|Amorfo,50%|50%,GrisFNo1|RojoFS1|AzulFL1|BlancoFNi,344,262,262,262,262,262,1,0,0,0,0,0
+352,Kecleon,カクレオン (Kakureon),1,Tercera,Camaleónico,normal,Cambio color,Mutatipo1,22,1,Campo,50%|50%,Verde,324,306,262,240,372,196,0,0,0,0,1,0
+353,Shuppet,カゲボウズ (Kagebouzu),1,Tercera,Títere,fantasma,Insomnio|Cacheo1,Cuerpo maldito,"2,3","0,6",Amorfo,50%|50%,Negro,292,273,185,247,181,207,0,1,0,0,0,0
+354,Banette,ジュペッタ (Juppeta),0,Tercera,Marioneta,fantasma,Insomnio|Cacheo1,Cuerpo maldito,"12,5","1,1",Amorfo,50%|50%,Negro,332,361,251,291,247,251,0,2,0,0,0,0
+355,Duskull,ヨマワル (Yomawaru),1,Tercera,Réquiem,fantasma,Levitación,Cacheo2,15,"0,8",Amorfo,50%|50%,Negro,244,196,306,174,306,163,0,0,3,0,1,0
+356,Dusclops,サマヨール (Samayouru),1,Tercera,Atrayente,fantasma,Presión,Cacheo2,"30,6","1,6",Amorfo,50%|50%,Negro,284,262,394,240,394,163,0,0,1,0,13,0
+357,Tropius,トロピウス (Tropius),1,Tercera,Fruto,planta|volador,Clorofila|Poder solar2,Cosecha,100,2,Monstruo|Planta,50%|50%,Verde,402,258,291,267,300,221,2,0,0,0,0,0
+358,Chimecho,チリーン (Chirean),0,Tercera,Campanilla1,psíquico,Levitación,,1,"0,6",Amorfo,50%|50%,Azul,334,218,262,317,284,251,0,0,0,1,1,0
+359,Absol,アブソル (Absol),1,Tercera,Catástrofe,siniestro,Presión|Afortunado2,Justiciero,47,"1,2",Campo,50%|50%,Blanco,334,394,240,273,240,273,0,2,0,0,0,0
+360,Wynaut,ソーナノ (Sohnano),1,Tercera,Radiante,psíquico,Sombra trampa,Telepatía,14,"0,6",Desconocido,50%|50%,Azul,394,159,214,159,214,159,1,0,0,0,0,0
+361,Snorunt,ユキワラシ (Yukiwarashi),1,Tercera,Gorro nieve,hielo,Fuerza mental|Gélido2,Veleta,"16,8","0,7",Hada|Mineral,50%|50%,Gris,304,218,218,218,218,218,1,0,0,0,0,0
+362,Glalie,オニゴーリ (Onigoori),0,Tercera,Cara,hielo,Fuerza mental|Gélido2,Veleta,"256,5","1,5",Hada|Mineral,50%|50%,Gris,364,284,284,284,284,284,2,0,0,0,0,0
+363,Spheal,タマザラシ (Tamazarashi),1,Tercera,Aplauso,hielo|agua,Sebo|Gélido1,Despiste,"39,5","0,8",Agua 1|Campo,50%|50%,Azul,344,196,218,229,218,163,1,0,0,0,0,0
+364,Sealeo,トドグラー (Todoggler),1,Tercera,Rodabola,hielo|agua,Sebo|Gélido1,Despiste,"87,6","1,1",Agua 1|Campo,50%|50%,Azul,384,240,262,273,262,207,2,0,0,0,0,0
+365,Walrein,トドゼルガ (Todoseruga),0,Tercera,Rompehielo,hielo|agua,Sebo|Gélido1,Despiste,"150,6","1,4",Agua 1|Campo,50%|50%,Azul,424,284,306,317,306,251,3,0,0,0,0,0
+366,Clamperl,パールル (Pearlulu),1,Tercera,Bivalvo,agua,Caparazón,Cobardía,"52,5","0,4",Agua 1,50%|50%,Azul,274,249,295,271,229,179,0,0,1,0,0,0
+367,Huntail,ハンテール (Huntail),0,Tercera,Abisal,agua,Nado rápido,Velo agua,27,"1,7",Agua 1,50%|50%,Azul,314,337,339,315,273,223,0,1,1,0,0,0
+368,Gorebyss,サクラビス (Sakurabyss),0,Tercera,Mar del sur,agua,Nado rápido,Hidratación,"22,6","1,8",Agua 1,50%|50%,Rosa,314,293,339,359,273,223,0,0,0,2,0,0
+369,Relicanth,ジーランス (Glanth),1,Tercera,Longevo,agua|roca,Cabeza roca|Nado rápido,Robustez,"23,4",1,Agua 1|Agua 2,"87,5%|12,5%",Gris,404,306,394,207,251,229,1,0,1,0,0,0
+370,Luvdisc,ラブカス (Lovecus),1,Tercera,Cita,agua,Nado rápido,Hidratación,"8,7","0,6",Agua 2,25%|75%,Rosa,290,174,229,196,251,322,0,0,0,0,0,1
+371,Bagon,タツベイ (Tatsubay),1,Tercera,Cabeza roca,dragón,Cabeza roca,Potencia bruta,"42,1","0,6",Dragón,50%|50%,Azul,294,273,240,196,174,218,0,1,0,0,0,0
+372,Shelgon,コモルー (Komoruu),1,Tercera,Resistencia,dragón,Cabeza roca,Funda,"110,5","1,1",Dragón,50%|50%,Blanco,334,317,328,240,218,218,0,0,2,0,0,0
+373,Salamence,ボーマンダ (Bohmander),0,Tercera,Dragón,dragón|volador,Intimidación,Autoestima,"102,6","1,5",Dragón,50%|50%,Azul,394,405,284,350,284,328,0,3,0,0,0,0
+374,Beldum,ダンバル (Dumbber),1,Tercera,Bola hierro,acero|psíquico,Cuerpo puro,Metal liviano,"95,2","0,6",Mineral,Sin sexo,Azul,284,229,284,185,240,174,0,0,1,0,0,0
+375,Metang,メタング (Metang),1,Tercera,Garra Hierro1,acero|psíquico,Cuerpo puro,Metal liviano,"202,5","1,2",Mineral,Sin sexo,Azul,324,273,328,229,284,218,0,0,2,0,0,0
+376,Metagross,メタグロス (Metagross),0,Tercera,Pata hierro,acero|psíquico,Cuerpo puro,Metal liviano,550,"1,6",Mineral,Sin sexo,Azul,364,405,394,317,306,262,0,0,3,0,0,0
+377,Regirock,レジロック (Regirock),1,Tercera,Pico roca,roca,Cuerpo puro,Robustez,230,"1,7",Desconocido,Sin sexo,Marrón,364,328,548,218,328,218,0,0,3,0,0,0
+378,Regice,レジアイス (Regice),1,Tercera,Iceberg,hielo,Cuerpo puro,Gélido,175,"1,8",Desconocido,Sin sexo,Azul,364,218,328,328,548,218,0,0,0,0,3,0
+379,Registeel,レジスチル (Registeel),1,Tercera,Hierro,acero,Cuerpo puro,Metal liviano,205,"1,9",Desconocido,Sin sexo,Gris,364,273,438,273,438,218,0,0,2,0,1,0
+380,Latias,ラティアス (Latias),1,Tercera,Eón,dragón|psíquico,Levitación,,40,"1,4",Desconocido,0%|100%,Rojo|Morado,364,284,306,350,394,350,0,0,0,0,3,0
+381,Latios,ラティオス (Latios),1,Tercera,Eón,dragón|psíquico,Levitación,,60,2,Desconocido,100%|0%,Azul|Morado,364,306,284,394,350,350,0,0,0,3,0,0
+382,Kyogre,カイオーガ (Kyogre),1,Tercera,Cuenca mar,agua,Llovizna,,352,"4,5",Desconocido,Sin sexo,Azul,404,328,306,438,416,306,0,0,0,3,0,0
+383,Groudon,グラードン (Groudon),1,Tercera,Continente,tierra,Sequía,,950,"3,5",Desconocido,Sin sexo,Rojo,404,438,416,328,306,306,0,3,0,0,0,0
+384,Rayquaza,レックウザ (Rayquaza),1,Tercera,Cielo,dragón|volador,Esclusa de aire,,"206,5",7,Desconocido,Sin sexo,Verde,414,438,306,438,306,317,0,2,0,1,0,0
+385,Jirachi,ジラーチ (Jirachi),1,Tercera,Deseo,acero|psíquico,Dicha,,"1,1","0,3",Desconocido,Sin sexo,Amarillo,404,328,328,328,328,328,3,0,0,0,0,0
+386,Deoxys,デオキシス (Deoxys),1,Tercera,ADN,psíquico,Presión,,"60,8","1,7",Desconocido,Sin sexo,Rojo,304,438,218,438,218,438,0,1,0,1,0,1
+387,Turtwig,ナエトル (Naetle),1,Cuarta,Hojita,planta,Espesura,Caparazón,"10,2","0,4",Monstruo|Planta,"87,5%|12,5%",Verde,314,258,249,207,229,177,0,1,0,0,0,0
+388,Grotle,ハヤシガメ (Hayashigame),1,Cuarta,Arboleda,planta,Espesura,Caparazón,97,"1,1",Monstruo|Planta,"87,5%|12,5%",Verde,354,304,295,229,251,188,0,1,1,0,0,0
+389,Torterra,ドダイトス (Dodaitose),0,Cuarta,Continente,planta|tierra,Espesura,Caparazón,310,"2,2",Monstruo|Planta,"87,5%|12,5%",Verde,394,348,339,273,295,232,0,2,1,0,0,0
+390,Chimchar,ヒコザル (Hikozaru),1,Cuarta,Chimpancé,fuego,Mar llamas,Puño férreo,"6,2","0,5",Campo|Humanoide,"87,5%|12,5%",Marrón,292,236,205,236,205,243,0,0,0,0,0,1
+391,Monferno,モウカザル (Moukazaru),1,Cuarta,Juguetón,fuego|lucha,Mar llamas,Puño férreo,22,"0,9",Campo|Humanoide,"87,5%|12,5%",Marrón,332,280,223,280,223,287,0,0,0,1,0,1
+392,Infernape,ゴウカザル (Goukazaru),0,Cuarta,Llama,fuego|lucha,Mar llamas,Puño férreo,55,"1,2",Campo|Humanoide,"87,5%|12,5%",Marrón,356,337,265,337,265,346,0,1,0,1,0,1
+393,Piplup,ポッチャマ (Pochama),1,Cuarta,Pingüino,agua,Torrente,Tenacidad3,"5,2","0,4",Campo|Agua 1,"87,5%|12,5%",Azul,310,221,225,243,232,196,0,0,0,1,0,0
+394,Prinplup,ポッタイシ (Pottaishi),1,Cuarta,Pingüino,agua,Torrente,Tenacidad1,23,"0,8",Agua 1|Campo,"87,5%|12,5%",Azul,332,254,258,287,276,218,0,0,0,2,0,0
+395,Empoleon,エンペルト (Emperte),0,Cuarta,Emperador,agua|acero,Torrente,Tenacidad1,"84,5","1,7",Agua 1|Campo,"87,5%|12,5%",Azul,372,298,302,353,331,240,0,0,0,3,0,0
+396,Starly,ムックル (Mukkuru),1,Cuarta,Estornino,normal|volador,Vista lince,Audaz,2,"0,3",Volador,50%|50%,Marrón,284,229,174,174,174,240,0,0,0,0,0,1
+397,Staravia,ムクバード (Mukubird),1,Cuarta,Estornino,normal|volador,Intimidación,Audaz,"15,5","0,6",Volador,50%|50%,Marrón,314,273,218,196,196,284,0,0,0,0,0,2
+398,Staraptor,ムクホーク (Mukuhawk),0,Cuarta,Depredador,normal|volador,Intimidación,Audaz,"24,9","1,2",Volador,50%|50%,Marrón,374,372,262,218,218,328,0,3,0,0,0,0
+399,Bidoof,ビッパ (Bippa),1,Cuarta,Gran ratón,normal,Simple|Ignorante,Veleta,20,"0,5",Agua 1|Campo,50%|50%,Marrón,322,207,196,185,196,177,1,0,0,0,0,0
+400,Bibarel,ビーダル (Beadull),0,Cuarta,Castor,normal|agua,Simple|Ignorante,Veleta,"31,5",1,Agua 1|Campo,50%|50%,Marrón,362,295,240,229,240,265,0,2,0,0,0,0
+401,Kricketot,コロボーシ (Korobohshi),1,Cuarta,Grillo,bicho,Mudar,Fuga,"2,2","0,3",Bicho,50%|50%,Rojo,278,163,199,163,199,163,0,0,1,0,0,0
+402,Kricketune,コロトック (Korotok),0,Cuarta,Grillo,bicho,Enjambre,Experto,"25,5",1,Bicho,50%|50%,Rojo,358,295,221,229,221,251,0,2,0,0,0,0
+403,Shinx,コリンク (Kolink),1,Cuarta,Flash,eléctrico,Rivalidad|Intimidación,Agallas,"9,5","0,5",Campo,50%|50%,Azul,294,251,183,196,183,207,0,1,0,0,0,0
+404,Luxio,ルクシオ (Luxio),1,Cuarta,Chispa,eléctrico,Rivalidad|Intimidación,Agallas,"30,5","0,9",Campo,50%|50%,Azul,324,295,216,240,216,240,0,2,0,0,0,0
+405,Luxray,レントラー (Rentorar),0,Cuarta,Chispa ojos,eléctrico,Rivalidad|Intimidación,Agallas,42,"1,4",Campo,50%|50%,Azul,364,372,282,317,282,262,0,3,0,0,0,0
+406,Budew,スボミー (Subomie),1,Cuarta,Brote,planta|veneno,Cura natural|Punto tóxico,Defensa hoja,"1,2","0,2",Desconocido,50%|50%,Verde,284,174,185,218,262,229,0,0,0,1,0,0
+407,Roserade,ロズレイド (Roserade),0,Cuarta,Ramillete,planta|veneno,Cura natural|Punto tóxico,Experto,"14,5","0,9",Hada|Planta,50%|50%,Verde,324,262,251,383,339,306,0,0,0,3,0,0
+408,Cranidos,ズガイドス (Zugaidos),1,Cuarta,Cabezazo,roca,Rompemoldes,Potencia bruta,"31,5","0,9",Monstruo,"87,5%|12,5%",Azul,338,383,196,174,174,236,0,1,0,0,0,0
+409,Rampardos,ラムパルド (Rampald),0,Cuarta,Cabezazo,roca,Rompemoldes,Potencia bruta,"102,5","1,6",Monstruo,"87,5%|12,5%",Azul,398,471,240,251,218,236,0,2,0,0,0,0
+410,Shieldon,タテトプス (Tatetops),1,Cuarta,Escudo,roca|acero,Robustez,Insonorizar,57,"0,5",Monstruo,"87,5%|12,5%",Gris,264,201,368,201,302,174,0,0,1,0,0,0
+411,Bastiodon,トリデプス (Trideps),1,Cuarta,Escudo,roca|acero,Robustez,Insonorizar,"149,5","1,3",Monstruo,"87,5%|12,5%",Gris,324,223,478,212,412,174,0,0,2,0,0,0
+412,Burmy,ミノムッチ (Minomutchi),1,Cuarta,Larva,bicho,Mudar,Funda,"3,4","0,2",Bicho,50%|50%,VerdeTP1|MarrónTA1|RojoTB1,284,172,207,172,207,188,0,0,0,0,1,0
+413,Wormadam,ミノマダム (Minomadam),1,Cuarta,Larva,bicho|planta|bicho|tierra|bicho|acero,Anticipación,Funda,"6,5","0,5",Bicho,0%|100%,VerdeTP1|MarrónTA1|RojoTB1,324,238,295,282,339,188,0,0,0,0,2,0
+414,Mothim,ガーメイル (Gamale),1,Cuarta,Polilla,bicho|volador,Enjambre,Cromolente,"23,3","0,9",Bicho,100%|0%,Amarillo,344,315,218,315,218,254,0,1,0,1,0,0
+415,Combee,ミツハニー (Mitsuhoney),1,Cuarta,Abejita,bicho|volador,Recogemiel,Entusiasmo,"5,5","0,3",Bicho,"87,5%|12,5%",Amarillo,264,174,201,174,201,262,0,0,0,0,0,1
+416,Vespiquen,ビークイン (Beequen),0,Cuarta,Colmena,bicho|volador,Presión,Nerviosismo,"38,5","1,2",Bicho,0%|100%,Amarillo,344,284,333,284,333,196,0,0,1,0,1,0
+417,Pachirisu,パチリス (Pachirisu),1,Cuarta,Ardillalec,eléctrico,Fuga|Recogida,Absorbe electricidad,"3,9","0,4",Campo|Hada,50%|50%,Blanco,324,207,262,207,306,317,0,0,0,0,0,1
+418,Buizel,ブイゼル (Buoysel),1,Cuarta,Nutria Marina1,agua,Nado rápido,Velo agua,"29,5","0,7",Agua 1|Campo,50%|50%,Marrón,314,251,185,240,174,295,0,0,0,0,0,1
+419,Floatzel,フローゼル (Floazel),0,Cuarta,Nutria Marina1,agua,Nado rápido,Velo agua,"33,5","1,1",Agua 1|Campo,50%|50%,Marrón,374,339,229,295,218,361,0,0,0,0,0,2
+420,Cherubi,チェリンボ (Cherinbo),1,Cuarta,Cereza,planta,Clorofila,,"3,3","0,4",Hada|Planta,50%|50%,Rosa,294,185,207,245,225,185,0,0,0,1,0,0
+421,Cherrim,チェリム (Cherrim),0,Cuarta,Floración,planta,Don floral,,"9,3","0,5",Hada|Planta,50%|50%,MoradoFE1|RosaFS,344,240,262,300,280,295,0,0,0,2,0,0
+422,Shellos,カラナクシ (Karanakushi),1,Cuarta,Babosa Marina1,agua,Viscosidad|Colector,Poder arena,"6,3","0,3",Agua 1|Amorfo,50%|50%,Morado|Azul2,356,214,214,234,245,183,1,0,0,0,0,0
+423,Gastrodon,トリトドン (Tritodon),0,Cuarta,Babosa Marina1,agua|tierra,Viscosidad|Colector,Poder arena,"29,9","0,9",Agua 1|Amorfo,50%|50%,Morado|Azul2,426,291,258,311,289,194,2,0,0,0,0,0
+424,Ambipom,エテボース (Eteboth),0,Cuarta,Cola larga,normal,Experto|Recogida,Encadenado,"20,3","1,2",Campo,50%|50%,Morado,354,328,254,240,254,361,0,0,0,0,0,2
+425,Drifloon,フワンテ (Fuwante),1,Cuarta,Globo,fantasma|volador,Detonación|Liviano,Ímpetu ardiente,"1,2","0,4",Amorfo,50%|50%,Morado,384,218,183,240,205,262,1,0,0,0,0,0
+426,Drifblim,フワライド (Fuwaride),1,Cuarta,Dirigible,fantasma|volador,Detonación|Liviano,Ímpetu ardiente,15,"1,2",Amorfo,50%|50%,Morado,504,284,205,306,227,284,2,0,0,0,0,0
+427,Buneary,ミミロル (Mimirol),1,Cuarta,Conejo,normal,Fuga|Zoquete,Flexibilidad,"5,5","0,4",Campo|Humanoide,50%|50%,Marrón,314,254,205,205,232,295,0,0,0,0,0,1
+428,Lopunny,ミミロップ (Mimilop),0,Cuarta,Conejo,normal,Gran encanto|Zoquete,Flexibilidad,"33,3","1,2",Campo|Humanoide,50%|50%,Marrón,334,276,293,227,320,339,0,0,0,0,0,2
+429,Mismagius,ムウマージ (Mumargi),0,Cuarta,Mágico,fantasma,Levitación,,"4,4","0,9",Amorfo,50%|50%,Morado,324,240,240,339,339,339,0,0,0,1,1,0
+430,Honchkrow,ドンカラス (Dongkarasu),0,Cuarta,Gran jefe,siniestro|volador,Insomnio|Afortunado,Autoestima,"27,3","0,9",Volador,50%|50%,Negro,404,383,223,339,223,265,0,2,0,0,0,0
+431,Glameow,ニャルマー (Nyarmar),1,Cuarta,Gastuto,normal,Flexibilidad|Ritmo propio,Vista lince,"3,9","0,5",Campo,25%|75%,Gris,302,229,201,201,190,295,0,0,0,0,0,1
+432,Purugly,ブニャット (Bunyat),0,Cuarta,Tigre gato,normal,Sebo|Ritmo propio,Competitivo,"43,8",1,Campo,25%|75%,Gris,346,289,249,249,238,355,0,0,0,0,0,2
+433,Chingling,リーシャン (Lisyan),1,Cuarta,Cascabel1,psíquico,Levitación,,"0,6","0,2",Desconocido,50%|50%,Amarillo,294,174,218,251,218,207,0,0,0,1,0,0
+434,Stunky,スカンプー (Skunpuu),1,Cuarta,Mofeta,veneno|siniestro,Hedor|Detonación,Vista lince,"19,2","0,4",Campo,50%|50%,Morado,330,247,212,199,199,271,0,0,0,0,0,1
+435,Skuntank,スカタンク (Skutank),0,Cuarta,Mofeta,veneno|siniestro,Hedor|Detonación,Vista lince,38,1,Campo,50%|50%,Morado,410,313,256,265,243,293,2,0,0,0,0,0
+436,Bronzor,ドーミラー (Dohmirror),1,Cuarta,Bronce,acero|psíquico,Levitación|Ignífugo,Metal pesado,"60,5","0,5",Mineral,Sin sexo,Verde,318,161,298,161,298,159,0,0,1,0,0,0
+437,Bronzong,ドータクン (Dohtakun),1,Cuarta,Campana Bronce1,acero|psíquico,Levitación|Ignífugo,Metal pesado,187,"1,3",Mineral,Sin sexo,Verde,338,304,364,282,364,181,0,0,1,0,1,0
+438,Bonsly,ウソハチ (Usohachi),1,Cuarta,Bonsái,roca,Cabeza roca|Robustez,Cobardía,15,"0,5",Desconocido,50%|50%,Marrón,304,284,317,130,207,130,0,0,1,0,0,0
+439,Mime Jr.,マネネ (Manene),1,Cuarta,Mimo,psíquico|hada,Insonorizar|Filtro,Experto,13,"0,6",Desconocido,50%|50%,Rosa,244,163,207,262,306,240,0,0,0,0,1,0
+440,Happiny,ピンプク (Pinpuku),1,Cuarta,Casita,normal,Cura natural|Dicha,Compiescolta,"24,4","0,6",Desconocido,0%|100%,Rosa,404,119,119,141,251,174,1,0,0,0,0,0
+441,Chatot,ペラップ (Perap),1,Cuarta,Corchea,normal|volador,Vista lince|Tumbos,Sacapecho,"1,9","0,5",Volador,50%|50%,Negro,356,251,207,311,201,309,0,1,0,0,0,0
+442,Spiritomb,ミカルゲ (Mikaruge),1,Cuarta,Prohibido,fantasma|siniestro,Presión,Allanamiento,108,1,Amorfo,50%|50%,Morado,304,311,346,311,346,185,0,0,1,0,1,0
+443,Gible,フカマル (Fukamaru),1,Cuarta,Terrascualo,dragón|tierra,Velo arena,Piel tosca,"20,5","0,7",Monstruo|Dragón,50%|50%,Azul,320,262,207,196,207,201,0,1,0,0,0,0
+444,Gabite,ガバイト (Gabite),1,Cuarta,Cueva,dragón|tierra,Velo arena,Piel tosca,56,"1,4",Monstruo|Dragón,50%|50%,Azul,340,306,251,218,229,289,0,2,0,0,0,0
+445,Garchomp,ガブリアス (Gaburias),0,Cuarta,Mach,dragón|tierra,Velo arena,Piel tosca,95,"1,9",Monstruo|Dragón,50%|50%,Azul,420,394,317,284,295,333,0,3,0,0,0,0
+446,Munchlax,ゴンベ (Gonbe),1,Cuarta,Comilón,normal,Recogida|Sebo,Gula,105,"0,6",Desconocido,"87,5%|12,5%",Negro,474,295,196,196,295,119,1,0,0,0,0,0
+447,Riolu,リオル (Riolu),1,Cuarta,Emanación,lucha,Impasible|Fuerza mental,Bromista,"20,2","0,7",Desconocido,"87,5%|12,5%",Azul,284,262,196,185,196,240,0,1,0,0,0,0
+448,Lucario,ルカリオ (Lucario),0,Cuarta,Aura,lucha|acero,Impasible|Fuerza mental,Justiciero,54,"1,2",Campo|Humanoide,"87,5%|12,5%",Azul,344,350,262,361,262,306,0,1,0,1,0,0
+449,Hippopotas,ヒポポタス (Hippopotas),1,Cuarta,Hipo,tierra,Chorro arena,Poder arena,"49,5","0,8",Campo,50%|50%,Marrón,340,267,280,192,201,179,0,0,1,0,0,0
+450,Hippowdon,カバルドン (Kabaldon),0,Cuarta,Peso pesado,tierra,Chorro arena,Poder arena,300,2,Campo,50%|50%,Marrón,420,355,368,258,267,212,0,0,2,0,0,0
+451,Skorupi,スコルピ (Scorpi),1,Cuarta,Escorpión,veneno|bicho,Armadura batalla|Francotirador,Vista lince,12,"0,8",Bicho|Agua 3,50%|50%,Morado,284,218,306,174,229,251,0,0,1,0,0,0
+452,Drapion,ドラピオン (Dorapion),0,Cuarta,Escorpiogro,veneno|siniestro,Armadura batalla|Francotirador,Vista lince,"61,5","1,3",Bicho|Agua 3,50%|50%,Morado,344,306,350,240,273,317,0,0,2,0,0,0
+453,Croagunk,グレッグル (Gureggru),1,Cuarta,Boca tóxica,veneno|lucha,Anticipación|Piel seca,Toque tóxico,23,"0,7",Humanoide,50%|50%,Azul,300,243,196,243,196,218,0,1,0,0,0,0
+454,Toxicroak,ドクロッグ (Dokurog),0,Cuarta,Boca tóxica,veneno|lucha,Anticipación|Piel seca,Toque tóxico,"44,4","1,3",Humanoide,50%|50%,Azul,370,342,251,298,251,295,0,2,0,0,0,0
+455,Carnivine,マスキッパ (Muskippa),1,Cuarta,Cazabichos1,planta,Levitación,,27,"1,4",Planta,50%|50%,Verde,352,328,267,306,267,210,0,2,0,0,0,0
+456,Finneon,ケイコウオ (Keikouo),1,Cuarta,Pez ala,agua,Nado rápido|Colector,Velo agua,7,"0,4",Agua 2,50%|50%,Azul,302,216,232,216,243,254,0,0,0,0,0,1
+457,Lumineon,ネオラント (Neolant),0,Cuarta,Neón,agua,Nado rápido|Colector,Velo agua,24,"1,2",Agua 2,50%|50%,Azul,342,260,276,260,298,309,0,0,0,0,0,2
+458,Mantyke,タマンタ (Tamanta),1,Cuarta,Milano,agua|volador,Nado rápido|Absorbe agua,Velo agua,65,1,Desconocido,50%|50%,Azul,294,152,218,240,372,218,0,0,0,0,1,0
+459,Snover,ユキカブリ (Yukikaburi),1,Cuarta,Árbol nieve,planta|hielo,Nevada,Insonorizar,"50,5",1,Monstruo|Planta,50%|50%,Blanco,324,245,218,245,240,196,0,1,0,0,0,0
+460,Abomasnow,ユキノオー (Yukinooh),1,Cuarta,Árbol nieve,planta|hielo,Nevada,Insonorizar,"135,5","2,2",Monstruo|Planta,50%|50%,Blanco,384,311,273,311,295,240,0,1,0,1,0,0
+461,Weavile,マニューラ (Manyula),0,Cuarta,Garra filo,siniestro|hielo,Presión,Hurto,34,"1,1",Campo,50%|50%,Negro,344,372,251,207,295,383,0,1,0,0,0,1
+462,Magnezone,ジバコイル (Jibacoil),0,Cuarta,Magnético,eléctrico|acero,Imán|Robustez,Cálculo final,180,"1,2",Mineral,Sin sexo,Gris,344,262,361,394,306,240,0,0,0,3,0,0
+463,Lickilicky,ベロベルト (Berobelt),0,Cuarta,Lametazo,normal,Ritmo propio|Despiste,Aclimatación,140,"1,7",Monstruo,50%|50%,Rosa,424,295,317,284,317,218,3,0,0,0,0,0
+464,Rhyperior,ドサイドン (Dosidon),0,Cuarta,Taladro,tierra|roca,Pararrayos|Roca sólida,Audaz,"282,8","2,4",Monstruo|Campo,50%|50%,Gris,434,416,394,229,229,196,0,3,0,0,0,0
+465,Tangrowth,モジャンボ (Mojanbo),0,Cuarta,Enredadera,planta,Clorofila|Defensa hoja,Regeneración,"128,6",2,Planta,50%|50%,Azul,404,328,383,350,218,218,0,0,2,0,0,0
+466,Electivire,エレキブル (Elekibull),0,Cuarta,Rayo,eléctrico,Electromotor,Espíritu vital,"138,6","1,8",Humanoide,75%|25%,Amarillo,354,379,256,317,295,317,0,3,0,0,0,0
+467,Magmortar,ブーバーン (Booburn),0,Cuarta,Explosión,fuego,Cuerpo llama,Espíritu vital,68,"1,6",Humanoide,75%|25%,Rojo,354,317,256,383,317,291,0,0,0,3,0,0
+468,Togekiss,トゲキッス (Togekiss),0,Cuarta,Festejo,hada|volador,Entusiasmo|Dicha,Afortunado,38,"1,5",Volador|Hada,"87,5%|12,5%",Blanco,374,218,317,372,361,284,0,0,0,2,1,0
+469,Yanmega,メガヤンマ (Megayanma),0,Cuarta,Libélula,bicho|volador,Impulso|Cromolente,Cacheo,"51,5","1,9",Bicho,50%|50%,Verde,376,276,298,364,232,317,0,2,0,0,0,0
+470,Leafeon,リーフィア (Leafia),1,Cuarta,Verdor,planta,Defensa hoja,Clorofila,"25,5",1,Campo,"87,5%|12,5%",Verde,334,350,394,240,251,317,0,0,2,0,0,0
+471,Glaceon,グレイシア (Glacia),1,Cuarta,Nieve Fresca2,hielo,Manto níveo,Gélido,"25,9","0,8",Campo,"87,5%|12,5%",Azul,334,240,350,394,317,251,0,0,0,2,0,0
+472,Gliscor,グライオン (Glion),0,Cuarta,Colmicorpio,tierra|volador,Corte fuerte|Velo arena,Antídoto,"42,5",2,Bicho,50%|50%,Morado,354,317,383,207,273,317,0,0,2,0,0,0
+473,Mamoswine,マンムー (Manmoo),0,Cuarta,Doscolmillos2,hielo|tierra,Despiste|Manto níveo,Sebo,291,"2,5",Campo,50%|50%,Marrón,424,394,284,262,240,284,0,3,0,0,0,0
+474,Porygon-Z,ポリゴンZ (PorygonZ),0,Cuarta,Virtual,normal,Adaptable|Descarga,Cálculo final,34,"0,9",Mineral,Sin sexo,Rojo,374,284,262,405,273,306,0,0,0,3,0,0
+475,Gallade,エルレイド (Erulade),0,Cuarta,Cuchilla,psíquico|lucha,Impasible|Cortante2,Justiciero,52,"1,6",Amorfo|Humanoide3,100%|0%,Blanco,340,383,251,251,361,284,0,3,0,0,0,0
+476,Probopass,ダイノーズ (Dainose),0,Cuarta,Brújula,roca|acero,Imán|Robustez,Poder arena,340,"1,4",Mineral,50%|50%,Gris,324,229,427,273,438,196,0,0,1,0,2,0
+477,Dusknoir,ヨノワール (Yonoir),0,Cuarta,Grilletes,fantasma,Presión,Cacheo2,"106,6","2,2",Amorfo,50%|50%,Negro,294,328,405,251,405,207,0,0,1,0,2,0
+478,Froslass,ユキメノコ (Yukimenoko),0,Cuarta,Tierra fría,hielo|fantasma,Manto níveo,Cuerpo maldito,"26,6","1,3",Hada|Mineral,0%|100%,Blanco,344,284,262,284,262,350,0,0,0,0,0,2
+479,Rotom,ロトム (Rotom),1,Cuarta,Plasma,eléctrico|fantasma|eléctrico|fuego|eléctrico|agua|eléctrico|hielo|eléctrico|volador|eléctrico|planta,Levitación,,"0,3","0,3",Amorfo,Sin sexo,Rojo,304,218,278,317,278,309,0,0,0,1,0,1
+480,Uxie,ユクシー (Yuxie),1,Cuarta,Sabiduría,psíquico,Levitación,,"0,3","0,3",Desconocido,Sin sexo,Amarillo,354,273,394,273,394,317,0,0,2,0,1,0
+481,Mesprit,エムリット (Emrit),1,Cuarta,Sensorio,psíquico,Levitación,,"0,3","0,3",Desconocido,Sin sexo,Rosa,364,339,339,339,339,284,0,1,0,1,1,0
+482,Azelf,アグノム (Agnome),1,Cuarta,Voluntad,psíquico,Levitación,,"0,3","0,3",Desconocido,Sin sexo,Azul,354,383,262,383,262,361,0,2,0,1,0,0
+483,Dialga,ディアルガ (Dialga),1,Cuarta,Temporal,acero|dragón,Presión,Telepatía,"683,0D|850,0FO","5,4D|7,0FO",Desconocido,Sin sexo,Blanco,404,372,372,438,328,306,0,0,0,3,0,0
+484,Palkia,パルキア (Palkia),1,Cuarta,Espacial,agua|dragón,Presión,Telepatía,"336,0P|660,0FO","4,2P|6,3FO",Desconocido,Sin sexo,Morado,384,372,328,438,372,328,0,0,0,3,0,0
+485,Heatran,ヒードラン (Heatran),1,Cuarta,Domo Lava,fuego|acero,Absorbe fuego,Cuerpo llama,430,"1,7",Desconocido,50%|50%,Marrón,386,306,342,394,342,278,0,0,0,3,0,0
+486,Regigigas,レジギガス (Regigigas),1,Cuarta,Colosal,normal,Inicio lento,,420,"3,7",Desconocido,Sin sexo,Blanco,424,460,350,284,350,328,0,3,0,0,0,0
+487,Giratina,ギラティナ (Giratina),1,Cuarta,Renegado,fantasma|dragón,PresiónFM|LevitaciónFO,TelepatíaFM,"750,0FM|650,0FO","4,5FM|6,9FO",Desconocido,Sin sexo,Negro,504,328,372,328,372,306,3,0,0,0,0,0
+488,Cresselia,クレセリア (Cresselia),1,Cuarta,Lunar,psíquico,Levitación,,"85,6","1,5",Desconocido,0%|100%,Amarillo,444,262,372,273,394,295,0,0,0,0,3,0
+489,Phione,フィオネ (Phione),1,Cuarta,Marino,agua,Hidratación,,"3,1","0,4",Agua 1|Hada,Sin sexo,Azul,364,284,284,284,284,284,1,0,0,0,0,0
+490,Manaphy,マナフィ (Manaphy),0,Cuarta,Náutico,agua,Hidratación,,"1,4","0,3",Agua 1|Hada,Sin sexo,Azul,404,328,328,328,328,328,3,0,0,0,0,0
+491,Darkrai,ダークライ (Darkrai),1,Cuarta,Oscuridad,siniestro,Mal sueño,,"50,5","1,5",Desconocido,Sin sexo,Negro,344,306,306,405,306,383,0,0,0,2,0,1
+492,Shaymin,シェイミ (Shaymin),1,Cuarta,Gratitud,planta|planta|volador,Cura naturalFT|DichaFC,,"2,1FT|5,2FC","0,2FT|0,4FC",Desconocido,Sin sexo,Verde,404,328,328,328,328,328,3,0,0,0,0,0
+493,Arceus,アルセウス (Arceus),1,Cuarta,Alfa,normal,Multitipo,,320,"3,2",Desconocido,Sin sexo,Blanco2,444,372,372,372,372,372,3,0,0,0,0,0
+494,Victini,ビクティニ (Victini),1,Quinta,Victoria,psíquico|fuego,Tinovictoria,,4,"0,4",Desconocido,Sin sexo,Amarillo,404,328,328,328,328,328,3,0,0,0,0,0
+495,Snivy,ツタージャ (Tsutarja),1,Quinta,Serp. Hierba1,planta,Espesura,Respondón,"8,1","0,6",Campo|Planta,"87,5%|12,5%",Verde,294,207,229,207,229,247,0,0,0,0,0,1
+496,Servine,ジャノビー (Janovy),1,Quinta,Serp. Hierba1,planta,Espesura,Respondón,16,"0,8",Campo|Planta,"87,5%|12,5%",Verde,324,240,273,240,273,291,0,0,0,0,0,2
+497,Serperior,ジャローダ (Jalorda),0,Quinta,Realeza,planta,Espesura,Respondón,63,"3,3",Campo|Planta,"87,5%|12,5%",Verde,354,273,317,273,317,357,0,0,0,0,0,3
+498,Tepig,ポカブ (Pokabu),1,Quinta,Cerdo fuego,fuego,Mar llamas,Sebo,"9,9","0,5",Campo,"87,5%|12,5%",Rojo,334,247,207,207,207,207,1,0,0,0,0,0
+499,Pignite,チャオブー (Chaoboo),1,Quinta,Cerdo fuego,fuego|lucha,Mar llamas,Sebo,"55,5",1,Campo,"87,5%|12,5%",Rojo,384,313,229,262,229,229,0,2,0,0,0,0
+500,Emboar,エンブオー (Enbuoh),0,Quinta,Cerdo Ígneo,fuego|lucha,Mar llamas,Audaz,150,"1,6",Campo,"87,5%|12,5%",Rojo,424,379,251,328,251,251,0,3,0,0,0,0
+501,Oshawott,ミジュマル (Mijumaru),1,Quinta,Nutria,agua,Torrente,Caparazón,"5,9","0,5",Campo,"87,5%|12,5%",Azul,314,229,207,247,207,207,0,0,0,1,0,0
+502,Dewott,フタチマル (Futachimaru),1,Quinta,Superación,agua,Torrente,Caparazón,"24,5","0,8",Campo,"87,5%|12,5%",Azul,354,273,240,291,240,240,0,0,0,2,0,0
+503,Samurott,ダイケンキ (Daikenki),0,Quinta,Majestuoso,agua,Torrente,Caparazón,"94,6","1,5",Campo,"87,5%|12,5%",Azul,394,328,295,346,262,262,0,0,0,3,0,0
+504,Patrat,ミネズミ (Minezumi),1,Quinta,Explorador,normal,Vista lince|Fuga,Cálculo final,"11,6","0,5",Campo,50%|50%,Marrón,294,229,194,185,194,201,0,1,0,0,0,0
+505,Watchog,ミルホッグ (Miruhog),0,Quinta,Alerta,normal,Vista lince|Iluminación,Cálculo final,27,"1,1",Campo,50%|50%,Marrón,324,295,260,240,260,278,0,21,0,0,0,0
+506,Lillipup,ヨーテリー (Yorterrie),1,Quinta,Perrito,normal,Espíritu vital|Recogida,Fuga,"4,1","0,4",Campo,50%|50%,Marrón,294,240,207,163,207,229,0,1,0,0,0,0
+507,Herdier,ハーデリア (Herderrie),1,Quinta,Leal,normal,Intimidación|Ímpetu arena,Intrépido,"14,7","0,9",Campo,50%|50%,Gris,334,284,251,185,251,240,0,2,0,0,0,0
+508,Stoutland,ムーランド (Mooland),0,Quinta,Magnánimo,normal,Intimidación|Ímpetu arena,Intrépido,61,"1,2",Campo,50%|50%,Gris,374,350,306,207,306,284,0,3,0,0,0,0
+509,Purrloin,チョロネコ (Choroneko),1,Quinta,Malicioso,siniestro,Flexibilidad|Liviano,Bromista,"10,1","0,4",Campo,50%|50%,Morado,286,218,190,218,190,254,0,0,0,0,0,1
+510,Liepard,レパルダス (Lepardas),0,Quinta,Calculador,siniestro,Flexibilidad|Liviano,Bromista,"37,5","1,1",Campo,50%|50%,Morado,332,302,218,302,218,342,0,0,0,0,0,2
+511,Pansage,ヤナップ (Yanappu),1,Quinta,Mono hierba,planta,Gula,Espesura,"10,5","0,6",Campo,"87,5%|12,5%",Verde,304,225,214,225,214,249,0,0,0,0,0,1
+512,Simisage,ヤナッキー (Yanakkie),0,Quinta,Mono pincho,planta,Gula,Espesura,"30,5","1,1",Campo,"87,5%|12,5%",Verde,354,324,247,324,247,331,0,0,0,0,0,2
+513,Pansear,バオップ (Baoppu),1,Quinta,Ardiente,fuego,Gula,Mar llamas,11,"0,6",Campo,"87,5%|12,5%",Rojo,304,225,214,225,214,249,0,0,0,0,0,1
+514,Simisear,バオッキー (Baokkie),0,Quinta,Lumbre,fuego,Gula,Mar llamas,28,1,Campo,"87,5%|12,5%",Rojo,354,324,247,324,247,331,0,0,0,0,0,2
+515,Panpour,ヒヤップ (Hiyappu),1,Quinta,Salpicadura,agua,Gula,Torrente,"13,5","0,6",Campo,"87,5%|12,5%",Azul,304,225,214,225,214,249,0,0,0,0,0,1
+516,Simipour,ヒヤッキー (Hiyakkie),0,Quinta,Drenaje,agua,Gula,Torrente,29,1,Campo,"87,5%|12,5%",Azul,354,324,247,324,247,331,0,0,0,0,0,2
+517,Munna,ムンナ (Munna),1,Quinta,Comesueños,psíquico,Alerta|Sincronía,Telepatía,"23,3","0,6",Campo,50%|50%,Rosa,356,163,207,256,229,161,1,0,0,0,0,0
+518,Musharna,ムシャーナ (Musharna),0,Quinta,Duermevela,psíquico,Alerta|Sincronía,Telepatía,"60,5","1,1",Campo,50%|50%,Rosa,436,229,295,344,317,172,2,0,0,0,0,0
+519,Pidove,マメパト (Mamepato),1,Quinta,Pichón,normal|volador,Sacapecho|Afortunado,Rivalidad,"2,1","0,3",Volador,50%|50%,Gris,304,229,218,188,174,203,0,1,0,0,0,0
+520,Tranquill,ハトーボー (Hatoboh),1,Quinta,Torcaz,normal|volador,Sacapecho|Afortunado,Rivalidad,15,"0,6",Volador,50%|50%,Gris,328,278,245,218,201,251,0,2,0,0,0,0
+521,Unfezant,ケンホロウ (Kenhallow),0,Quinta,Altanero,normal|volador,Sacapecho|Afortunado,Rivalidad,29,"1,2",Volador,50%|50%,Gris,364,339,284,251,229,313,0,3,0,0,0,0
+522,Blitzle,シママ (Shimama),1,Quinta,Electrizado,eléctrico,Pararrayos|Electromotor,Herbívoro,"29,8","0,8",Campo,50%|50%,Negro,294,240,179,218,179,276,0,0,0,0,0,1
+523,Zebstrika,ゼブライカ (Zebraika),0,Quinta,Rayo,eléctrico,Pararrayos|Electromotor,Herbívoro,"79,5","1,6",Campo,50%|50%,Negro,354,328,247,284,247,364,0,0,0,0,0,2
+524,Roggenrola,ダンゴロ (Dangoro),1,Quinta,Manto,roca,Robustez|Armadura frágil1,Poder arena,18,"0,4",Mineral,50%|50%,Azul,314,273,295,163,163,141,0,0,1,0,0,0
+525,Boldore,ガントル (Gantle),1,Quinta,Mineral,roca,Robustez|Armadura frágil1,Poder arena,102,"0,9",Mineral,50%|50%,Azul,344,339,339,218,196,152,0,1,1,0,0,0
+526,Gigalith,ギガイアス (Gigaiath),0,Quinta,Presurizado,roca,Robustez|Chorro arena1,Poder arena,260,"1,7",Mineral,50%|50%,Azul,374,405,394,240,284,163,0,3,0,0,0,0
+527,Woobat,コロモリ (Koromori),1,Quinta,Murciélago,psíquico|volador,Ignorante|Zoquete,Simple,"2,1","0,4",Campo|Volador,50%|50%,Azul,334,207,203,229,203,267,0,0,0,0,0,1
+528,Swoobat,ココロモリ (Kokoromori),0,Quinta,Galante,psíquico|volador,Ignorante|Zoquete,Simple,"10,5","0,9",Campo|Volador,50%|50%,Azul,338,234,229,278,229,359,0,0,0,0,0,2
+529,Drilbur,モグリュー (Mogurew),1,Quinta,Topo,tierra,Ímpetu arena|Poder arena,Rompemoldes,"8,5","0,3",Campo,50%|50%,Gris,324,295,196,174,207,258,0,1,0,0,0,0
+530,Excadrill,ドリュウズ (Doryuzu),0,Quinta,Subterráneo,tierra|acero,Ímpetu arena|Poder arena,Rompemoldes,"40,4","0,7",Campo,"50,0%|50,0%",Gris,424,405,240,218,251,302,0,2,0,0,0,0
+531,Audino,タブンネ (Tabunne),1,Quinta,Escucha,normal,Alma cura|Regeneración,Zoquete,31,"1,1",Hada,50%|50%,Rosa|Blanco,410,240,298,240,298,218,2,0,0,0,0,0
+532,Timburr,ドッコラー (Dokkorer),1,Quinta,Musculoso,lucha,Agallas|Potencia bruta,Puño férreo,"12,5","0,6",Humanoide,75%|25%,Gris,354,284,229,163,185,185,0,1,0,0,0,0
+533,Gurdurr,ドテッコツ (Dotekkotsu),1,Quinta,Musculoso,lucha,Agallas|Potencia bruta,Puño férreo,40,"1,2",Humanoide,75%|25%,Gris,374,339,295,196,218,196,0,2,0,0,0,0
+534,Conkeldurr,ローブシン (Roubushin),0,Quinta,Musculoso,lucha,Agallas|Potencia bruta,Puño férreo,87,"1,4",Humanoide,75%|25%,Marrón,414,416,317,229,251,207,0,3,0,0,0,0
+535,Tympole,オタマロ (Otamaro),1,Quinta,Renacuajo,agua,Nado rápido|Hidratación,Absorbe agua,"4,5","0,5",Agua 1,50%|50%,Azul,304,218,196,218,196,249,0,0,0,0,0,1
+536,Palpitoad,ガマガル (Gamagaru),1,Quinta,Vibrante,agua|tierra,Nado rápido|Hidratación,Absorbe agua,17,"0,8",Agua 1,50%|50%,Azul,354,251,229,251,229,260,2,0,0,0,0,0
+537,Seismitoad,ガマゲロゲ (Gamageroge),0,Quinta,Vibrante,agua|tierra,Nado rápido|Toque tóxico,Absorbe agua,62,"1,5",Agua 1,50%|50%,Azul,414,317,273,295,273,271,3,0,0,0,0,0
+538,Throh,ナゲキ (Nageki),1,Quinta,Judo,lucha,Fuerza mental|Agallas,Rompemoldes,"55,5","1,3",Humanoide,100%|0%,Rojo,444,328,295,174,295,207,2,0,0,0,0,0
+539,Sawk,ダゲキ (Dageki),1,Quinta,Kárate,lucha,Robustez|Fuerza mental,Rompemoldes,51,"1,4",Humanoide,100%|0%,Azul,354,383,273,174,273,295,0,2,0,0,0,0
+540,Sewaddle,クルミル (Kurumiru),1,Quinta,Sastre,bicho|planta,Enjambre|Clorofila,Funda,"2,5","0,3",Bicho,50%|50%,Amarillo,294,225,262,196,240,201,0,0,1,0,0,0
+541,Swadloon,クルマユ (Kurumayu),1,Quinta,Arropado,bicho|planta,Defensa hoja|Clorofila,Funda,"7,3","0,5",Bicho,50%|50%,Verde,314,247,306,218,284,201,0,0,2,0,0,0
+542,Leavanny,ハハコモリ (Hahakomori),0,Quinta,Cuidador,bicho|planta,Enjambre|Clorofila,Funda,"20,5","1,2",Bicho,50%|50%,Amarillo,354,335,284,262,262,311,0,3,0,0,0,0
+543,Venipede,フシデ (Fushide),1,Quinta,Ciempiés,bicho|veneno,Enjambre|Punto tóxico,Pies rápidos1|Impulso2,"5,3","0,4",Bicho,50%|50%,Rojo,264,207,238,174,194,234,0,0,1,0,0,0
+544,Whirlipede,ホイーガ (Hoiiga),1,Quinta,Pupaciempiés,bicho|veneno,Enjambre|Punto tóxico,Pies rápidos1|Impulso2,"58,5","1,2",Bicho,50%|50%,Gris,284,229,326,196,282,212,0,0,2,0,0,0
+545,Scolipede,ペンドラー (Pendora),0,Quinta,Megaciempiés,bicho|veneno,Enjambre|Punto tóxico,Pies rápidos1|Impulso2,"200,5","2,5",Bicho,50%|50%,Rojo,324,328,304,229,260,355,0,0,0,0,0,3
+546,Cottonee,モンメン (Monmen),1,Quinta,Bolalgodón,planta|hada,Bromista|Allanamiento,Clorofila,"0,6","0,3",Planta|Hada,50%|50%,Verde,284,168,240,190,218,254,0,0,0,0,0,1
+547,Whimsicott,エルフーン (Elfuun),0,Quinta,Vuelalviento,planta|hada,Bromista|Allanamiento,Clorofila,"6,6","0,7",Planta|Hada,50%|50%,Verde,324,256,295,278,273,364,0,0,0,0,0,2
+548,Petilil,チュリネ (Churine),1,Quinta,Bulbo,planta,Clorofila|Ritmo propio,Defensa hoja,"6,6","0,5",Planta,0%|100%,Verde,294,185,218,262,218,174,0,0,0,1,0,0
+549,Lilligant,ドレディア (Dredear),0,Quinta,Adornofloral,planta,Clorofila|Ritmo propio,Defensa hoja,"16,3","1,1",Planta,0%|100%,Verde,344,240,273,350,273,306,0,0,0,2,0,0
+550,Basculin,バスラオ (Bassrao),1,Quinta,ViolentoRR/RA|MansoRB,agua,AudazRR|Cabeza rocaRA|CobardíaRB|Adaptable,Rompemoldes,18,1,Agua 2,50%|50%,Verde,344,311,251,284,229,324,0,0,0,0,0,2
+551,Sandile,メグロコ (Meguroco),1,Quinta,Desierdrilo,tierra|siniestro,Intimidación|Autoestima,Irascible,"15,2","0,7",Campo,50%|50%,Marrón,304,267,185,185,185,251,0,1,0,0,0,0
+552,Krokorok,ワルビル (Waruvile),1,Quinta,Desierdrilo,tierra|siniestro,Intimidación|Autoestima,Irascible,"33,4",1,Campo,50%|50%,Marrón,324,289,207,207,207,271,0,2,0,0,0,0
+553,Krookodile,ワルビアル (Waruvial),0,Quinta,Amenazador,tierra|siniestro,Intimidación|Autoestima,Irascible,"96,3","1,5",Campo,50%|50%,Rojo,394,366,284,251,262,311,0,3,0,0,0,0
+554,Darumaka,ダルマッカ (Darumakka),1,Quinta,Daruma,fuego,Entusiasmo,Fuerza mental,"37,5","0,6",Campo,50%|50%,Rojo,344,306,207,141,207,218,0,1,0,0,0,0
+555,Darmanitan,ヒヒダルマ (Hihidaruma),0,Quinta,Candente,fuego|fuego|psíquico,Potencia bruta,Modo daruma,"92,9","1,3",Campo,50%|50%,RojoMN|AzulMD1,414,416,229,174,229,317,0,2,0,0,0,0
+556,Maractus,マラカッチ (Maracacchi),1,Quinta,Cactus,planta,Absorbe agua|Clorofila,Colector,28,1,Planta,50%|50%,Verde,354,298,256,342,256,240,0,0,0,2,0,0
+557,Dwebble,イシズマイ (Ishizumai),1,Quinta,Casapiedra,bicho|roca,Robustez|Caparazón,Armadura frágil,"14,5","0,3",Bicho|Mineral,50%|50%,Rojo,304,251,295,185,185,229,0,0,1,0,0,0
+558,Crustle,イワパレス (Iwapalace),0,Quinta,Casarroca,bicho|roca,Robustez|Caparazón,Armadura frágil,200,"1,4",Bicho|Mineral,50%|50%,Rojo,344,339,383,251,273,207,0,0,2,0,0,0
+559,Scraggy,ズルッグ (Zuruggu),1,Quinta,Mudapiel,siniestro|lucha,Mudar|Autoestima,Intimidación,"11,8","0,6",Campo|Dragón,50%|50%,Amarillo,304,273,262,185,262,214,0,1,0,0,0,0
+560,Scrafty,ズルズキン (Zuruzukin),0,Quinta,Gamberro,siniestro|lucha,Mudar|Autoestima,Intimidación,30,"1,1",Campo|Dragón,50%|50%,Rojo,334,306,361,207,361,236,0,0,1,0,1,0
+561,Sigilyph,シンボラー (Symboler),1,Quinta,Pseudopájaro,psíquico|volador,Piel milagro|Muro mágico,Cromolente,14,"1,4",Volador,50%|50%,Negro,348,236,284,335,284,322,0,0,0,2,0,0
+562,Yamask,デスマス (Deathmas),1,Quinta,Espíritu,fantasma,Momia,,"1,5","0,5",Mineral|Amorfo,50%|50%,Negro,280,174,295,229,251,174,0,0,1,0,0,0
+563,Cofagrigus,デスカーン (Desukarn),0,Quinta,Sepultura,fantasma,Momia,,"76,5","1,7",Mineral|Amorfo,"50,0%|50,0%",Amarillo,320,218,427,317,339,174,0,0,2,0,0,0
+564,Tirtouga,プロトーガ (Protoga),1,Quinta,Pretortuga,agua|roca,Roca sólida|Robustez,Nado rápido,"16,5","0,7",Agua 1|Agua 3,"87,5%|12,5%",Azul,312,280,335,225,207,157,0,0,1,0,0,0
+565,Carracosta,アバゴーラ (Abagoura),0,Quinta,Pretortuga,agua|roca,Roca sólida|Robustez,Nado rápido,81,"1,2",Agua 1|Agua 3,"87,5%|12,5%",Azul,352,346,401,291,251,179,0,0,2,0,0,0
+566,Archen,アーケン (Archen),1,Quinta,Protopájaro,roca|volador,Flaqueza,,"9,5","0,5",Volador|Agua 3,"87,5%|12,5%",Amarillo,314,355,207,271,207,262,0,1,0,0,0,0
+567,Archeops,アーケオス (Archeos),0,Quinta,Protopájaro,roca|volador,Flaqueza,,32,"1,4",Volador|Agua 3,"87,5%|12,5%",Amarillo,354,416,251,355,251,350,0,2,0,0,0,0
+568,Trubbish,ヤブクロン (Yabukuron),1,Quinta,Bolsa Basura1,veneno,Hedor|Viscosidad,Detonación,31,"0,6",Mineral,50%|50%,Verde,304,218,245,196,245,251,0,0,0,0,0,1
+569,Garbodor,ダストダス (Dustdas),0,Quinta,Vertedero,veneno,Hedor|Armadura frágil,Detonación,"107,3","1,9",Mineral,50%|50%,Verde,364,317,289,240,289,273,0,2,0,0,0,0
+570,Zorua,ゾロア (Zorua),1,Quinta,Zorro Pillo1,siniestro,Ilusión,,"12,5","0,7",Campo,"87,5%|12,5%",Gris,284,251,196,284,196,251,0,0,0,1,0,0
+571,Zoroark,ゾロアーク (Zoroark),0,Quinta,Disfrazorro,siniestro,Ilusión,,"81,1","1,6",Campo,"87,5%|12,5%",Gris,324,339,240,372,240,339,0,0,0,2,0,0
+572,Minccino,チラーミィ (Chillarmy),1,Quinta,Chinchilla,normal,Gran encanto|Experto,Encadenado,"5,8","0,4",Campo,25%|75%,Gris,314,218,196,196,196,273,0,0,0,0,0,1
+573,Cinccino,チラチーノ (Chillaccino),0,Quinta,Estola,normal,Gran encanto|Experto,Encadenado,"7,5","0,5",Campo,25%|75%,Gris,354,317,240,251,240,361,0,0,0,0,0,2
+574,Gothita,ゴチム (Gothimu),1,Quinta,Inquisitivo,psíquico,Cacheo|Tenacidad1,Sombra trampa,"5,8","0,4",Humanoide,25%|75%,Morado,294,174,218,229,251,207,0,0,0,0,1,0
+575,Gothorita,ゴチミル (Gothimiru),1,Quinta,Manipulador,psíquico,Cacheo|Tenacidad1,Sombra trampa,18,"0,7",Humanoide,25%|75%,Morado,324,207,262,273,295,229,0,0,0,0,2,0
+576,Gothitelle,ゴチルゼル (Gothiruselle),0,Quinta,Astro,psíquico,Cacheo|Tenacidad1,Sombra trampa,44,"1,5",Humanoide,25%|75%,Morado,344,229,317,317,350,251,0,0,0,0,3,0
+577,Solosis,ユニラン (Uniran),1,Quinta,Célula,psíquico,Funda|Muro mágico,Regeneración,1,"0,3",Amorfo,50%|50%,Verde,294,174,196,339,218,152,0,0,0,1,0,0
+578,Duosion,ダブラン (Doublan),1,Quinta,Mitosis,psíquico,Funda|Muro mágico,Regeneración,8,"0,6",Amorfo,50%|50%,Verde,334,196,218,383,240,174,0,0,0,2,0,0
+579,Reuniclus,ランクルス (Lanculus),0,Quinta,Ampliación,psíquico,Funda|Muro mágico,Regeneración,"20,1",1,Amorfo,50%|50%,Verde,424,251,273,383,295,174,0,0,0,3,0,0
+580,Ducklett,コアルヒー (Koaruhie),1,Quinta,Ave agua,agua|volador,Vista lince|Sacapecho,Hidratación,"5,5","0,5",Agua 1|Volador,50%|50%,Azul,328,205,218,205,218,229,1,0,0,0,0,0
+581,Swanna,スワンナ (Swanna),0,Quinta,Cisne,agua|volador,Vista lince|Sacapecho,Hidratación,"24,2","1,3",Agua 1|Volador,50%|50%,Blanco,354,300,247,300,247,324,0,0,0,0,0,2
+582,Vanillite,バニプッチ (Vanipeti),1,Quinta,Nieve Fresca1,hielo,Gélido|Manto níveo2,Armadura frágil,"5,7","0,4",Mineral,50%|50%,Blanco,276,218,218,251,240,205,0,0,0,1,0,0
+583,Vanillish,バニリッチ (Vanirich),1,Quinta,Nieve Helada1,hielo,Gélido|Manto níveo2,Armadura frágil,41,"1,1",Mineral,50%|50%,Blanco,306,251,251,284,273,238,0,0,0,2,0,0
+584,Vanilluxe,バイバニラ (Baivanilla),0,Quinta,Nieve Gélida1,hielo,Gélido|Nevada2,Armadura frágil,"57,5","1,3",Mineral,50%|50%,Blanco,346,317,295,350,317,282,0,0,0,3,0,0
+585,Deerling,シキジカ (Shikijika),1,Quinta,Estacional,normal|planta,Clorofila|Herbívoro,Dicha,"19,5","0,6",Campo,50%|50%,Rosa|Verde|Rojo|Marrón,324,240,218,196,218,273,0,0,0,0,0,1
+586,Sawsbuck,メブキジカ (Mebukijika),0,Quinta,Estacional,normal|planta,Clorofila|Herbívoro,Dicha,"92,5","1,9",Campo,50%|50%,Marrón,364,328,262,240,262,317,0,2,0,0,0,0
+587,Emolga,エモンガ (Emolga),1,Quinta,Vuelardilla,eléctrico|volador,Electricidad estática,Electromotor,5,"0,4",Campo,50%|50%,Blanco,314,273,240,273,240,335,0,0,0,0,0,2
+588,Karrablast,カブルモ (Kaburumo),1,Quinta,Bocado,bicho,Enjambre|Mudar,Indefenso,"5,9","0,5",Bicho,50%|50%,Azul,304,273,207,196,207,240,0,1,0,0,0,0
+589,Escavalier,シュバルゴ (Chevargo),0,Quinta,Soldado,bicho|acero,Enjambre|Caparazón,Funda,33,1,Bicho,50%|50%,Gris,344,405,339,240,339,152,0,2,0,0,0,0
+590,Foongus,タマゲタケ (Tamagetake),1,Quinta,Hongo,planta|veneno,Efecto espora,Regeneración,1,"0,2",Planta,50%|50%,Blanco,342,229,207,229,229,141,1,0,0,0,0,0
+591,Amoonguss,モロバレル (Morobareru),0,Quinta,Hongo,planta|veneno,Efecto espora,Regeneración,"10,5","0,6",Planta,50%|50%,Blanco,432,295,262,295,284,174,2,0,0,0,0,0
+592,Frillish,プルリル (Pururill),1,Quinta,Ingrávido,agua|fantasma,Absorbe agua|Cuerpo maldito,Humedad,33,"1,2",Amorfo,50%|50%,Blanco,314,196,218,251,295,196,0,0,0,0,1,0
+593,Jellicent,ブルンゲル (Burungel),0,Quinta,Ingrávido,agua|fantasma,Absorbe agua|Cuerpo maldito,Humedad,135,"2,2",Amorfo,50%|50%,Blanco,404,240,262,295,339,240,0,0,0,0,2,0
+594,Alomomola,ママンボウ (Mamanbou),1,Quinta,Socorrista,agua,Alma cura|Hidratación,Regeneración,"31,6","1,2",Agua 1|Agua 2,50%|50%,Rosa,534,273,284,196,207,251,2,0,0,0,0,0
+595,Joltik,バチュル (Bachuru),1,Quinta,Lapa,bicho|eléctrico,Ojo compuesto|Nerviosismo,Enjambre,"0,6","0,1",Bicho,50%|50%,Amarillo,304,212,218,234,218,251,0,0,0,0,0,1
+596,Galvantula,デンチュラ (Dentula),0,Quinta,Electroaraña,bicho|eléctrico,Ojo compuesto|Nerviosismo,Enjambre,"14,3","0,8",Bicho,50%|50%,Amarillo,344,278,240,322,240,346,0,0,0,0,0,2
+597,Ferroseed,テッシード (Tesseed),1,Quinta,Fruto Espina1,planta|acero,Punta acero,,"18,8","0,6",Planta|Mineral,50%|50%,Gris,292,218,309,161,298,130,0,0,1,0,0,0
+598,Ferrothorn,ナットレイ (Nutrey),0,Quinta,Bola Espina1,planta|acero,Punta acero,Anticipación2,110,1,Planta|Mineral,50%|50%,Gris,352,315,397,227,364,152,0,0,2,0,0,0
+599,Klink,ギアル (Giaru),1,Quinta,Engranaje,acero,Más|Menos,Cuerpo puro,21,"0,3",Mineral,Sin sexo,Gris,284,229,262,207,240,174,0,0,1,0,0,0
+600,Klang,ギギアル (Gigiaru),1,Quinta,Engranaje,acero,Más|Menos,Cuerpo puro,51,"0,6",Mineral,Sin sexo,Gris,324,284,317,262,295,218,0,0,2,0,0,0
+601,Klinklang,ギギギアル (Gigigiaru),0,Quinta,Engranaje,acero,Más|Menos,Cuerpo puro,81,"0,6",Mineral,Sin sexo,Gris,324,328,361,262,295,306,0,0,3,0,0,0
+602,Tynamo,シビシラス (Shibishirasu),1,Quinta,Electropez,eléctrico,Levitación,,"0,3","0,2",Amorfo,50%|50%,Blanco,274,229,196,207,196,240,0,0,0,0,0,1
+603,Eelektrik,シビビール (Shibibeel),1,Quinta,Electropez,eléctrico,Levitación,,22,"1,2",Amorfo,50%|50%,Azul,334,295,262,273,262,196,0,2,0,0,0,0
+604,Eelektross,シビルドン (Shibirudon),0,Quinta,Electropez,eléctrico,Levitación,,"85,5","2,1",Amorfo,50%|50%,Azul,374,361,284,339,284,218,0,3,0,0,0,0
+605,Elgyem,リグレー (Ligray),1,Quinta,Cerebro,psíquico,Telepatía|Sincronía,Cálculo final,9,"0,5",Humanoide,50%|50%,Azul,314,229,229,295,229,174,0,0,0,1,0,0
+606,Beheeyem,オーベム (Ohbem),0,Quinta,Cerebro,psíquico,Telepatía|Sincronía,Cálculo final,"34,5",1,Humanoide,50%|50%,Marrón,354,273,273,383,317,196,0,0,0,2,0,0
+607,Litwick,ヒトモシ (Hitomoshi),1,Quinta,Vela,fantasma|fuego,Absorbe fuego|Cuerpo llama,Sombra trampa1|Allanamiento2,"3,1","0,3",Amorfo,50%|50%,Blanco,304,174,229,251,229,152,0,0,0,1,0,0
+608,Lampent,ランプラー (Lampler),1,Quinta,Farolillo,fantasma|fuego,Absorbe fuego|Cuerpo llama,Sombra trampa1|Allanamiento2,13,"0,6",Amorfo,50%|50%,Negro,324,196,240,317,240,229,0,0,0,2,0,0
+609,Chandelure,シャンデラ (Chandela),0,Quinta,Señuelo,fantasma|fuego,Absorbe fuego|Cuerpo llama,Sombra trampa1|Allanamiento2,"34,3",1,Amorfo,50%|50%,Negro,324,229,306,427,306,284,0,0,0,3,0,0
+610,Axew,キバゴ (Kibago),1,Quinta,Colmillo,dragón,Rivalidad|Rompemoldes,Nerviosismo,18,"0,6",Monstruo|Dragón,50%|50%,Verde,296,300,240,174,196,234,0,1,0,0,0,0
+611,Fraxure,オノンド (Onondo),1,Quinta,Boca Hacha1,dragón,Rivalidad|Rompemoldes,Nerviosismo,36,1,Dragón|Monstruo,50%|50%,Verde,336,366,262,196,218,256,0,2,0,0,0,0
+612,Haxorus,オノノクス (Ononokus),0,Quinta,Boca Hacha1,dragón,Rivalidad|Rompemoldes,Nerviosismo,"105,5","1,8",Monstruo|Dragón,50%|50%,Amarillo,356,432,306,240,262,322,0,3,0,0,0,0
+613,Cubchoo,クマシュン (Kumasyun),1,Quinta,Congelación,hielo,Manto níveo|Quitanieves1,Cobardía,"8,5","0,5",Campo,50%|50%,Blanco,314,262,196,240,196,196,0,1,0,0,0,0
+614,Beartic,ツンベアー (Tunbear),0,Quinta,Glaciación,hielo,Manto níveo|Quitanieves1,Nado rápido,260,"2,6",Campo,50%|50%,Blanco,394,394,284,262,284,218,0,2,0,0,0,0
+615,Cryogonal,フリージオ (Freegeo),1,Quinta,Cristal,hielo,Levitación,,148,"1,1",Mineral,Sin sexo,Azul,364,218,218,317,405,339,0,0,0,0,2,0
+616,Shelmet,チョボマキ (Chobomaki),1,Quinta,Caracol,bicho,Hidratación|Caparazón,Funda,"7,7","0,4",Bicho,50%|50%,Rojo,304,196,295,196,251,163,0,0,1,0,0,0
+617,Accelgor,アギルダー (Agilder),0,Quinta,Sincaparazón,bicho,Hidratación|Viscosidad,Liviano,"25,3","0,8",Bicho,50%|50%,Rojo,364,262,196,328,240,427,0,0,0,0,0,2
+618,Stunfisk,マッギョ (Maggyo),1,Quinta,Trampa,tierra|eléctrico,Electricidad estática|Flexibilidad,Velo arena,11,"0,7",Agua 1|Amorfo,50%|50%,Marrón,422,254,293,287,326,179,2,0,0,0,0,0
+619,Mienfoo,コジョフー (Kojofu),1,Quinta,Arte Marcial1,lucha,Fuerza mental|Regeneración,Audaz,20,"0,9",Campo|Humanoide,50%|50%,Amarillo,294,295,218,229,218,251,0,1,0,0,0,0
+620,Mienshao,コジョンド (Kojondo),0,Quinta,Arte Marcial1,lucha,Fuerza mental|Regeneración,Audaz,"35,5","1,4",Campo|Humanoide,50%|50%,Morado,334,383,240,317,240,339,0,2,0,0,0,0
+621,Druddigon,クリムガン (Crimgan),1,Quinta,Cueva,dragón,Piel tosca|Potencia bruta,Rompemoldes,139,"1,6",Dragón|Monstruo,50%|50%,Rojo,358,372,306,240,306,214,0,2,0,0,0,0
+622,Golett,ゴビット (Gobit),1,Quinta,Autómata,tierra|fantasma,Puño férreo|Zoquete,Indefenso,92,1,Mineral,Sin sexo,Verde,322,271,218,185,218,185,0,1,0,0,0,0
+623,Golurk,ゴルーグ (Goloog),0,Quinta,Autómata,tierra|fantasma,Puño férreo|Zoquete,Indefenso,330,"2,8",Mineral,Sin sexo,Verde,382,381,284,229,284,229,0,2,0,0,0,0
+624,Pawniard,コマタナ (Komatana),1,Quinta,Tajo,siniestro|acero,Competitivo|Fuerza mental,Presión,"10,2","0,5",Humanoide,50%|50%,Rojo,294,295,262,196,196,240,0,1,0,0,0,0
+625,Bisharp,キリキザン (Kirikizan),1,Quinta,Filo,siniestro|acero,Competitivo|Fuerza mental,Presión,70,"1,6",Humanoide,50%|50%,Rojo,334,383,328,240,262,262,0,2,0,0,0,0
+626,Bouffalant,バッフロン (Buffron),1,Quinta,Torocabezazo,normal,Audaz|Herbívoro,Insonorizar,"94,6","1,6",Campo,50%|50%,Marrón,394,350,317,196,317,229,0,2,0,0,0,0
+627,Rufflet,ワシボン (Washibon),1,Quinta,Aguilucho,normal|volador,Vista lince|Potencia bruta,Entusiasmo,"10,5","0,5",Volador,100%|0%,Blanco,344,291,218,190,218,240,0,1,0,0,0,0
+628,Braviary,ウォーグル (Warrgle),0,Quinta,Aguerrido,normal|volador,Vista lince|Potencia bruta,Competitivo,41,"1,5",Volador,100%|0%,Rojo,404,379,273,234,273,284,0,2,0,0,0,0
+629,Vullaby,バルチャイ (Valchai),1,Quinta,Pañal,siniestro|volador,Sacapecho|Funda,Armadura frágil,9,"0,5",Volador,0%|100%,Marrón,344,229,273,207,251,240,0,0,1,0,0,0
+630,Mandibuzz,バルジーナ (Vulgina),0,Quinta,Buitre Hueso1,siniestro|volador,Sacapecho|Funda,Armadura frágil,"39,5","1,2",Volador,0%|100%,Marrón,424,251,339,229,317,284,0,0,0,2,0,0
+631,Heatmor,クイタラン (Kuitaran),1,Quinta,Hormiguero,fuego,Gula|Absorbe fuego,Humo blanco,58,"1,4",Campo,50%|50%,Rojo,374,322,254,339,254,251,0,0,0,2,0,0
+632,Durant,アイアント (Aiant),1,Quinta,Hormigacero,bicho|acero,Enjambre|Entusiasmo,Pereza,33,"0,3",Bicho,50%|50%,Gris,320,348,355,214,214,348,0,0,2,0,0,0
+633,Deino,モノズ (Monozu),1,Quinta,Tosco,siniestro|dragón,Entusiasmo,,"17,3","0,8",Dragón,50%|50%,Azul,308,251,218,207,218,192,0,1,0,0,0,0
+634,Zweilous,ジヘッド (Dihead),1,Quinta,Violento,siniestro|dragón,Entusiasmo,,50,"1,4",Dragón,50%|50%,Azul,348,295,262,251,262,236,0,2,0,0,0,0
+635,Hydreigon,サザンドラ (Sazandora),0,Quinta,Voraz,siniestro|dragón,Levitación,,160,"1,8",Dragón,50%|50%,Azul,388,339,306,383,306,324,0,0,0,3,0,0
+636,Larvesta,メラルバ (Merlarva),1,Quinta,Antorcha,bicho|fuego,Cuerpo llama,Enjambre,"28,8","1,1",Bicho,50%|50%,Blanco,314,295,229,218,229,240,0,1,0,0,0,0
+637,Volcarona,ウルガモス (Ulgamoth),0,Quinta,Sol,bicho|fuego,Cuerpo llama,Enjambre,46,"1,6",Bicho,50%|50%,Blanco,374,240,251,405,339,328,0,0,0,3,0,0
+638,Cobalion,コバルオン (Cobalon),1,Quinta,Tesón acero,acero|lucha,Justiciero,,250,"2,1",Desconocido,Sin sexo,Azul,386,306,392,306,267,346,0,0,3,0,0,0
+639,Terrakion,テラキオン (Terrakion),1,Quinta,Gruta,roca|lucha,Justiciero,,260,"1,9",Desconocido,Sin sexo,Gris,386,392,306,267,306,346,0,3,0,0,0,0
+640,Virizion,ビリジオン (Virizion),1,Quinta,Prado,planta|lucha,Justiciero,,200,2,Desconocido,Sin sexo,Verde,386,306,267,306,392,346,0,0,0,0,3,0
+641,Tornadus,トルネロス (Tornelos),1,Quinta,Torbellino,volador,BromistaFA|RegeneraciónFT,CompetitivoFA,63,"1,5FA|1,4FT",Desconocido,100%|0%,Verde,362,361,262,383,284,353,0,3,0,0,0,0
+642,Thundurus,ボルトロス (Voltolos),1,Quinta,Centella,eléctrico|volador,BromistaFA|Absorbe electricidad|FT,CompetitivoFA,61,"1,5FA|3,0FT",Desconocido,100%|0%,Azul,362,361,262,383,284,353,0,3,0,0,0,0
+643,Reshiram,レシラム (Reshiram),1,Quinta,Blanco veraz,dragón|fuego,Turbollama,,330,"3,2",Desconocido,Sin sexo,Blanco,404,372,328,438,372,306,0,0,0,3,0,0
+644,Zekrom,ゼクロム (Zekrom),1,Quinta,Negro puro,dragón|eléctrico,Terravoltaje,,345,"2,9",Desconocido,Sin sexo,Negro,404,438,372,372,328,306,0,3,0,0,0,0
+645,Landorus,ランドロス (Landlos),1,Quinta,Fertilidad,tierra|volador,Poder arenaFA|IntimidaciónFT,Potencia brutaFA,68,"1,5FA|1,3FT",Desconocido,100%|0%,Marrón,382,383,306,361,284,331,0,0,0,3,0,0
+646,Kyurem,キュレム (Kyurem),1,Quinta,Frontera,dragón|hielo,PresiónK|TerravoltajeKn|TurbollamaKb,,325,"3,0K|3,3Kn|3,6Kb",Desconocido,Sin sexo,Gris,454,394,306,394,306,317,1,1,0,1,0,0
+647,Keldeo,ケルディオ (Keldeo),1,Quinta,Potro,agua|lucha,Justiciero,,"48,5","1,4",Desconocido,Sin sexo,Amarillo,386,267,306,392,306,346,0,0,0,3,0,0
+648,Meloetta,メロエッタ (Meloetta),1,Quinta,Melodía,normal|psíquico|normal|lucha,Dicha,,"6,5","0,6",Desconocido,Sin sexo,Blanco,404,278,278,390,390,306,0,0,0,1,1,1
+649,Genesect,ゲノセクト (Genesect),1,Quinta,Paleozoico,bicho|acero,Descarga,,"82,5","1,5",Desconocido,Sin sexo,Morado,346,372,317,372,317,326,0,1,0,1,0,1
+650,Chespin,ハリマロン (Harimaron),1,Sexta,Erizo,planta,Espesura,Antibalas,9,"0,4",Campo,"87,5%|12,5%",Verde,316,243,251,214,207,192,0,0,1,0,0,0
+651,Quilladin,ハリボーグ (Hariborg),1,Sexta,Corazaespín,planta,Espesura,Antibalas,29,"0,7",Campo,"87,5%|12,5%",Verde,326,280,317,232,236,234,0,0,2,0,0,0
+652,Chesnaught,ブリガロン (Brigarron),0,Sexta,Corazaespín,planta|lucha,Espesura,Antibalas,90,"1,6",Campo,"87,5%|12,5%",Verde,380,344,377,271,273,249,0,0,3,0,0,0
+653,Fennekin,フォッコ (Fokko),1,Sexta,Zorro,fuego,Mar llamas,Prestidigitador,"9,4","0,4",Campo,"87,5%|12,5%",Rojo,284,207,196,245,240,240,0,0,0,1,0,0
+654,Braixen,テールナー (Tairenar),1,Sexta,Zorro,fuego,Mar llamas,Prestidigitador,"14,5",1,Campo,"87,5%|12,5%",Rojo,322,238,236,306,262,269,0,0,0,2,0,0
+655,Delphox,マフォクシー (Mahoxy),0,Sexta,Zorro,fuego|psíquico,Mar llamas,Prestidigitador,39,"1,5",Campo,"87,5%|12,5%",Rojo,354,260,267,359,328,337,0,0,0,3,0,0
+656,Froakie,ケロマツ (Keromatsu),1,Sexta,Burburrana,agua,Torrente,Mutatipo,7,"0,3",Agua 1,"87,5%|12,5%",Azul,286,232,196,245,205,265,0,0,0,0,0,1
+657,Frogadier,ゲコガシラ (Gekogashira),1,Sexta,Burburrana,agua,Torrente,Mutatipo,"10,9","0,6",Agua 1,"87,5%|12,5%",Azul,312,247,223,291,232,322,0,0,0,0,0,2
+658,Greninja,ゲッコウガ (Gekkouga),0,Sexta,Ninja,agua|siniestro,Torrente|Fuerte afecto1,Mutatipo,40,"1,5",Agua 1,"87,5%|12,5%",Azul,348,317,256,335,265,377,0,0,0,0,0,3
+659,Bunnelby,ホルビー (Horubee),1,Sexta,Excavador,normal,Recogida|Carrillo,Potencia,5,"0,4",Campo,50%|50%,Marrón,280,188,192,179,188,234,0,0,0,0,0,1
+660,Diggersby,ホルード (Horudo),0,Sexta,Excavador,normal|tierra,Recogida|Carrillo,Potencia,"42,4",1,Campo,50%|50%,Marrón,374,232,278,218,278,280,2,0,0,0,0,0
+661,Fletchling,ヤヤコマ (Yayakoma),1,Sexta,Petirrojo,normal|volador,Sacapecho,Alas vendaval,"1,7","0,3",Volador,50%|50%,Rojo,294,218,203,196,192,245,0,0,0,0,0,1
+662,Fletchinder,ヒノヤコマ (Hinoyakoma),1,Sexta,Lumbre,fuego|volador,Cuerpo llama,Alas vendaval,16,"0,7",Volador,50%|50%,Rojo,328,269,229,232,223,293,0,0,0,0,0,2
+663,Talonflame,ファイアロー (Fiarrow),0,Sexta,Flamígero,fuego|volador,Cuerpo llama,Alas vendaval,"24,5","1,2",Volador,50%|50%,Rojo,360,287,265,271,260,386,0,0,0,0,0,3
+664,Scatterbug,コフキムシ (Kofukimushi),1,Sexta,Tiraescamas,bicho,Polvo escudo|Ojo compuesto,Compiescolta,"2,5","0,3",Bicho,50%|50%,Negro,280,185,196,168,163,185,0,0,1,0,0,0
+665,Spewpa,コフーライ (Kofurai),1,Sexta,Tiraescamas,bicho,Mudar,Compiescolta,"8,4","0,3",Bicho,50%|50%,Negro,294,157,240,168,174,172,0,0,2,0,0,0
+666,Vivillon,ビビヨン (Viviyon),0,Sexta,Escamaposa,bicho|volador,Polvo escudo|Ojo compuesto,Compiescolta,17,"1,2",Bicho,50%|50%,BlancoPo|AzulTaTuMa|AmarilloCo|VerdeVePaJu|MoradoOr|RosaFlFa|RojoMoSoOcPb|MarrónIsEsDeOa|GrisMz,364,223,218,306,218,304,1,0,0,1,0,1
+667,Litleo,シシコ (Shishiko),1,Sexta,Leoncito,fuego|normal,Rivalidad|Nerviosismo,Autoestima,"13,5","0,6",Campo,"12,5%|87,5%",Marrón,328,218,236,269,227,267,0,0,0,1,0,0
+668,Pyroar,カエンジシ (Kaenjishi),0,Sexta,Regio,fuego|normal,Rivalidad|Nerviosismo,Autoestima,"81,5","1,5",Campo,"12,5%|87,5%",Marrón,376,258,267,348,254,342,0,0,0,2,0,0
+669,Flabébé,フラベベ (Flabebe),1,Sexta,Monoflor,hada,Velo flor,Simbiosis,"0,1","0,1",Hada,0%|100%,Blanco,292,192,194,243,282,201,0,0,0,0,1,0
+670,Floette,フラエッテ (Floette),1,Sexta,Monoflor,hada,Velo flor,Simbiosis,"0,9","0,2",Hada,0%|100%,Blanco,312,207,212,273,324,223,0,0,0,0,2,0
+671,Florges,フラージェス (Florges),0,Sexta,Jardín,hada,Velo flor,Simbiosis,10,"1,1",Hada,0%|100%,Blanco,360,251,258,355,447,273,0,0,0,0,3,0
+672,Skiddo,メェークル (Meecle),1,Sexta,Montura,planta,Herbívoro,Manto frondoso,31,"0,9",Campo,50%|50%,Marrón,336,251,214,245,234,223,1,0,0,0,0,0
+673,Gogoat,ゴーゴート (Gogoat),0,Sexta,Montura,planta,Herbívoro,Manto frondoso,91,"1,7",Campo,50%|50%,Marrón,450,328,245,322,287,258,2,0,0,0,0,0
+674,Pancham,ヤンチャム (Yancham),1,Sexta,Juguetón,lucha,Puño férreo|Rompemoldes,Intrépido,8,"0,6",Campo|Humanoide,50%|50%,Blanco,338,289,245,210,214,203,0,1,0,0,0,0
+675,Pangoro,ゴロンダ (Goronda),0,Sexta,Rostro fiero,lucha|siniestro,Puño férreo|Rompemoldes,Intrépido,136,"2,1",Campo|Humanoide,50%|50%,Blanco,394,381,280,260,265,236,0,2,0,0,0,0
+676,Furfrou,トリミアン (Trimmien),1,Sexta,Caniche,normal,Pelaje recio,,28,"1,2",Campo,50%|50%,Blanco,354,284,240,251,306,333,0,0,0,0,0,1
+677,Espurr,ニャスパー (Nyasper),1,Sexta,Moderación,psíquico,Vista lince|Allanamiento,Ritmo propio,"3,5","0,3",Campo,50%|50%,Gris,328,214,227,247,240,258,0,0,0,0,0,1
+678,Meowstic,ニャオニクス (Nyaonix),0,Sexta,Autocontrol,psíquico,Vista lince|Allanamiento,BromistaM|TenacidadH,"8,5","0,6",Campo,50%|50%,AzulM1BlancoH,352,214,276,291,287,337,0,0,0,0,0,2
+679,Honedge,ヒトツキ (Hitotsuki),1,Sexta,Tizona,acero|fantasma,Indefenso,,2,"0,8",Mineral,50%|50%,Marrón,294,284,328,185,190,170,0,0,1,0,0,0
+680,Doublade,ニダンギル (Nidangill),1,Sexta,Tizona,acero|fantasma,Indefenso,,"4,5","0,8",Mineral,50%|50%,Marrón,322,350,438,207,216,185,0,0,2,0,0,0
+681,Aegislash,ギルガルド (Gillguard),0,Sexta,Espada real,acero|fantasma,Cambio táctico,,53,"1,7",Mineral,50%|50%,Marrón,324,218,438,218,438,240,0,0,3,0,0,0
+682,Spritzee,シュシュプ (Shushupu),1,Sexta,Aroma,hada,Alma cura,Velo aroma,"0,5","0,2",Hada,50%|50%,Rosa,360,223,240,247,251,159,1,0,0,0,0,0
+683,Aromatisse,フレフワン (Frefuwan),0,Sexta,Fragancia,hada,Alma cura,Velo aroma,"15,5","0,8",Hada,50%|50%,Rosa,406,267,267,326,304,172,2,0,0,0,0,0
+684,Swirlix,ペロッパフ (Peroppafu),1,Sexta,Chuchería,hada,Velo dulce,Liviano,"3,5","0,4",Hada,50%|50%,Blanco,328,214,254,238,234,216,0,0,1,0,0,0
+685,Slurpuff,ペロリーム (Peroream),0,Sexta,Nata,hada,Velo dulce,Liviano,5,"0,8",Hada,50%|50%,Blanco,368,284,298,295,273,267,0,0,2,0,0,0
+686,Inkay,マーイーカ (Maaiika),0,Sexta,Rotación,siniestro|psíquico,Respondón|Ventosas,Allanamiento,"3,5","0,4",Agua 1|Agua 2,50%|50%,Azul,310,227,225,190,210,207,0,1,0,0,0,0
+687,Malamar,カラマネロ (Calamanero),0,Sexta,Revolución,siniestro|psíquico,Respondón|Ventosas,Allanamiento,47,"1,5",Agua 1|Agua 2,50%|50%,Azul,376,311,302,258,273,269,0,2,0,0,0,0
+688,Binacle,カメテテ (Kametete),1,Sexta,Dos manos,roca|agua,Garra dura|Francotirador,Hurto,31,"0,5",Agua 3,50%|50%,Marrón,288,223,256,194,232,218,0,1,0,0,0,0
+689,Barbaracle,ガメノデス (Gamenodes),0,Sexta,Combinación,roca|agua,Garra dura|Francotirador,Hurto,96,"1,3",Agua 3,50%|50%,Marrón,348,339,361,227,298,258,0,2,0,0,0,0
+690,Skrelp,クズモー (Kuzumo),1,Sexta,Pseudoalga,veneno|agua,Punto tóxico|Toque tóxico,Adaptable,"7,3","0,5",Agua 1|Dragón,50%|50%,Marrón,304,240,240,240,240,174,0,0,0,0,1,0
+691,Dragalge,ドラミドロ (Dramidoro),0,Sexta,Pseudoalga,veneno|dragón,Punto tóxico|Toque tóxico,Adaptable,"81,5","1,8",Agua 1|Dragón,50%|50%,Marrón,334,273,306,322,379,205,0,0,0,0,2,0
+692,Clauncher,ウデッポウ (Udeppou),1,Sexta,Proyectagua,agua,Megadisparador,,"8,3","0,5",Agua 1|Agua 3,50%|50%,Azul,304,225,245,236,247,205,0,0,0,1,0,0
+693,Clawitzer,ブロスター (Bloster),0,Sexta,Lanzachorro,agua,Megadisparador,,"35,3","1,3",Agua 1|Agua 3,50%|50%,Azul,346,269,302,372,304,238,0,0,0,2,0,0
+694,Helioptile,エリキテル (Erikiteru),1,Sexta,Generador,eléctrico|normal,Piel seca|Velo arena,Poder solar,6,"0,5",Monstruo|Dragón,50%|50%,Amarillo,292,192,181,243,203,262,0,0,0,0,0,1
+695,Heliolisk,エレザード (Elezard),0,Sexta,Generador,eléctrico|normal,Piel seca|Velo arena,Poder solar,21,1,Monstruo|Dragón,50%|50%,Amarillo,328,229,223,348,315,348,0,0,0,0,0,2
+696,Tyrunt,チゴラス (Chigoras),1,Sexta,Heredero,roca|dragón,Mandíbula fuerte,Robustez,26,"0,8",Monstruo|Dragón,"87,5%|12,5%",Marrón,320,304,278,207,207,214,0,1,0,0,0,0
+697,Tyrantrum,ガチゴラス (Gachigoras),0,Sexta,Tirano,roca|dragón,Mandíbula fuerte,Cabeza roca,270,"2,5",Monstruo|Dragón,"87,5%|12,5%",Rojo,368,375,370,260,238,265,0,2,0,0,0,0
+698,Amaura,アマルス (Amarus),1,Sexta,Tundra,roca|hielo,Piel helada,Nevada,"25,2","1,3",Monstruo,"87,5%|12,5%",Azul,358,238,218,256,247,210,1,0,0,0,0,0
+699,Aurorus,アマルルガ (Amaruruga),0,Sexta,Tundra,roca|hielo,Piel helada,Nevada,225,"2,7",Monstruo,"87,5%|12,5%",Azul,450,278,267,326,311,236,2,0,0,0,0,0
+700,Sylveon,ニンフィア (Nymphia),0,Sexta,Vínculo,hada,Gran encanto,Piel feérica,"23,5",1,Campo,"87,5%|12,5%",Rosa,394,251,251,350,394,240,0,0,0,0,2,0
+701,Hawlucha,ルチャブル (Luchabull),1,Sexta,Lucha libre,lucha|volador,Flexibilidad|Liviano,Rompemoldes,"21,5","0,8",Humanoide|Volador1,50%|50%,Verde,360,311,273,271,247,368,0,2,0,0,0,0
+702,Dedenne,デデンネ (Dedenne),1,Sexta,Antenas,eléctrico|hada,Carrillo|Recogida,Más,"2,2","0,2",Campo|Hada,50%|50%,Amarillo,338,236,234,287,256,331,0,0,0,0,0,2
+703,Carbink,メレシー (Melecie),1,Sexta,Joya,roca|hada,Cuerpo puro,Robustez,"5,7","0,3",Hada|Mineral,Sin sexo,Gris,304,218,438,218,438,218,0,0,1,0,1,0
+704,Goomy,ヌメラ (Numera),1,Sexta,Molusco,dragón,Herbívoro|Hidratación,Baba,"2,8","0,3",Dragón,50%|50%,Morado,294,218,185,229,273,196,0,0,0,0,1,0
+705,Sliggoo,ヌメイル (Numeil),0,Sexta,Molusco,dragón,Herbívoro|Hidratación,Baba,"17,5","0,8",Dragón,50%|50%,Morado,340,273,225,291,357,240,0,0,0,0,2,0
+706,Goodra,ヌメルゴン (Numelgon),0,Sexta,Dragón,dragón,Herbívoro|Hidratación,Baba,"150,5",2,Dragón,50%|50%,Morado,384,328,262,350,438,284,0,0,0,0,3,0
+707,Klefki,クレッフィ (Cleffy),1,Sexta,Llavero,acero|hada,Bromista,Prestidigitador,3,"0,2",Mineral,50%|50%,Gris,318,284,309,284,300,273,0,0,1,0,0,0
+708,Phantump,ボクレー (Bokurei),1,Sexta,Tocón,fantasma|planta,Cura natural|Cacheo,Cosecha,7,"0,4",Planta|Amorfo,50%|50%,Marrón,290,262,214,218,240,192,0,1,0,0,0,0
+709,Trevenant,オーロット (Ohrot),0,Sexta,Árbol viejo,fantasma|planta,Cura natural|Cacheo,Cosecha,71,"1,5",Planta|Amorfo,50%|50%,Marrón,374,350,276,251,289,232,0,2,0,0,0,0
+710,Pumpkaboo,バケッチャ (Bakeccha),1,Sexta,Calabaza,fantasma|planta,Recogida|Cacheo,Insomnio,"3,5Tp|5,0Tn|7,5Tg|15,0Te","0,3Tp|0,4Tn|0,5Tg|0,8Te",Amorfo,50%|50%,Marrón,292,254,262,205,229,232,0,0,1,0,0,0
+711,Gourgeist,パンプジン (Pumpjin),0,Sexta,Calabaza,fantasma|planta,Recogida|Cacheo,Insomnio,"9,5Tp|12,5Tn|14,0Tg|39,0Te","0,7Tp|0,9Tn|1,1Tg|1,7Te",Amorfo,50%|50%,Marrón,314,295,377,236,273,326,0,0,2,0,0,0
+712,Bergmite,カチコール (Kachikohru),1,Sexta,Témpano,hielo,Ritmo propio|Gélido,Robustez,"99,5",1,Monstruo|Mineral1,50%|50%,Azul,314,260,295,179,185,170,0,0,1,0,0,0
+713,Avalugg,クレベース (Crebase),0,Sexta,Iceberg,hielo,Ritmo propio|Gélido,Robustez,505,2,Monstruo|Mineral1,50%|50%,Azul,394,366,513,205,210,170,0,0,2,0,0,0
+714,Noibat,オンバット (Onbat),1,Sexta,Onda sónica,volador|dragón,Cacheo|Allanamiento,Telepatía,8,"0,5",Volador|Dragón1,50%|50%,Morado,284,174,185,207,196,229,0,0,0,0,0,1
+715,Noivern,オンバーン (Onvern),0,Sexta,Onda sónica,volador|dragón,Cacheo|Allanamiento,Telepatía,85,"1,5",Volador|Dragón1,50%|50%,Morado,374,262,284,322,284,379,0,0,0,0,0,2
+716,Xerneas,ゼルネアス (Xerneas),1,Sexta,Creación,hada,Aura feérica,,215,3,Desconocido,Sin sexo,Azul,456,397,317,397,324,326,3,0,0,0,0,0
+717,Yveltal,イベルタル (Yveltal),1,Sexta,Destrucción,siniestro|volador,Aura oscura,,203,"5,8",Desconocido,Sin sexo,Rojo,456,397,317,397,324,326,3,0,0,0,0,0
+718,Zygarde,ジガルデ (Zygarde),1,Sexta,Equilibrio,dragón|tierra,Rompeaura|Agrupamiento1,,"33,510%|305,050%|610,0FC","1,210%|5,050%|4,5FC",Desconocido,Sin sexo,Verde50%|Negro10%|NegroFC,312,328,265,243,295,361,3,0,0,0,0,0
+719,Diancie,ディアンシー (Diancie),1,Sexta,Joya,roca|hada,Cuerpo puro,,"8,8","0,7",Desconocido,Sin sexo,Rosa,304,328,438,328,438,218,0,0,1,0,2,0
+720,Hoopa,フーパ (Hoopa),1,Sexta,TravesuraC|Genio burlónD,psíquico|fantasma|psíquico|siniestro,Prestidigitador,,9C|490D,"0,5C|6,5D",Desconocido,Sin sexo,Morado,364,350,240,438,394,262,0,0,0,3,0,0
+721,Volcanion,ボルケニオン (Volcanion),1,Sexta,Vapor,fuego|agua,Absorbe agua,,195,"1,7",Desconocido,Sin sexo,Marrón,364,350,372,394,306,262,0,0,0,3,0,0
+722,Rowlet,モクロー (Mokuroh),1,Séptima,Pluma hoja,planta|volador,Espesura,Remoto,"1,5","0,3",Volador,"87,5%|12,5%",Marrón,340,229,229,218,218,201,1,0,0,0,0,0
+723,Dartrix,フクスロー (Fukuthrow),1,Séptima,Pluma filo,planta|volador,Espesura,Remoto,16,"0,7",Volador,"87,5%|12,5%",Marrón,360,273,273,262,262,223,2,0,0,0,0,0
+724,Decidueye,ジュナイパー (Junaiper),0,Séptima,Pluma flecha,planta|fantasma,Espesura,Remoto,"36,6","1,6",Volador,"87,5%|12,5%",Marrón,360,344,273,328,328,262,0,3,0,0,0,0
+725,Litten,ニャビー (Nyabby),1,Séptima,Gato fuego,fuego,Mar llamas,Intimidación,"4,3","0,4",Campo,"87,5%|12,5%",Rojo,294,251,196,240,196,262,0,0,0,0,0,1
+726,Torracat,ニャヒート (Nyaheat),1,Séptima,Gato fuego,fuego,Mar llamas,Intimidación,25,"0,7",Campo,"87,5%|12,5%",Rojo,334,295,218,284,218,306,0,0,0,0,0,2
+727,Incineroar,ガオガエン (Gaogaen),0,Séptima,Rudo,fuego|siniestro,Mar llamas,Intimidación,83,"1,8",Campo,"87,5%|12,5%",Rojo,394,361,306,284,306,240,0,3,0,0,0,0
+728,Popplio,アシマリ (Ashimari),1,Séptima,León marino,agua,Torrente,Voz fluida,"7,5","0,4",Agua 1|Campo,"87,5%|12,5%",Azul,304,227,227,254,232,196,0,0,0,1,0,0
+729,Brionne,オシャマリ (Osyamari),1,Séptima,Fama,agua,Torrente,Voz fluida,"17,5","0,6",Agua 1|Campo,"87,5%|12,5%",Azul,324,260,260,309,287,218,0,0,0,2,0,0
+730,Primarina,アシレーヌ (Ashirene),0,Séptima,Solista,agua|hada,Torrente,Voz fluida,44,"1,8",Agua 1|Campo,"87,5%|12,5%",Azul,364,271,271,386,364,240,0,0,0,3,0,0
+731,Pikipek,ツツケラ (Tsutsukera),1,Séptima,Carpintero,normal|volador,Vista lince|Encadenado,Recogida,"1,2","0,3",Volador,50%|50%,Negro,274,273,174,174,174,251,0,1,0,0,0,0
+732,Trumbeak,ケララッパ (Kerarappa),1,Séptima,Trompeta,normal|volador,Vista lince|Encadenado,Recogida,"14,8","0,6",Volador,50%|50%,Negro,314,295,218,196,218,273,0,2,0,0,0,0
+733,Toucannon,ドデカバシ (Dodekabashi),0,Séptima,Cañón,normal|volador,Vista lince|Encadenado,Potencia bruta,26,"1,1",Volador,50%|50%,Negro,364,372,273,273,273,240,0,3,0,0,0,0
+734,Yungoos,ヤングース (Youngoose),1,Séptima,Patrulla,normal,Vigilante|Mandíbula fuerte,Adaptable,6,"0,4",Campo,50%|50%,Marrón,300,262,174,174,174,207,0,1,0,0,0,0
+735,Gumshoos,デカグース (Dekagoose),0,Séptima,Vigilante,normal,Vigilante|Mandíbula fuerte,Adaptable,"14,2","0,7",Campo,50%|50%,Marrón,380,350,240,229,240,207,0,2,0,0,0,0
+736,Grubbin,アゴジムシ (Agojimushi),1,Séptima,Pupa,bicho,Enjambre,,"4,4","0,4",Bicho,50%|50%,Gris,298,245,207,229,207,210,0,1,0,0,0,0
+737,Charjabug,デンヂムシ (Dendimushi),1,Séptima,Batería,bicho|eléctrico,Batería,,"10,5","0,5",Bicho,50%|50%,Verde,318,289,317,229,273,188,0,0,2,0,0,0
+738,Vikavolt,クワガノン (Kuwagannon),0,Séptima,Escarabajo,bicho|eléctrico,Levitación,,45,"1,5",Bicho,50%|50%,Azul,358,262,306,427,273,203,0,0,0,3,0,0
+739,Crabrawler,マケンカニ (Makenkani),1,Séptima,Púgil,lucha,Corte fuerte|Puño férreo,Irascible,7,"0,6",Agua 3,50%|50%,Morado,298,289,234,201,212,247,0,1,0,0,0,0
+740,Crabominable,ケケンカニ (Kekenkani),0,Séptima,Cangrejopelo,lucha|hielo,Corte fuerte|Puño férreo,Irascible,180,"1,7",Agua 3,50%|50%,Blanco,398,399,278,245,256,203,0,2,0,0,0,0
+741,Oricorio,オドリドリ (Odoridori),1,Séptima,Danza,eléctrico|volador|psíquico|volador|fuego|volador|fantasma|volador,Pareja de baile,,"3,4","0,6",Volador,25%|75%,AmarilloEAn|RosaEP|RojoEAp|MoradoER,354,262,262,324,262,313,0,0,0,2,0,0
+742,Cutiefly,アブリー (Abuly),1,Séptima,Mosca abeja,bicho|hada,Recogemiel|Polvo escudo,Velo dulce,"0,2","0,1",Bicho|Hada,50%|50%,Amarillo,284,207,196,229,196,293,0,0,0,0,0,1
+743,Ribombee,アブリボン (Aburibbon),0,Séptima,Mosca abeja,bicho|hada,Recogemiel|Polvo escudo,Velo dulce,"0,5","0,2",Bicho|Hada,50%|50%,Amarillo,324,229,240,317,262,381,0,0,0,0,0,2
+744,Rockruff,イワンコ (Iwanko),1,Séptima,Perrito,roca,Vista lince|Espíritu vital,Impasible|Ritmo propio,"9,2","0,5",Campo,50%|50%,Marrón,294,251,196,174,196,240,0,1,0,0,0,0
+745,Lycanroc,ルガルガン (Lugarugan),0,Séptima,Lobo,roca,Vista lince|Ímpetu arenaFD|Espíritu vitalFN|Garra duraFC,ImpasibleFD|IndefensoFN,25,"0,8FDFC|1,1FN",Campo,50%|50%,MarrónFDFC|RojoFN,354,361,251,229,251,355,0,2,0,0,0,0
+746,Wishiwashi,ヨワシ (Yowashi),1,Séptima,Pececillo,agua,Banco,,"0,3FI|78,6FB","0,2FI|8,2FB",Agua 2,50%|50%,Azul,294,152,152,163,163,196,1,0,0,0,0,0
+747,Mareanie,ヒドイデ (Hidoide),1,Séptima,Estrellatroz,veneno|agua,Ensañamiento|Flexibilidad,Regeneración,8,"0,4",Agua 1,50%|50%,Azul,304,225,245,203,223,207,0,0,1,0,0,0
+748,Toxapex,ドヒドイデ (Dohidoide),0,Séptima,Estrellatroz,veneno|agua,Ensañamiento|Flexibilidad,Regeneración,"14,5","0,7",Agua 1,50%|50%,Azul,304,247,443,225,421,185,0,0,2,0,0,0
+749,Mudbray,ドロバンコ (Dorobanko),1,Séptima,Asno,tierra,Ritmo propio|Firmeza,Fuerza mental,110,1,Campo,50%|50%,Marrón,344,328,262,207,229,207,0,1,0,0,0,0
+750,Mudsdale,バンバドロ (Banbadoro),0,Séptima,Caballo tiro,tierra,Ritmo propio|Firmeza,Fuerza mental,920,"2,5",Campo,50%|50%,Marrón,404,383,328,229,295,185,0,2,0,0,0,0
+751,Dewpider,シズクモ (Shizukumo),1,Séptima,Pompa,agua|bicho,Pompa,Absorbe agua,4,"0,3",Agua 1|Bicho,50%|50%,Verde,280,196,223,196,267,168,0,0,0,0,1,0
+752,Araquanid,オニシズクモ (Onishizukumo),0,Séptima,Pompa,agua|bicho,Pompa,Absorbe agua,82,"1,8",Agua 1|Bicho,50%|50%,Verde,340,262,311,218,399,201,0,0,0,0,2,0
+753,Fomantis,カリキリ (Karikiri),1,Séptima,Filo hoja,planta,Defensa hoja,Respondón,"1,5","0,3",Planta,50%|50%,Rosa,284,229,185,218,185,185,0,1,0,0,0,0
+754,Lurantis,ラランテス (Lalantes),0,Séptima,Filo flor,planta,Defensa hoja,Respondón,"18,5","0,9",Planta,50%|50%,Rosa,344,339,306,284,306,207,0,2,0,0,0,0
+755,Morelull,ネマシュ (Nemasyu),1,Séptima,Luminiscente,planta|hada,Iluminación|Efecto espora,Cura lluvia,"1,5","0,2",Planta,50%|50%,Morado,284,185,229,251,273,141,0,0,0,0,1,0
+756,Shiinotic,マシェード (Mashade),0,Séptima,Luminiscente,planta|hada,Iluminación|Efecto espora,Cura lluvia,"11,5",1,Planta,50%|50%,Morado,324,207,284,306,328,174,0,0,0,0,2,0
+757,Salandit,ヤトウモリ (Yatoumori),1,Séptima,Lagartoxina,veneno|fuego,Corrosión,Despiste,"4,8","0,6",Monstruo|Dragón,"87,5%|12,5%",Negro,300,205,196,265,196,278,0,0,0,0,0,1
+758,Salazzle,エンニュート (Ennewt),0,Séptima,Lagartoxina,veneno|fuego,Corrosión,Despiste,"22,2","1,2",Monstruo|Dragón,0%|100%,Negro,340,249,240,353,240,366,0,0,0,0,0,2
+759,Stufful,ヌイコグマ (Nuikoguma),1,Séptima,Rabieta,normal|lucha,Peluche|Zoquete,Gran encanto,"6,8","0,5",Campo,50%|50%,Rosa,344,273,218,207,218,218,0,1,0,0,0,0
+760,Bewear,キテルグマ (Kiteruguma),0,Séptima,Brazo fuerte,normal|lucha,Peluche|Zoquete,Nerviosismo,135,"2,1",Campo,50%|50%,Rosa,444,383,284,229,240,240,0,2,0,0,0,0
+761,Bounsweet,アマカジ (Amakaji),1,Séptima,Fruto,planta,Defensa hoja|Despiste,Velo dulce,"3,2","0,3",Planta,0%|100%,Morado,288,174,192,174,192,179,1,0,0,0,0,0
+762,Steenee,アママイコ (Amamaiko),1,Séptima,Fruto,planta,Defensa hoja|Despiste,Velo dulce,"8,2","0,7",Planta,0%|100%,Morado,308,196,214,196,214,245,0,0,0,0,0,2
+763,Tsareena,アマージョ (Amajo),0,Séptima,Fruto,planta,Defensa hoja|Regia presencia,Velo dulce,"21,4","1,2",Planta,0%|100%,Morado,348,372,324,218,324,267,0,3,0,0,0,0
+764,Comfey,キュワワー (Cuwawa),1,Séptima,Recogeflores,hada,Velo flor|Primer auxilio,Cura natural,"0,3","0,1",Planta,25%|75%,Verde,306,223,306,289,350,328,0,0,0,0,2,0
+765,Oranguru,ヤレユータン (Yareyuutan),1,Séptima,Sabio,normal|psíquico,Fuerza mental|Telepatía,Simbiosis,76,"1,5",Campo,50%|50%,Blanco,384,240,284,306,350,240,0,0,0,0,2,0
+766,Passimian,ナゲツケサル (Nagetukesaru),1,Séptima,Cooperación,lucha,Receptor,Competitivo,"82,8",2,Campo,50%|50%,Blanco,404,372,306,196,240,284,0,2,0,0,0,0
+767,Wimpod,コソクムシ (Kosokumushi),1,Séptima,Huidizo,bicho|agua,Huida,,12,"0,5",Bicho|Agua 3,50%|50%,Gris,254,185,196,152,174,284,0,0,0,0,0,1
+768,Golisopod,グソクムシャ (Gusokumusha),0,Séptima,Blindaje,bicho|agua,Retirada,,108,2,Bicho|Agua 3,50%|50%,Gris,354,383,416,240,306,196,0,0,2,0,0,0
+769,Sandygast,スナバァ (Sunaba),1,Séptima,Montearena,fantasma|tierra,Hidrorrefuerzo,Velo arena,70,"0,5",Amorfo,50%|50%,Marrón,314,229,284,262,207,141,0,0,1,0,0,0
+770,Palossand,シロデスナ (Sirodethna),0,Séptima,Castiarena,fantasma|tierra,Hidrorrefuerzo,Velo arena,250,"1,3",Amorfo,50%|50%,Marrón,374,273,350,328,273,185,0,0,2,0,0,0
+771,Pyukumuku,ナマコブシ (Namakobushi),1,Séptima,Pepino mar,agua,Revés,Ignorante,"1,2","0,3",Agua 1,50%|50%,Negro,314,240,394,174,394,119,0,0,0,0,2,0
+772,Código Cero,タイプ：ヌル (Type: Null),1,Séptima,Multigénico,normal,Armadura batalla,,"120,5","1,9",Desconocido,Sin sexo,Gris,394,317,317,317,317,238,2,0,0,0,0,0
+773,Silvally,シルヴァディ (Silvady),0,Séptima,Multigénico,normal,Sistema alfa,,"100,5","2,3",Desconocido,Sin sexo,Gris,394,317,317,317,317,317,3,0,0,0,0,0
+774,Minior,メテノ (Meteno),1,Séptima,Meteoro,roca|volador,Escudo limitado,,"40,0FM|0,3FN","0,3",Mineral,Sin sexo,MarrónFM|RojoNRNN|AmarilloNAm|VerdeNVe|AzulNAzNAñ|MoradoNVi,324,240,328,240,328,240,0,0,1,0,1,0
+775,Komala,ネッコアラ (Nekkoara),1,Séptima,Duermevela,normal,Letargo perenne,,"19,9","0,4",Campo,50%|50%,Azul,334,361,251,273,317,251,0,2,0,0,0,0
+776,Turtonator,バクガメス (Bakugames),1,Séptima,Tortugabomba,fuego|dragón,Caparazón,,212,2,Monstruo|Dragón,50%|50%,Rojo,324,280,405,309,295,188,0,0,2,0,0,0
+777,Togedemaru,トゲデマル (Togedemaru),1,Séptima,Bolita,eléctrico|acero,Punta acero|Pararrayos,Robustez,"3,3","0,3",Campo|Hada,50%|50%,Gris,334,324,247,196,269,320,0,2,0,0,0,0
+778,Mimikyu,ミミッキュ (Mimikkyu),1,Séptima,Disfraz,fantasma|hada,Disfraz,,"0,7","0,2",Amorfo,50%|50%,Amarillo,314,306,284,218,339,320,0,0,0,0,2,0
+779,Bruxish,ハギギシリ (Hagigishiri),1,Séptima,Rechinante,agua|psíquico,Cuerpo vívido|Mandíbula fuerte,Piel milagro,19,"0,9",Agua 2,50%|50%,Rosa,340,339,262,262,262,311,0,2,0,0,0,0
+780,Drampa,ジジーロン (Jijilong),1,Séptima,Sosiego,normal|dragón,Cólera|Herbívoro,Aclimatación,185,3,Monstruo|Dragón,50%|50%,Blanco,360,240,295,405,309,188,0,0,0,2,0,0
+781,Dhelmise,ダダリン (Dadarin),1,Séptima,Alga Ancla,fantasma|planta,Acero templado,,210,"3,9",Mineral,Sin sexo,Verde,344,397,328,298,306,196,0,2,0,0,0,0
+782,Jangmo-o,ジャラコ (Jyarako),1,Séptima,Escamas,dragón,Antibalas|Insonorizar,Funda,"29,7","0,6",Dragón,50%|50%,Gris,294,229,251,207,207,207,0,0,1,0,0,0
+783,Hakamo-o,ジャランゴ (Jyarango),1,Séptima,Escamas,dragón|lucha,Antibalas|Insonorizar,Funda,47,"1,2",Dragón,50%|50%,Gris,314,273,306,251,262,251,0,0,2,0,0,0
+784,Kommo-o,ジャラランガ (Jyararanga),0,Séptima,Escamas,dragón|lucha,Antibalas|Insonorizar,Funda,"78,2","1,6",Dragón,50%|50%,Gris,354,350,383,328,339,295,0,0,3,0,0,0
+785,Tapu Koko,カプ・コケコ (Kapu-Kokeko),1,Séptima,Dios nativo,eléctrico|hada,Electrogénesis,Telepatía,"20,5","1,8",Desconocido,Sin sexo,Amarillo,344,361,295,317,273,394,0,0,0,0,0,3
+786,Tapu Lele,カプ・テテフ (Kapu-Tetefu),1,Séptima,Dios nativo,psíquico|hada,Psicogénesis,Telepatía,"18,6","1,2",Desconocido,Sin sexo,Rosa,344,295,273,394,361,317,0,0,0,3,0,0
+787,Tapu Bulu,カプ・ブルル (Kapu-Bulul),1,Séptima,Dios nativo,planta|hada,Herbogénesis,Telepatía,"45,5","1,9",Desconocido,Sin sexo,Rojo,344,394,361,295,317,273,0,3,0,0,0,0
+788,Tapu Fini,カプ・レヒレ (Kapu-Rehire),1,Séptima,Dios nativo,agua|hada,Nebulogénesis,Telepatía,"21,2","1,3",Desconocido,Sin sexo,Morado,344,273,361,317,394,295,0,0,0,0,3,0
+789,Cosmog,コスモッグ (Cosmog),1,Séptima,Nebulosa,psíquico,Ignorante,,"0,1","0,2",Desconocido,Sin sexo,Azul,290,172,177,172,177,190,1,0,0,0,0,0
+790,Cosmoem,コスモウム (Cosmovum),1,Séptima,Protostrella,psíquico,Robustez,,"999,9","0,1",Desconocido,Sin sexo,Azul,290,172,397,172,397,190,0,0,1,0,1,0
+791,Solgaleo,ソルガレオ (Solgaleo),0,Séptima,Corona solar,psíquico|acero,Guardia metálica,,230,"3,4",Desconocido,Sin sexo,Blanco,478,410,344,357,304,322,0,3,0,0,0,0
+792,Lunala,ルナアーラ (Lunala),0,Séptima,Corona lunar,psíquico|fantasma,Guardia espectro,,120,4,Desconocido,Sin sexo,Morado,478,357,304,410,344,322,0,0,0,3,0,0
+793,Nihilego,ウツロイド (Uturoid),1,Séptima,Parásito,roca|veneno,Ultraimpulso,,"55,5","1,2",Desconocido,Sin sexo,Blanco,422,225,212,388,397,335,0,0,0,0,3,0
+794,Buzzwole,マッシブーン (Massivoon),1,Séptima,Hinchado,bicho|lucha,Ultraimpulso,,"333,6","2,4",Desconocido,Sin sexo,Rojo,418,414,414,225,225,282,0,1,2,0,0,0
+795,Pheromosa,フェローチェ (Pheroache),1,Séptima,Elegancia,bicho|lucha,Ultraimpulso,,25,"1,8",Desconocido,Sin sexo,Blanco,346,410,190,410,190,441,0,0,0,0,0,3
+796,Xurkitree,デンジュモク (Denjyumoku),1,Séptima,Luminaria,eléctrico,Ultraimpulso,,100,"3,8",Desconocido,Sin sexo,Negro,370,304,265,489,265,291,0,0,0,3,0,0
+797,Celesteela,テッカグヤ (Tekkaguya),1,Séptima,Lanzamiento,acero|volador,Ultraimpulso,,"999,9","9,2",Desconocido,Sin sexo,Verde,398,331,335,344,331,243,0,1,1,1,0,0
+798,Kartana,カミツルギ (Kamiturugi),1,Séptima,Desenvaine,planta|acero,Ultraimpulso,,"0,1","0,3",Desconocido,Sin sexo,Blanco,322,507,397,238,177,348,0,3,0,0,0,0
+799,Guzzlord,アクジキング (Akuziking),1,Séptima,Tragaldabas,siniestro|dragón,Ultraimpulso,,888,"5,5",Desconocido,Sin sexo,Negro,650,331,225,322,225,203,3,0,0,0,0,0
+800,Necrozma,ネクロズマ (Necrozma),1,Séptima,Prisma,psíquico|psíquico|acero|psíquico|fantasma|psíquico|dragón,Armadura prisma|Fuerza cerebralUN,,"230,0N|460,0MC|350,0AA|230,0UN","2,4N|3,8MC|4,2AA|7,5UN",Desconocido,Sin sexo,NegroN|AmarilloMCUN|AzulAA,398,344,331,388,304,282,0,1,0,2,0,0
+801,Magearna,マギアナ (Magearna),1,Séptima,Artificial,acero|hada,Coránima,,"80,5",1,Desconocido,Sin sexo,GrisCA|RojoCV,364,317,361,394,361,251,0,0,0,3,0,0
+802,Marshadow,マーシャドー (Marshadow),1,Séptima,Morasombra,lucha|fantasma,Experto,,"22,2","0,7",Desconocido,Sin sexo,Gris,384,383,284,306,306,383,0,2,0,0,0,1
+803,Poipole,ベベノム (Bevenom),1,Séptima,Pin veneno,veneno,Ultraimpulso,,"1,8","0,6",Desconocido,Sin sexo,Morado,338,269,256,269,256,269,0,0,0,0,0,1
+804,Naganadel,アーゴヨン (Agoyon),0,Séptima,Pin veneno,veneno|dragón,Ultraimpulso,,150,"3,6",Desconocido,Sin sexo,Morado,350,269,269,388,269,375,0,0,0,3,0,0
+805,Stakataka,ツンデツンデ (Tundetunde),1,Séptima,Muro,roca|acero,Ultraimpulso,,820,"5,5",Desconocido,Sin sexo,Gris,326,397,573,225,331,137,0,0,3,0,0,0
+806,Blacephalon,ズガドーン (Zugadoon),1,Séptima,Pirotecnia,fuego|fantasma,Ultraimpulso,,13,"1,8",Desconocido,Sin sexo,Blanco,310,388,225,441,282,344,0,0,0,3,0,0
+807,Zeraora,ゼラオラ (Zeraora),1,Séptima,Fulgor,eléctrico,Absorbe electricidad,,"44,5","1,5",Desconocido,Sin sexo,Amarillo,380,355,273,333,284,423,0,0,0,0,0,3
+808,Meltan,メルタン (Meltan),1,Séptima,Tuerca,acero,Imán,,8,"0,2",Desconocido,Sin sexo,Gris,296,251,251,229,185,183,0,1,0,0,0,0
+809,Melmetal,メルメタル (Melmetal),1,Séptima,Tuerca,acero,Puño férreo,,800,"2,5",Desconocido,Sin sexo,Gris,474,423,423,284,251,183,0,3,0,0,0,0
+810,Grookey,サルノリ (Sarunori),1,Octava,Chimpancé,planta,Espesura,Herbogénesis,5,"0,3",Campo|Planta,"87,5%|12,5%",Verde,304,251,218,196,196,251,0,1,0,0,0,0
+811,Thwackey,バチンキー (Bachinkey),1,Octava,Ritmo,planta,Espesura,Herbogénesis,14,"0,7",Campo|Planta,"87,5%|12,5%",Verde,344,295,262,229,240,284,0,2,0,0,0,0
+812,Rillaboom,ゴリランダー (Gorirander),0,Octava,Percusión,planta,Espesura,Herbogénesis,90,"2,1",Campo|Planta,"87,5%|12,5%",Verde,404,383,306,240,262,295,0,3,0,0,0,0
+813,Scorbunny,ヒバニー (Hibanny),1,Octava,Conejo,fuego,Mar llamas,Líbero,"4,5","0,3",Campo|Humanoide,"87,5%|12,5%",Blanco,304,265,196,196,196,260,0,0,0,0,0,1
+814,Raboot,ラビフット (Rabbifuto),1,Octava,Conejo,fuego,Mar llamas,Líbero,9,"0,6",Campo|Humanoide,"87,5%|12,5%",Gris,334,298,240,229,240,315,0,0,0,0,0,2
+815,Cinderace,エースバーン (Aceburn),0,Octava,Delantero,fuego,Mar llamas,Líbero,33,"1,4",Campo|Humanoide,"87,5%|12,5%",Blanco,364,364,273,251,273,370,0,0,0,0,0,3
+816,Sobble,メッソン (Messon),1,Octava,Acuartija,agua,Torrente,Francotirador,4,"0,3",Agua 1|Campo,"87,5%|12,5%",Azul,304,196,196,262,196,262,0,0,0,0,1,1
+817,Drizzile,ジメレオン (Jimereon),1,Octava,Acuartija,agua,Torrente,Francotirador,"11,5","0,7",Agua 1|Campo,"87,5%|12,5%",Azul,334,240,229,317,229,306,0,0,0,2,0,0
+818,Inteleon,インテレオン (Intereon),0,Octava,Agente,agua,Torrente,Francotirador,"45,2","1,9",Agua 1|Campo,"87,5%|12,5%",Azul,344,295,251,383,251,372,0,0,0,0,0,3
+819,Skwovet,ホシガリス (Hoshigarisu),1,Octava,Abazón,normal,Carrillo,Gula,"2,5","0,3",Campo,50%|50%,Marrón,344,229,229,185,185,163,1,0,0,0,0,0
+820,Greedent,ヨクバリス (Yokubarisu),0,Octava,Avaricia,normal,Carrillo,Gula,6,"0,6",Campo,50%|50%,Marrón,444,317,317,229,273,152,2,0,0,0,0,0
+821,Rookidee,ココガラ (Kokogara),1,Octava,Pajarito,volador,Vista lince|Nerviosismo,Sacapecho,"1,8","0,2",Volador,50%|50%,Azul,280,212,185,181,185,234,0,0,0,0,0,1
+822,Corvisquire,アオガラス (Aogarasu),1,Octava,Cuervo,volador,Vista lince|Nerviosismo,Sacapecho,16,"0,8",Volador,50%|50%,Azul,340,256,229,203,229,278,0,0,0,0,0,2
+823,Corviknight,アーマーガア (Armorga),0,Octava,Cuervo,volador|acero,Presión|Nerviosismo,Coraza reflejo,75,"2,2",Volador,50%|50%,Morado,400,300,339,225,295,256,0,0,3,0,0,0
+824,Blipbug,サッチムシ (Sacchimushi),1,Octava,Pupa,bicho,Enjambre|Ojo compuesto,Telepatía,8,"0,4",Bicho,50%|50%,Azul,254,152,152,163,207,207,0,0,0,0,1,0
+825,Dottler,レドームシ (Redomushi),1,Octava,Radomo,bicho|psíquico,Enjambre|Ojo compuesto,Telepatía,"19,5","0,4",Bicho,50%|50%,Amarillo,304,185,284,218,306,174,0,0,0,0,2,0
+826,Orbeetle,イオルブ (Eolb),0,Octava,Siete puntos,bicho|psíquico,Enjambre|Cacheo,Telepatía,"40,8","0,4",Bicho,50%|50%,Rojo,324,207,350,284,372,306,0,0,0,0,3,0
+827,Nickit,クスネ (Kusune),1,Octava,Zorro,siniestro,Fuga|Liviano,Vigilante,"8,9","0,6",Campo,50%|50%,Marrón,284,170,170,212,223,218,0,0,0,0,1,0
+828,Thievul,フォクスライ (Foxly),0,Octava,Zorro,siniestro,Fuga|Liviano,Vigilante,"19,9","1,2",Campo,50%|50%,Marrón,344,236,236,300,311,306,0,0,0,0,2,0
+829,Gossifleur,ヒメンカ (Himenka),1,Octava,Adornofloral,planta,Pelusa|Regeneración,Efecto espora,"2,2","0,4",Planta,50%|50%,Verde,284,196,240,196,240,130,0,0,0,0,1,0
+830,Eldegoss,ワタシラガ (Watashiraga),0,Octava,Adornalgodón,planta,Pelusa|Regeneración,Efecto espora,"2,5","0,5",Planta,50%|50%,Verde,324,218,306,284,372,240,0,0,0,0,2,0
+831,Wooloo,ウールー (Wooluu),1,Octava,Oveja,normal,Peluche|Fuga,Antibalas,6,"0,6",Campo,50%|50%,Blanco,288,196,229,196,207,214,0,0,1,0,0,0
+832,Dubwool,バイウールー (Baiwooluu),0,Octava,Oveja,normal,Peluche|Impasible,Antibalas,43,"1,3",Campo,50%|50%,Blanco,348,284,328,240,306,302,0,0,2,0,0,0
+833,Chewtle,カムカメ (Kamukame),1,Octava,Mordedura,agua,Mandíbula fuerte|Caparazón,Nado rápido,"8,5","0,3",Monstruo|Agua 1,50%|50%,Verde,304,249,218,192,192,205,0,1,0,0,0,0
+834,Drednaw,カジリガメ (Kajirigame),0,Octava,Mordisco,agua|roca,Mandíbula fuerte|Caparazón,Nado rápido,"115,5",1,Monstruo|Agua 1,50%|50%,Azul,384,361,306,214,258,271,0,2,0,0,0,0
+835,Yamper,ワンパチ (Wanpachi),1,Octava,Perrito,eléctrico,Recogebolas,Cobardía,"13,5","0,3",Campo,50%|50%,Amarillo,322,207,218,196,218,166,1,0,0,0,0,0
+836,Boltund,パルスワン (Pulsewan),0,Octava,Perro,eléctrico,Mandíbula fuerte,Tenacidad,34,1,Campo,50%|50%,Amarillo,342,306,240,306,240,375,0,0,0,0,0,2
+837,Rolycoly,タンドン (Tandon),1,Octava,Carbón,roca,Combustible|Ignífugo,Absorbe fuego,12,"0,3",Mineral,50%|50%,Negro,264,196,218,196,218,174,0,0,1,0,0,0
+838,Carkol,トロッゴン (Toroggon),1,Octava,Carbón,roca|fuego,Combustible|Cuerpo llama,Absorbe fuego,78,"1,1",Mineral,50%|50%,Negro,364,240,306,240,262,218,0,0,2,0,0,0
+839,Coalossal,セキタンザン (Sekitanzan),0,Octava,Carbón,roca|fuego,Combustible|Cuerpo llama,Absorbe fuego,"310,5","2,8",Mineral,50%|50%,Negro,424,284,372,284,306,174,0,0,3,0,0,0
+840,Applin,カジッチュ (Kajicchu),1,Octava,Manzanido,planta|dragón,Maduración|Gula,Antibalas,"0,5","0,2",Planta|Dragón,50%|50%,Verde,284,196,284,196,196,152,0,0,1,0,0,0
+841,Flapple,アップリュー (Appryu),0,Octava,Manzanala,planta|dragón,Maduración|Gula,Entusiasmo,1,"0,3",Planta|Dragón,50%|50%,Verde,344,350,284,317,240,262,0,2,0,0,0,0
+842,Appletun,タルップル (Tarupple),0,Octava,Manzanéctar,planta|dragón,Maduración|Gula,Sebo,13,"0,4",Planta|Dragón,50%|50%,Verde,424,295,284,328,284,174,2,0,0,0,0,0
+843,Silicobra,スナヘビ (Sunahebi),1,Octava,Serpiente Arena1,tierra,Expulsarena|Mudar,Velo arena,"7,6","2,2",Campo|Dragón,50%|50%,Verde,308,234,273,185,218,210,0,0,1,0,0,0
+844,Sandaconda,サダイジャ (Sadaija),0,Octava,Serpiente Arena1,tierra,Expulsarena|Mudar,Velo arena,"65,5","3,8",Campo|Dragón,50%|50%,Verde,348,344,383,251,262,265,0,0,2,0,0,0
+845,Cramorant,ウッウ (Uu),1,Octava,Tragón,volador|agua,Tragamisil,,18,"0,8",Agua 1|Volador,50%|50%,Azul,344,295,229,295,317,295,0,0,0,0,2,0
+846,Arrokuda,サシカマス (Sashikamasu),1,Octava,Arremetida,agua,Nado rápido,Hélice caudal,1,"0,5",Agua 2,50%|50%,Marrón,286,247,196,196,174,254,0,0,0,0,0,1
+847,Barraskewda,カマスジョー (Kamasujaw),0,Octava,Ensarta,agua,Nado rápido,Hélice caudal,30,"1,3",Agua 2,50%|50%,Marrón,326,379,240,240,218,408,0,0,0,0,0,2
+848,Toxel,エレズン (Eleson),1,Octava,Retoño,eléctrico|veneno,Cobardía|Electricidad estática,Zoquete,11,"0,4",Desconocido,50%|50%,Morado,284,192,185,227,185,196,0,0,0,1,0,0
+849,Toxtricity,ストリンダー (Strinder),0,Octava,Punki,eléctrico|veneno,Punk rock|MásFA|MenosFG,Experto,40,"1,6",Humanoide,50%|50%,Morado,354,324,262,359,262,273,0,0,0,2,0,0
+850,Sizzlipede,ヤクデ (Yakude),1,Octava,Radiador,fuego|bicho,Absorbe fuego|Humo blanco,Cuerpo llama,1,"0,7",Bicho,50%|50%,Rojo,304,251,207,218,218,207,0,1,0,0,0,0
+851,Centiskorch,マルヤクデ (Maruyakude),0,Octava,Radiador,fuego|bicho,Absorbe fuego|Humo blanco,Cuerpo llama,120,3,Bicho,50%|50%,Rojo,404,361,251,306,306,251,0,2,0,0,0,0
+852,Clobbopus,タタッコ (Tatakko),1,Octava,Malcriado,lucha,Flexibilidad,Experto,4,"0,6",Agua 1|Humanoide,50%|50%,Marrón,304,258,240,218,218,179,0,1,0,0,0,0
+853,Grapploct,オトスパス (Otosupus),0,Octava,Jiu-Jitsu,lucha,Flexibilidad,Experto,39,"1,6",Agua 1|Humanoide,50%|50%,Azul,364,368,306,262,284,201,0,2,0,0,0,0
+854,Sinistea,ヤバチャ (Yabacha),1,Octava,Té,fantasma,Armadura frágil,Cuerpo maldito,"0,2","0,1",Mineral|Amorfo,Sin sexo,Morado,284,207,207,271,227,218,0,0,0,1,0,0
+855,Polteageist,ポットデス (Potdeath),0,Octava,Té,fantasma,Armadura frágil,Cuerpo maldito,"0,4","0,2",Mineral|Amorfo,Sin sexo,Morado,324,251,251,403,359,262,0,0,0,2,0,0
+856,Hatenna,ミブリム (Mibrim),1,Octava,Calma,psíquico,Alma cura|Anticipación,Espejo mágico,"3,4","0,4",Hada,0%|100%,Rosa,288,174,207,232,225,194,0,0,0,1,0,0
+857,Hattrem,テブリム (Tebrim),1,Octava,Serenidad,psíquico,Alma cura|Anticipación,Espejo mágico,"4,8","0,6",Hada,0%|100%,Rosa,318,196,251,298,269,216,0,0,0,2,0,0
+858,Hatterene,ブリムオン (Brimuon),0,Octava,Silencio,psíquico|hada,Alma cura|Anticipación,Espejo mágico,"5,1","2,1",Hada,0%|100%,Rosa,318,306,317,408,335,172,0,0,0,3,0,0
+859,Impidimp,ベロバー (Beroba),1,Octava,Astuto,siniestro|hada,Bromista|Cacheo,Hurto,"5,5","0,4",Hada|Humanoide,100%|0%,Rosa,294,207,174,229,196,218,0,0,0,1,0,0
+860,Morgrem,ギモー (Gimoh),1,Octava,Malicioso,siniestro|hada,Bromista|Cacheo,Hurto,"12,5","0,8",Hada|Humanoide,100%|0%,Rosa,334,240,207,273,229,262,0,0,0,2,0,0
+861,Grimmsnarl,オーロンゲ (Ohlonge),0,Octava,Voluminoso,siniestro|hada,Bromista|Cacheo,Hurto,61,"1,5",Hada|Humanoide,100%|0%,Morado,394,372,251,317,273,240,0,3,0,0,0,0
+862,Obstagoon,タチフサグマ (Tachifusaguma),0,Octava,Bloqueador,siniestro|normal,Audaz|Agallas,Competitivo,46,"1,6",Campo,50%|50%,Gris,390,306,331,240,287,317,0,0,3,0,0,0
+863,Perrserker,ニャイキング (Nyaiking),0,Octava,Vikingo,acero,Armadura batalla|Garra dura,Alma acerada,28,"0,8",Campo,50%|50%,Marrón,344,350,328,218,240,218,0,2,0,0,0,0
+864,Cursola,サニゴーン (Sunigoon),0,Octava,Coral,fantasma,Armadura frágil,Cuerpo mortal,"0,4",1,Agua 1|Agua 3,25%|75%,Blanco,324,317,218,427,394,174,0,0,0,2,0,0
+865,Sirfetch'd,ネギガナイト (Negigaknight),0,Octava,Pato salvaje,lucha,Impasible,Intrépido,117,"0,8",Volador|Campo,50%|50%,Blanco,328,405,317,258,289,251,0,2,0,0,0,0
+866,Mr. Rime,バリコオル (Barrikohru),0,Octava,Cómico,hielo|psíquico,Tumbos|Antibarrera,Gélido,"58,2","1,5",Humanoide,50%|50%,Morado,364,295,273,350,328,262,0,0,0,3,0,0
+867,Runerigus,デスバーン (Deathbarn),0,Octava,Resquemor,tierra|fantasma,Alma errante,,"66,6","1,6",Mineral|Amorfo,50%|50%,Gris,320,317,427,218,339,174,0,0,2,0,0,0
+868,Milcery,マホミル (Mahomil),1,Octava,Nata,hada,Velo dulce,Velo aroma,"0,3","0,2",Hada|Amorfo,0%|100%,Blanco,294,196,196,218,243,183,0,0,0,0,1,0
+869,Alcremie,マホイップ (Mawhip),1,Octava,Nata,hada,Velo dulce,Velo aroma,"0,5","0,3",Hada|Amorfo,0%|100%,BlancoCVCS|RosaCR|VerdeCT|AzulCM|AmarilloCLMRTS|MarrónMCVC,334,240,273,350,375,249,0,0,0,0,2,0
+870,Falinks,タイレーツ (Tairetsu),1,Octava,Formación,lucha,Armadura batalla,Competitivo,62,3,Hada|Mineral,Sin sexo,Amarillo,334,328,328,262,240,273,0,2,0,0,1,0
+871,Pincurchin,バチンウニ (Bachinuni),1,Octava,Erizo de Mar,eléctrico,Pararrayos,Electrogénesis,1,"0,3",Agua 1|Amorfo,50%|50%,Morado,300,331,317,309,295,141,0,2,0,0,0,0
+872,Snom,ユキハミ (Yukihami),1,Octava,Gusano,hielo|bicho,Polvo escudo,Escama de hielo,"3,8","0,3",Bicho,50%|50%,Blanco,264,163,185,207,174,152,0,0,0,1,0,0
+873,Frosmoth,モスノウ (Mothnow),0,Octava,Polillahielo,hielo|bicho,Polvo escudo,Escama de hielo,42,"1,3",Bicho,50%|50%,Blanco,344,251,240,383,306,251,0,0,0,2,0,0
+874,Stonjourner,イシヘンジン (Ishihengin),1,Octava,Megalito,roca,Fuente energía,,520,"2,5",Mineral,50%|50%,Gris,404,383,405,152,152,262,0,0,2,0,0,0
+875,Eiscue,コオリッポ (Korippo),1,Octava,Pingüino,hielo,Cara de hielo,,89,"1,4",Agua 1|Campo,50%|50%,Azul,354,284,350,251,306,218,0,0,2,0,0,0
+876,Indeedee,イエッサン (Yessan),1,Octava,Sensorio,psíquico|normal,Fuerza mentalM|Ritmo propioH|Sincronía,Psicogénesis,28,"0,9",Hada,50%|50%,Morado,324,251,229,339,317,317,0,0,0,2,0,0
+877,Morpeko,モルペコ (Morpeko),1,Octava,Dos caras,eléctrico|siniestro,Mutapetito,,3,"0,3",Campo|Hada,50%|50%,Amarillo,320,317,236,262,236,322,0,0,0,0,0,2
+878,Cufant,ゾウドウ (Zoudou),1,Octava,Broncefante,acero,Potencia bruta,Metal pesado,100,"1,2",Campo|Mineral,50%|50%,Amarillo,348,284,216,196,216,196,0,1,0,0,0,0
+879,Copperajah,ダイオウドウ (Daioudou),0,Octava,Broncefante,acero,Potencia bruta,Metal pesado,650,3,Campo|Mineral,50%|50%,Verde,448,394,260,284,260,174,0,2,0,0,0,0
+880,Dracozolt,パッチラゴン (Patchiragon),1,Octava,Fósil,eléctrico|dragón,Absorbe electricidad|Entusiasmo,Ímpetu arena,190,"1,8",Desconocido,Sin sexo,Verde,384,328,306,284,262,273,0,2,0,0,0,0
+881,Arctozolt,パッチルドン (Patchilldon),1,Octava,Fósil,eléctrico|hielo,Absorbe electricidad|Electricidad estática,Quitanieves,150,"2,3",Desconocido,Sin sexo,Azul,384,328,306,306,284,229,0,2,0,0,0,0
+882,Dracovish,ウオノラゴン (Uonoragon),1,Octava,Fósil,agua|dragón,Absorbe agua|Mandíbula fuerte,Ímpetu arena,215,"2,3",Desconocido,Sin sexo,Verde,384,306,328,262,284,273,0,0,2,0,0,0
+883,Arctovish,ウオチルドン (Uochilldon),1,Octava,Fósil,agua|hielo,Absorbe agua|Gélido,Quitanieves,175,2,Desconocido,Sin sexo,Azul,384,306,328,284,306,229,0,0,2,0,0,0
+884,Duraludon,ジュラルドン (Duraludon),1,Octava,Aleación,acero|dragón,Metal liviano|Metal pesado,Acérrimo,40,"1,8",Mineral|Dragón,50%|50%,Blanco,344,317,361,372,218,295,0,0,0,2,0,0
+885,Dreepy,ドラメシヤ (Dorameshiya),1,Octava,Resentido,dragón|fantasma,Cuerpo puro|Allanamiento,Cuerpo maldito,2,"0,5",Amorfo|Dragón,50%|50%,Verde,260,240,174,196,174,289,0,0,0,0,0,1
+886,Drakloak,ドロンチ (Doronch),1,Octava,Cuidador,dragón|fantasma,Cuerpo puro|Allanamiento,Cuerpo maldito,11,"1,4",Amorfo|Dragón,50%|50%,Verde,340,284,218,240,218,333,0,0,0,0,0,2
+887,Dragapult,ドラパルト (Dorapult),0,Octava,Furtivo,dragón|fantasma,Cuerpo puro|Allanamiento,Cuerpo maldito,50,3,Amorfo|Dragón,50%|50%,Verde,380,372,273,328,273,421,0,0,0,0,0,3
+888,Zacian,ザシアン (Zacian),1,Octava,Guerrero,hada|hada|acero,Espada indómita,,"110,0GA|355,0ES","2,8",Desconocido,Sin sexo,Azul,388,394,361,284,361,412,0,0,0,0,0,3
+889,Zamazenta,ザマゼンタ (Zamazenta),1,Octava,Guerrero,lucha|lucha|acero,Escudo recio,,"210,0GA|785,0ES","2,9",Desconocido,Sin sexo,Rojo,388,394,361,284,361,412,0,0,0,0,0,3
+890,Eternatus,ムゲンダイナ (Mugendina),1,Octava,Gigantesco,veneno|dragón,Presión,,950,20,Desconocido,Sin sexo,Morado,484,295,317,427,317,394,3,0,0,0,0,0
+891,Kubfu,ダクマ (Dakuma),1,Octava,Kung-Fu,lucha,Fuerza mental,,12,"0,6",Desconocido,"87,5%|12,5%",Gris,324,306,240,225,218,267,0,1,0,0,0,0
+892,Urshifu,ウーラオス (Wulaosu),1,Octava,Kung-fu,lucha|siniestro|lucha|agua,Puño invisible,,105,"1,9",Desconocido,"87,5%|12,5%",Gris,404,394,328,247,240,322,0,3,0,0,0,0
+893,Zarude,ザルード (Zarude),1,Octava,Simiestro,siniestro|planta,Defensa hoja,,70,"1,8",Desconocido,Sin sexo,Verde,414,372,339,262,317,339,0,3,0,0,0,0
+894,Regieleki,レジエレキ (Regieleki),1,Octava,Electrón,eléctrico,Transistor,,145,"1,2",Desconocido,Sin sexo,Amarillo,364,328,218,328,218,548,0,0,0,0,0,3
+895,Regidrago,レジドラゴ (Regidrago),1,Octava,Dragosfera,dragón,Mandíbula dragón,,200,"2,1",Desconocido,Sin sexo,Verde,604,328,218,328,218,284,3,0,0,0,0,0
+896,Glastrier,ブリザポス (Blizzapos),1,Octava,Corcel Feroz,hielo,Relincho blanco,,800,"2,2",Desconocido,Sin sexo,Blanco,404,427,394,251,350,174,0,3,0,0,0,0
+897,Spectrier,レイスポス (Wraithpos),1,Octava,Corcel Veloz,fantasma,Relincho negro,,"44,5",2,Desconocido,Sin sexo,Negro,404,251,240,427,284,394,0,0,0,3,0,0
+898,Calyrex,バドレックス (Budrex),1,Octava,ReyC|EmperadorJGJE,psíquico|planta|psíquico|hielo|psíquico|fantasma,NerviosismoC|Unidad ecuestreJGJE,,"7,7C|809,1JG|53,6JE","1,1C|2,4JG|2,4JE",Desconocido,Sin sexo,VerdeC|BlancoJG|NegroJE,404,284,284,284,284,284,3,0,0,0,0,0
+899,Wyrdeer,アヤシシ (Ayashishi),0,Octava,Gran cuerno,normal|psíquico,Intimidación|Cacheo,Herbívoro,"95,1","1,8",Campo,50%|50%,Gris,410,339,267,339,273,251,0,1,0,1,0,0
+900,Kleavor,バサギリ (Basagiri),0,Octava,Hacha,bicho|roca,Enjambre|Potencia bruta,Cortante1,89,"1,8",Bicho,50%|50%,Marrón,344,405,317,207,262,295,0,2,0,0,0,0
+901,Ursaluna,ガチグマ (Gachiguma),0,Octava,Turba,tierra|normal,Agallas|Antibalas|Ojo mentalLc,Nerviosismo,"290,0 Kg|333,0 KgLc","2,4|2,7Lc",Campo,50%|50%,Marrón,464,416,339,207,284,218,0,3,0,0,0,0
+902,Basculegion,イダイトウ (Idaitou),0,Octava,Gran Pez,agua|fantasma,Nado rápido1|Adaptable,Rompemoldes,110,3,Agua 2,50%|50%,Verde,444,355,251,284,273,280,2,0,0,0,0,0
+903,Sneasler,オオニューラ (Ohnyula),0,Octava,Escalada,lucha|veneno,Presión|Liviano1,Toque tóxico,43,"1,3",Campo,50%|50%,Gris,364,394,240,196,284,372,0,2,0,0,0,0
+904,Overqwil,ハリーマン (Haryman),0,Octava,Espinoso,siniestro|veneno,Nado rápido|Punto tóxico,Intimidación,"60,5","2,5",Agua 2,50%|50%,Negro,374,361,317,251,251,295,0,2,0,0,0,0
+905,Enamorus,ラブトロス (Lovetolos),1,Octava,Amorodio,hada|volador,Gran encantoFA1|FundaFT,RespondónFA,48,"1,6",Desconocido,0%|100%,Rosa,352,361,262,405,284,342,0,0,0,3,0,0
+906,Sprigatito,ニャオハ (Nyahoja),1,Novena,Gato Planta,planta,Espesura,Mutatipo,"4,1","0,4",Campo|Planta,"87,5%|12,5%",Verde,284,243,227,207,207,251,0,0,0,0,0,1
+907,Floragato,ニャローテ (Nyarote),1,Novena,Gato Planta,planta,Espesura,Mutatipo,"12,2","0,9",Campo|Planta,"87,5%|12,5%",Verde,326,284,247,240,247,291,0,0,0,0,0,2
+908,Meowscarada,マスカーニャ (Masquernya),0,Novena,Mago,planta|siniestro,Espesura,Mutatipo,"31,2","1,5",Campo|Planta,"87,5%|12,5%",Verde,356,350,262,287,262,379,0,0,0,0,0,3
+909,Fuecoco,ホゲータ (Hogator),1,Novena,Fuegodrilo,fuego,Mar llamas,Ignorante,"9,8","0,4",Campo,"87,5%|12,5%",Rojo,338,207,238,247,196,188,1,0,0,0,0,0
+910,Crocalor,アチゲータ (Achigator),1,Novena,Fuegodrilo,fuego,Mar llamas,Ignorante,"30,7",1,Campo,"87,5%|12,5%",Rojo,366,229,280,306,236,216,0,0,0,2,0,0
+911,Skeledirge,ラウドボーン (Laudbon),0,Novena,Cantante,fuego|fantasma,Mar llamas,Ignorante,"326,5","1,6",Campo,"87,5%|12,5%",Rojo,412,273,328,350,273,254,0,0,0,3,0,0
+912,Quaxly,クワッス (Kuwassu),1,Novena,Patito,agua,Torrente,Autoestima,"6,1","0,5",Volador|Agua 1,"87,5%|12,5%",Blanco,314,251,207,218,207,218,0,1,0,0,0,0
+913,Quaxwell,ウェルカモ (Welkamo),1,Novena,Disciplinado,agua,Torrente,Autoestima,"21,5","1,2",Volador|Agua 1,"87,5%|12,5%",Azul,344,295,251,251,240,251,0,2,0,0,0,0
+914,Quaquaval,ウェーニバル (Wanival),0,Novena,Bailarín,agua|lucha,Torrente,Autoestima,"61,9","1,8",Volador|Agua 1,"87,5%|12,5%",Azul,374,372,284,295,273,295,0,3,0,0,0,0
+915,Lechonk,グルトン (Gourton),1,Novena,Gorrino,normal,Velo aroma|Gula,Sebo,"10,2","0,5",Campo,50%|50%,Gris,312,207,196,185,207,185,1,0,0,0,0,0
+916,Oinkologne,パフュートン (Perfuton),0,Novena,Gorrino,normal,Olor persistenteM|Velo aromaH|Gula,Sebo,120,1,Campo,50%|50%,GrisM|MarrónH,424,328,273,238,284,251,2,0,0,0,0,0
+917,Tarountula,タマンチュラ (Tamantula),1,Novena,Ovillo,bicho,Insomnio,Vigilante,4,"0,3",Bicho,50%|50%,Blanco,274,199,207,172,196,152,0,0,1,0,0,0
+918,Spidops,ワナイダー (Wanaider),0,Novena,Trampa,bicho,Insomnio,Vigilante,"16,5",1,Bicho,50%|50%,Verde,324,282,311,223,298,185,0,0,2,0,0,0
+919,Nymble,マメバッタ (Mamebatta),1,Novena,Saltamontes,bicho,Enjambre,Cromolente,1,"0,2",Bicho,50%|50%,Gris,270,210,196,155,163,207,0,0,0,0,0,1
+920,Lokix,エクスレッグ (Exleg),0,Novena,Saltamontes,bicho|siniestro,Enjambre,Cromolente,"17,5",1,Bicho,50%|50%,Gris,346,333,280,223,229,311,0,2,0,0,0,0
+921,Pawmi,パモ (Pamo),1,Novena,Ratón,eléctrico,Electricidad estática|Cura natural,Puño férreo,"2,5","0,3",Campo,50%|50%,Amarillo,294,218,152,196,163,240,0,0,0,0,0,1
+922,Pawmo,パモット (Pamot),1,Novena,Ratón,eléctrico|lucha,Absorbe electricidad|Cura natural,Puño férreo,"6,5","0,4",Campo,50%|50%,Amarillo,324,273,196,218,196,295,0,0,0,0,0,2
+923,Pawmot,パーモット (Parmot),0,Novena,Palmada,eléctrico|lucha,Absorbe electricidad|Cura natural,Puño férreo,41,"0,9",Campo,50%|50%,Amarillo,344,361,262,262,240,339,0,3,0,0,0,0
+924,Tandemaus,ワッカネズミ (Wakkanezumi),1,Novena,Pareja,normal,Recogida|Fuga,Ritmo propio,"1,8","0,3",Campo|Hada,Sin sexo,Blanco,304,218,207,196,207,273,0,0,0,0,0,1
+925,Maushold,イッカネズミ (Ikkanezumi),0,Novena,Familia,normal,Compiescolta|Carrillo,Experto,"2,3FdT|2,8FdC","0,3",Campo|Hada,Sin sexo,Blanco,352,273,262,251,273,353,0,0,0,0,0,2
+926,Fidough,パピモッチ (Pupimocchi),1,Novena,Perrito,hada,Ritmo propio,Zoquete,"10,9","0,3",Campo|Mineral,50%|50%,Amarillo,278,229,262,174,229,251,0,0,0,0,0,1
+927,Dachsbun,バウッツェル (Bowtzel),0,Novena,Perro,hada,Cuerpo horneado,Velo aroma,"14,9","0,5",Campo|Mineral,50%|50%,Marrón,318,284,361,218,284,317,0,0,0,0,0,2
+928,Smoliv,ミニーブ (Minive),1,Novena,Aceituna,planta|normal,Madrugar,Cosecha,"6,5","0,3",Planta,50%|50%,Verde,286,185,207,236,221,174,0,0,0,1,0,0
+929,Dolliv,オリーニョ (Olinyo),1,Novena,Aceituna,planta|normal,Madrugar,Cosecha,"11,9","0,6",Planta,50%|50%,Verde,308,225,240,280,280,181,0,0,0,2,0,0
+930,Arboliva,オリーヴァ (Oliva),0,Novena,Aceituna,planta|normal,Disemillar,Cosecha,"48,2","1,4",Planta,50%|50%,Verde,360,260,306,383,348,194,0,0,0,3,0,0
+931,Squawkabilly,イキリンコ (Ikirinko),1,Novena,Loro,normal|volador,Intimidación|Entusiasmo,AgallasPVPAz|Potencia brutaPAmPB,"2,4","0,6",Volador,50%|50%,VerdePV|AzulPAz|AmarilloPAm|BlancoPB,368,320,221,207,221,311,0,1,0,0,0,0
+932,Nacli,コジオ (Kojio),1,Novena,Halita,roca,Sal purificadora|Robustez,Cuerpo puro,16,"0,4",Mineral,50%|50%,Marrón,314,229,273,185,185,163,0,0,1,0,0,0
+933,Naclstack,ジオヅム (Jiodumu),1,Novena,Halita,roca,Sal purificadora|Robustez,Cuerpo puro,"100,5","0,6",Mineral,50%|50%,Marrón,324,240,328,185,251,185,0,0,2,0,0,0
+934,Garganacl,キョジオーン (Kyojiohn),0,Novena,Halita,roca,Sal purificadora|Robustez,Cuerpo puro,240,"2,3",Mineral,50%|50%,Marrón,404,328,394,207,306,185,0,0,3,0,0,0
+935,Charcadet,カルボウ (Carbou),1,Novena,Piroescudero,fuego,Absorbe fuego,Cuerpo llama,"10,5","0,6",Humanoide,50%|50%,Rojo,284,218,196,218,196,185,0,0,0,1,0,0
+936,Armarouge,グレンアルマ (Gurenarma),0,Novena,Piroguerrero,fuego|psíquico,Absorbe fuego,Armadura frágil,85,"1,5",Humanoide,50%|50%,Rojo,374,240,328,383,284,273,0,0,0,2,0,0
+937,Ceruledge,ソウブレイズ (Soublades),0,Novena,Piroespada,fuego|fantasma,Absorbe fuego,Armadura frágil,62,"1,6",Humanoide,50%|50%,Azul,354,383,284,240,328,295,0,2,0,0,0,0
+938,Tadbulb,ズピカ (Zupika),1,Novena,Electrocuajo,eléctrico,Ritmo propio|Electricidad estática,Humedad,"0,4","0,3",Agua 1,50%|50%,Amarillo,326,177,199,238,185,207,1,0,0,0,0,0
+939,Bellibolt,ハラバリー (Harabarie),0,Novena,Electrorrana,eléctrico,Dinamo|Electricidad estática,Humedad,113,"1,2",Agua 1,50%|50%,Verde,422,249,309,335,291,207,2,0,0,0,0,0
+940,Wattrel,カイデン (Kaiden),1,Novena,Paíño,eléctrico|volador,Energía eólica|Absorbe electricidad,Tenacidad,"3,6","0,4",Agua 1|Volador,50%|50%,Negro,284,196,185,229,196,262,0,0,0,0,0,1
+941,Kilowattrel,タイカイデン (Taikaiden),0,Novena,Fregata,eléctrico|volador,Energía eólica|Absorbe electricidad,Tenacidad,"38,6","1,4",Agua 1|Volador,50%|50%,Amarillo,344,262,240,339,240,383,0,0,0,0,0,2
+942,Maschiff,オラチフ (Orachiff),1,Novena,Bisoño,siniestro,Intimidación|Fuga,Vigilante,16,"0,5",Campo,50%|50%,Marrón,324,280,240,196,221,221,0,1,0,0,0,0
+943,Mabosstiff,マフィティフ (Mafitiff),0,Novena,Jefazo,siniestro,Intimidación|Perro guardián,Vigilante,61,"1,1",Campo,50%|50%,Gris,364,372,306,240,262,295,0,2,0,0,0,0
+944,Shroodle,シルシュルー (Shirushrew),1,Novena,Ratón Veneno,veneno|normal,Liviano|Hurto,Bromista,"0,7","0,2",Campo,50%|50%,Gris,284,251,185,196,185,273,0,0,0,0,0,1
+945,Grafaiai,タギングル (Taggingru),0,Novena,Mono Veneno,veneno|normal,Liviano|Toque tóxico,Bromista,"27,2","0,7",Campo,50%|50%,Gris,330,317,251,284,267,350,0,0,0,0,0,2
+946,Bramblin,アノクサ (Anokusa),1,Novena,Estepicursor,planta|fantasma,Surcavientos,Allanamiento,"0,6","0,6",Planta,50%|50%,Marrón,284,251,174,207,185,240,0,1,0,0,0,0
+947,Brambleghast,アノホラグサ (Anohoragusa),0,Novena,Estepicursor,planta|fantasma,Surcavientos,Allanamiento,6,"1,2",Planta,50%|50%,Marrón,314,361,262,284,262,306,0,2,0,0,0,0
+948,Toedscool,ノノクラゲ (Nonokurage),1,Novena,Auricularia,tierra|planta,Poder fúngico,,33,"0,9",Planta,50%|50%,Amarillo,284,196,185,218,328,262,0,0,0,0,1,0
+949,Toedscruel,リククラゲ (Rikukurage),0,Novena,Auricularia,tierra|planta,Poder fúngico,,58,"1,9",Planta,50%|50%,Negro,364,262,251,284,372,328,0,0,0,0,2,0
+950,Klawf,ガケガニ (Gakegani),1,Novena,Emboscada,roca,Coraza ira|Caparazón,Regeneración,79,"1,3",Agua 3,50%|50%,Rojo,344,328,361,185,229,273,0,0,2,0,0,0
+951,Capsakid,カプサイジ (Capsaiji),1,Novena,Habanero,planta,Clorofila|Insomnio,Zoquete,3,"0,3",Planta,50%|50%,Verde,304,245,196,245,196,218,0,1,0,0,0,0
+952,Scovillain,スコヴィラン (Scovillain),0,Novena,Habanero,planta|fuego,Clorofila|Insomnio,Veleta,15,"0,9",Planta,50%|50%,Verde,334,346,251,346,251,273,0,2,0,0,0,0
+953,Rellor,シガロコ (Shigaroko),1,Novena,Pelotero,bicho,Ojo compuesto,Mudar,1,"0,2",Bicho,50%|50%,Marrón,286,218,240,177,236,174,0,0,1,0,0,0
+954,Rabsca,ベラカス (Beracas),0,Novena,Pelotero,bicho|psíquico,Sincronía,Telepatía,"3,5","0,3",Bicho,50%|50%,Verde,354,218,295,361,328,207,0,0,0,0,2,0
+955,Flittle,ヒラヒナ (Hirahina),1,Novena,Volantes,psíquico,Anticipación|Cacheo,Impulso,"1,5","0,2",Volador,50%|50%,Amarillo,264,185,174,229,174,273,0,0,0,0,0,1
+956,Espathra,クエスパトラ (Cuespatra),0,Novena,Avestruz,psíquico,Oportunista|Cacheo,Impulso,90,"1,9",Volador,50%|50%,Amarillo,394,240,240,331,240,339,0,0,0,0,0,2
+957,Tinkatink,カヌチャン (Kanuchan),1,Novena,Forja,hada|acero,Rompemoldes|Ritmo propio,Hurto,"8,9","0,4",Hada,0%|100%,Rosa,304,207,207,185,249,236,0,0,0,0,1,0
+958,Tinkatuff,ナカヌチャン (Nakanuchan),1,Novena,Martillo,hada|acero,Rompemoldes|Ritmo propio,Hurto,"59,1","0,7",Hada,0%|100%,Rosa,334,229,229,207,289,280,0,0,0,0,2,0
+959,Tinkaton,デカヌチャン (Dekanuchan),0,Novena,Martillo,hada|acero,Rompemoldes|Ritmo propio,Hurto,"112,8","0,7",Hada,0%|100%,Rosa,374,273,278,262,339,315,0,0,0,0,3,0
+960,Wiglett,ウミディグダ (Umidigda),1,Novena,Cóngrido,agua,Baba|Cobardía,Velo arena,"1,8","1,2",Agua 3,50%|50%,Blanco,224,229,163,185,163,317,0,0,0,0,0,1
+961,Wugtrio,ウミトリオ (Umitrio),0,Novena,Cóngrido,agua,Baba|Cobardía,Velo arena,"5,4","1,2",Agua 3,50%|50%,Rojo,274,328,218,218,262,372,0,0,0,0,0,2
+962,Bombirdier,オトシドリ (Otoshidori),1,Novena,Arrojador,volador|siniestro,Sacapecho|Vista lince,Transportarrocas,"42,9","1,5",Volador,50%|50%,Blanco,344,335,295,240,295,289,0,2,0,0,0,0
+963,Finizen,ナミイルカ (Namiiruka),1,Novena,Delfín,agua,Velo agua,,"60,2","1,3",Campo|Agua 2,50%|50%,Azul,344,207,196,207,196,273,0,0,0,0,0,1
+964,Palafin,イルカマン (Irukaman),0,Novena,Delfín,agua,Cambio heroico,,"60,2FI|97,4FH","1,3FI|1,8FH",Campo|Agua 2,50%|50%,Azul,404,262,267,225,245,328,2,0,0,0,0,0
+965,Varoom,ブロロン (Buroron),1,Novena,Monocilindro,acero|veneno,Funda,Inicio lento,"3,5",1,Mineral,50%|50%,Gris,294,262,247,174,207,212,0,1,0,0,0,0
+966,Revavroom,ブロロローム (Burororoom),0,Novena,Policilindro,acero|veneno,Funda,Filtro,120,"1,8",Mineral,50%|50%,Gris,364,370,306,227,256,306,0,2,0,0,0,0
+967,Cyclizar,モトトカゲ (Mototokage),1,Novena,Montura,dragón|normal,Mudar,Regeneración,63,"1,6",Campo,50%|50%,Verde,344,317,251,295,251,375,0,0,0,0,0,2
+968,Orthworm,ミミズズ (Mimizuzu),1,Novena,Lombriz,acero,Geofagia,Velo arena,310,"2,5",Campo,50%|50%,Rosa,344,295,427,240,229,251,0,0,2,0,0,0
+969,Glimmet,キラーメ (Kirame),1,Novena,Mineral,roca|veneno,Capa tóxica,Corrosión,8,"0,7",Mineral,50%|50%,Azul,300,185,201,339,240,240,0,0,0,1,0,0
+970,Glimmora,キラフロル (Kiraflor),0,Novena,Mineral,roca|veneno,Capa tóxica,Corrosión,45,"1,5",Mineral,50%|50%,Azul,370,229,306,394,287,298,0,0,0,2,0,0
+971,Greavard,ボチ (Bochi),1,Novena,Can Fantasma,fantasma,Recogida,Peluche,35,"0,6",Campo,50%|50%,Blanco,304,243,240,174,229,183,0,1,0,0,0,0
+972,Houndstone,ハカドッグ (Hakadog),0,Novena,Can Fantasma,fantasma,Ímpetu arena,Peluche,15,2,Campo,50%|50%,Blanco,348,331,328,218,322,258,0,2,0,0,0,0
+973,Flamigo,カラミンゴ (Karamingo),1,Novena,Sincronizado,volador|lucha,Intrépido|Tumbos,Unísono,37,"1,6",Volador,50%|50%,Rosa,368,361,271,273,249,306,0,2,0,0,0,0
+974,Cetoddle,アルクジラ (Arukujira),1,Novena,Geoballena,hielo,Sebo|Manto níveo,Potencia bruta,45,"1,2",Campo,50%|50%,Blanco,420,258,207,174,196,203,1,0,0,0,0,0
+975,Cetitan,ハルクジラ (Hulkujira),0,Novena,Geoballena,hielo,Sebo|Quitanieves,Potencia bruta,700,"4,5",Campo,50%|50%,Blanco,544,357,251,207,229,269,2,0,0,0,0,0
+976,Veluza,ミガルーサ (Migalusa),1,Novena,Sueltalastre,agua|psíquico,Rompemoldes,Cortante,90,"2,5",Agua 2,50%|50%,Gris,384,333,269,280,251,262,0,2,0,0,0,0
+977,Dondozo,ヘイラッシャ (Heyrusher),1,Novena,Gran Siluro,agua,Ignorante|Despiste,Velo agua,220,12,Agua 2,50%|50%,Azul,504,328,361,251,251,185,3,0,0,0,0,0
+978,Tatsugiri,シャリタツ (Syaritatsu),1,Novena,Mimetismo,dragón|agua,Comandar,Colector,8,"0,3",Agua 2,50%|50%,RojoFC|RosaFL|AmarilloFR,340,218,240,372,317,289,0,0,0,2,0,0
+979,Annihilape,コノヨザル (Konoyozaru),0,Novena,Mono Furia,lucha|fantasma,Espíritu vital|Fuerza mental,Competitivo,56,"1,2",Campo,50%|50%,Gris,424,361,284,218,306,306,0,3,0,0,0,0
+980,Clodsire,ドオー (Dooh),0,Novena,Pez Púas,veneno|tierra,Punto tóxico|Absorbe agua,Ignorante,223,"1,8",Agua 1|Campo,50%|50%,Marrón,464,273,240,207,328,152,2,0,0,0,0,0
+981,Farigiraf,リキキリン (Rikikirin),0,Novena,Gran Cuello,normal|psíquico,Rumia|Cola armadura,Herbívoro,160,"3,2",Campo,50%|50%,Marrón,444,306,262,350,262,240,3,0,0,0,0,0
+982,Dudunsparce,ノココッチ (Nokokocchi),0,Novena,Serpiente tierra,normal,Dicha|Fuga,Cobardía,"39,2Fb|47,4Ft","3,6Fb|4,5Ft",Campo,50%|50%,Amarillo,454,328,284,295,273,229,2,0,0,0,0,0
+983,Kingambit,ドドゲザン (Dodogezan),0,Novena,Gran Espada,siniestro|acero,Competitivo|General supremo,Presión,120,2,Humanoide,50%|50%,Negro,404,405,372,240,295,218,0,3,0,0,0,0
+984,Colmilargo,イダイナキバ (Idainakiba),1,Novena,Paradoja,tierra|lucha,Paleosíntesis,,320,"2,2",Desconocido,Sin sexo,Morado,434,397,397,225,225,300,0,3,0,0,0,0
+985,Colagrito,サケブシッポ (Sakebushippo),1,Novena,Paradoja,hada|psíquico,Paleosíntesis,,8,"1,2",Desconocido,Sin sexo,Rosa,434,251,326,251,361,353,3,0,0,0,0,0
+986,Furioseta,アラブルタケ (Araburutake),1,Novena,Paradoja,planta|siniestro,Paleosíntesis,,21,"1,2",Desconocido,Sin sexo,Gris,426,388,326,282,326,229,0,3,0,0,0,0
+987,Melenaleteo,ハバタクカミ (Habatakukami),1,Novena,Paradoja,fantasma|hada,Paleosíntesis,,4,"1,4",Desconocido,Sin sexo,Gris,314,229,229,405,405,405,0,0,0,1,1,1
+988,Reptalada,チヲハウハネ (Chiwohauhane),1,Novena,Paradoja,bicho|lucha,Paleosíntesis,,92,"3,2",Desconocido,Sin sexo,Rojo,374,405,282,295,339,287,0,3,0,0,0,0
+989,Pelarena,スナノケガワ (Sunanokegawa),1,Novena,Paradoja,eléctrico|tierra,Paleosíntesis,,60,"2,3",Desconocido,Sin sexo,Gris,374,287,322,375,295,331,0,0,0,3,0,0
+990,Ferrodada,テツノワダチ (Tetsunowadachi),1,Novena,Paradoja,tierra|acero,Carga cuark,,240,"0,9",Desconocido,Sin sexo,Gris,384,355,372,267,262,342,0,0,3,0,0,0
+991,Ferrosaco,テツノツツミ (Tetsunotsutsumi),1,Novena,Paradoja,hielo|agua,Carga cuark,,11,"0,6",Desconocido,Sin sexo,Rojo,316,284,359,381,240,408,0,0,0,0,0,3
+992,Ferropalmas,テツノカイナ (Tetsunokaina),1,Novena,Paradoja,lucha|eléctrico,Carga cuark,,"380,7","1,8",Desconocido,Sin sexo,Gris,512,416,346,218,258,218,0,3,0,0,0,0
+993,Ferrocuello,テツノコウベ (Tetsunokoube),1,Novena,Paradoja,siniestro|volador,Carga cuark,,111,"1,3",Desconocido,Sin sexo,Azul,392,284,298,377,284,346,0,0,0,3,0,0
+994,Ferropolilla,テツノドクガ (Tetsunodokuga),1,Novena,Paradoja,fuego|veneno,Carga cuark,,36,"1,2",Desconocido,Sin sexo,Amarillo,364,262,240,416,350,350,0,0,0,3,0,0
+995,Ferropúas,テツノイバラ (Tetsunoibara),1,Novena,Paradoja,roca|eléctrico,Carga cuark,,303,"1,6",Desconocido,Sin sexo,Verde,404,403,350,262,293,267,0,3,0,0,0,0
+996,Frigibax,セビエ (Sebie),1,Novena,Aleta Hielo,dragón|hielo,Termoconversión,Gélido,17,"0,5",Dragón|Mineral,50%|50%,Gris,334,273,207,185,207,229,0,1,0,0,0,0
+997,Arctibax,セゴール (Segohru),1,Novena,Aleta Hielo,dragón|hielo,Termoconversión,Gélido,30,"0,8",Dragón|Mineral,50%|50%,Gris,384,317,254,207,251,245,0,2,0,0,0,0
+998,Baxcalibur,セグレイブ (Seglaive),0,Novena,Dragón Hielo,dragón|hielo,Termoconversión,Gélido,210,"2,1",Dragón|Mineral,50%|50%,Gris,434,427,311,273,298,300,0,3,0,0,0,0
+999,Gimmighoul,コレクレー (Collecurei),1,Novena,CofreFC|CazatesorosFA,fantasma,CobardíaFC|FugaFA,,"5,0FC|0,1FA","0,3FC|0,1FA",Desconocido,Sin sexo,Marrón,294,174,262,273,262,130,0,0,0,1,0,0
+1000,Gholdengo,サーフゴー (Surfugo),0,Novena,Tesoro,acero|fantasma,Cuerpo áureo,,30,"1,2",Desconocido,Sin sexo,Amarillo,378,240,317,401,309,293,0,0,0,2,0,0
+1001,Wo-Chien,チオンジェン (Chionjen),1,Novena,Debacle,siniestro|planta,Tablilla debacle,,"74,2","1,5",Desconocido,Sin sexo,Marrón,374,295,328,317,405,262,0,0,0,0,3,0
+1002,Chien-Pao,パオジアン (Paojian),1,Novena,Debacle,siniestro|hielo,Espada debacle,,"152,2","1,9",Desconocido,Sin sexo,Blanco,364,372,284,306,251,405,0,0,0,0,0,3
+1003,Ting-Lu,ディンルー (Dinlu),1,Novena,Debacle,siniestro|tierra,Caldero debacle,,"699,7","2,7",Desconocido,Sin sexo,Marrón,514,350,383,229,284,207,0,0,3,0,0,0
+1004,Chi-Yu,イーユイ (Yiyui),1,Novena,Debacle,siniestro|fuego,Abalorio debacle,,"4,9","0,4",Desconocido,Sin sexo,Rojo,314,284,284,405,372,328,0,0,0,3,0,0
+1005,Bramaluna,トドロクツキ (Todorokutsuki),1,Novena,Paradoja,dragón|siniestro,Paleosíntesis,,380,2,Desconocido,Sin sexo,Azul,414,414,265,229,331,370,0,3,0,0,0,0
+1006,Ferropaladín,テツノブジン (Tetsunobujin),1,Novena,Paradoja,hada|lucha,Carga cuark,,35,"1,4",Desconocido,Sin sexo,Blanco,352,394,306,372,240,364,0,3,0,0,0,0
+1007,Koraidon,コライドン (Koraidon),1,Novena,Paradoja,lucha|dragón,Latido oricalco,,303,"2,5",Desconocido,Sin sexo,Rojo,404,405,361,295,328,405,0,3,0,0,0,0
+1008,Miraidon,ミライドン (Miraidon),1,Novena,Paradoja,eléctrico|dragón,Motor hadrónico,,240,"3,5",Desconocido,Sin sexo,Morado,404,295,328,405,361,405,0,0,0,3,0,0
+1009,Ondulagua,ウネルミナモ (Uneruminamo),1,Novena,Paradoja,agua|dragón,Paleosíntesis,,280,"3,5",Desconocido,Sin sexo,Azul,402,291,309,383,291,348,0,0,0,3,0,0
+1010,Ferroverdor,テツノイサハ (Tetsunoisaha),1,Novena,Paradoja,planta|psíquico,Carga cuark,,125,"1,5",Desconocido,Sin sexo,Verde,384,394,302,262,346,337,0,3,0,0,0,0
+1011,Dipplin,カミッチュ (Kamicchu),1,Novena,Manzamelo,planta|dragón,Néctar dulce|Gula,Viscosidad,"4,4","0,4",Planta|Dragón,50%|50%,Verde,364,284,350,317,284,196,0,0,2,0,0,0
+1012,Poltchageist,チャデス (Chadeath),1,Novena,Matcha,planta|fantasma,Hospitalidad,Ignífugo,"1,1","0,1",Mineral|Amorfo,Sin sexo,Verde,284,207,207,271,227,218,0,0,0,1,0,0
+1013,Sinistcha,ヤバソチャ (Yabasocha),0,Novena,Matcha,planta|fantasma,Hospitalidad,Ignífugo,"2,2","0,2",Mineral|Amorfo,Sin sexo,Verde,346,240,342,375,284,262,0,0,0,2,0,0
+1014,Okidogi,イイネイヌ (Iineinu),1,Novena,Esbirro,veneno|lucha,Cadena tóxica,Perro guardián,92,"1,8",Desconocido,100%|0%,Negro,380,390,361,236,298,284,0,3,0,0,0,0
+1015,Munkidori,マシマシラ (Mashimashira),1,Novena,Esbirro,veneno|psíquico,Cadena tóxica,Cacheo,"12,2",1,Desconocido,100%|0%,Negro,380,273,254,394,306,342,0,0,0,3,0,0
+1016,Fezandipiti,キチキギス (Kichikigisu),1,Novena,Esbirro,veneno|hada,Cadena tóxica,Experto,"30,1","1,4",Desconocido,100%|0%,Negro,380,309,289,262,383,326,0,0,0,0,3,0
+1017,Ogerpon,オーガポン (Ogerpon),1,Novena,Máscara,planta|planta|agua|planta|fuego|planta|roca,CompetitivoMT|Absorbe aguaMF|RompemoldesMH|RobustezMC|EvocarrecuerdosT,,"39,8","1,2",Desconocido,0%|100%,VerdeMT|AzulMF|RojoMH|GrisMC,364,372,293,240,320,350,0,3,0,0,0,0
+1018,Archaludon,ブリジュラス (Briduras),0,Novena,Aleación,acero|dragón,Firmeza|Robustez,Acérrimo,60,2,Mineral|Dragón,50%|50%,Blanco,384,339,394,383,251,295,0,0,3,0,0,0
+1019,Hydrapple,カミツオロチ (Kamitsuorochi),0,Novena,Manzanhidra,planta|dragón,Néctar dulce|Regeneración,Viscosidad,93,"1,8",Planta|Dragón,50%|50%,Verde,416,284,350,372,284,205,0,0,0,3,0,0
+1020,Flamariete,ウガツホムラ (Ugatsuhomura),1,Novena,Paradoja,fuego|dragón,Paleosíntesis,,590,"3,5",Desconocido,Sin sexo,Marrón,414,361,375,251,313,309,0,0,3,0,0,0
+1021,Electrofuria,タケルライコ (Takeruraiko),1,Novena,Paradoja,eléctrico|dragón,Paleosíntesis,,480,"5,2",Desconocido,Sin sexo,Amarillo,454,269,309,410,304,273,0,0,0,3,0,0
+1022,Ferromole,テツノイワオ (Tetsunoiwao),1,Novena,Paradoja,roca|psíquico,Carga cuark,,"162,5","1,5",Desconocido,Sin sexo,Gris,384,372,284,258,346,381,0,0,0,0,0,3
+1023,Ferrotesta,テツノカシラ (Tetsunokashira),1,Novena,Paradoja,acero|psíquico,Carga cuark,,156,"1,6",Desconocido,Sin sexo,Azul,384,267,328,377,346,324,0,0,0,3,0,0
+1024,Terapagos,テラパゴス (Terapagos),1,Novena,Teracristal,normal,TeracambioFN|TeracaparazónFT|Teraformación 0FA|,,"6,5T|16,0FT|77,0FA","0,2T|0,3FT|1,7FA",Desconocido,50%|50%,Azul,384,251,295,251,295,240,0,0,1,0,0,0
+1025,Pecharunt,モモワロウ (Momowarou),1,Novena,Controlador,veneno|fantasma,Títere tóxico,,"0,3","0,3",Desconocido,Sin sexo,Morado,380,302,460,302,302,302,0,0,3,0,0,0
