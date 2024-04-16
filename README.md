@@ -1,10 +1,8 @@
-# Práctica 1 - Tipología y Ciclo de Vida de los Datos
-
-Asignatura: M2.851 / Semestre: 2023-2 / Fecha: 16-04-2024
+# Wikidex Web Scraper
 
 ## Autores
-  * Laura María Lidón Tárraga - [llidont@uoc.edu](llidont@uoc.edu)
-  * Carlos Juan Blanco - [cjuanbl@uoc.edu](cjuanbl@uoc.edu)
+  * Laura María Lidón Tárraga
+  * Carlos Juan Blanco - [carlosjuan98@gmail.com](carlosjuan98@gmail.com)
 
 ## Sitio web elegido
 [https://www.wikidex.net/wiki/WikiDex](https://www.wikidex.net/wiki/WikiDex)
